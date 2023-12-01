@@ -4,6 +4,70 @@
 
 This repository hosts a dataset of Kerala state's private bus schedule, initially available in PDF format, now conveniently converted to JSON. The dataset aims to offer detailed information about major bus stops, timings, vehicle number regarding private bus services in Kerala.
 
+## Structure
+```json
+{
+      "Vehicle Number": "KL 05 AQ 4567",
+      "route": [
+        "ALUVA BANK JUNCTION ",
+        "PULINCHODE SIGNAL JUNCTION ",
+        "COMPANYPADI ",
+        "MUTTOM "
+      ],
+      "schedule": [
+        {
+          "trip": 1,
+          "stations": [
+            {
+              "station": "ALUVA BANK JUNCTION ",
+              "arrivalTime": "05:00 am",
+              "departureTime": "05:00 am"
+            },
+            {
+              "station": "PULINCHODE SIGNAL JUNCTION ",
+              "arrivalTime": "05:07 am",
+              "departureTime": "05:07 am"
+            },
+            {
+              "station": "COMPANYPADI ",
+              "arrivalTime": "05:15 am",
+              "departureTime": "05:15 am"
+            },
+            {
+              "station": "MUTTOM ",
+              "arrivalTime": "05:18 am",
+              "departureTime": "05:18 am"
+            }
+          ]
+        },
+        {
+          "trip": 2,
+          "stations": [
+            {
+              "station": "MUTTOM ",
+              "arrivalTime": "05:19 am",
+              "departureTime": "05:19 am"
+            },
+            {
+              "station": "COMPANYPADI ",
+              "arrivalTime": "05:20 am",
+              "departureTime": "05:20 am"
+            },
+            {
+              "station": "PULINCHODE SIGNAL JUNCTION ",
+              "arrivalTime": "05:30 am",
+              "departureTime": "05:30 am"
+            },
+            {
+              "station": "ALUVA BANK JUNCTION ",
+              "arrivalTime": "05:55 am",
+              "departureTime": "05:55 am"
+            }
+          ]
+        }
+      ]
+    }
+```
 
 ## Disclaimer
 
