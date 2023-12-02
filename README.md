@@ -4,6 +4,8 @@
 
 This repository hosts a dataset of Kerala state's private bus schedule, initially available in PDF format, now conveniently converted to JSON. The dataset aims to offer detailed information about major bus stops, timings, vehicle number regarding private bus services in Kerala.
 
+If you find any parsing errors, please create a pull request (PR) or a raise an issue
+
 ## Structure
 ```json
 {
@@ -71,7 +73,7 @@ This repository hosts a dataset of Kerala state's private bus schedule, initiall
 
 ## Disclaimer
 
-This dataset is compiled from publicly available information and may not encompass the complete Kerala private bus schedule or accurate data that may caused by parsing. Users are advised to verify information from official sources or contact relevant authorities for the most accurate and up-to-date schedule details before making crucial decisions based on this data.
+This dataset is compiled from publicly available information and may not encompass the complete Kerala private bus schedule or accurate data(parsing errors). Users are advised to verify information from official sources or contact relevant authorities for the most accurate and up-to-date schedule details.
 
 ## Conversion Process
 
@@ -82,10 +84,10 @@ This dataset is compiled from publicly available information and may not encompa
    - Employed the [PDF Table Extractor tool](https://ronnywang.github.io/pdf-table-extractor/) to extract tabular data from the PDF files.
 
 3. **PDF Content to XML:**
-   - Used the `pdftohtml` command-line tool with options `-c -i -hidden -xml` to convert the PDF content to XML format.
+   - Used the `pdftohtml` command-line tool with options `-c -i -hidden -xml` to convert the PDF content to XML format.[Reference](https://datascience.blog.wzb.eu/2017/02/16/data-mining-ocr-pdfs-using-pdftabextract-to-liberate-tabular-data-from-scanned-documents/)
 
 4. **Preprocessing Script:**
-   - To remove unnecessary fields or data inconsistencies from the extracted json files, 
+   - To remove unnecessary fields or data inconsistencies from the extracted table data.
    ```py
     import json
     file_path = 'input.json'  
@@ -153,7 +155,7 @@ This dataset is compiled from publicly available information and may not encompa
    
    ```
 
-6. **Conversion to JSON :**
+6. **Conversion to Formatted JSON :**
    ```py
     import json
     from datetime import datetime
