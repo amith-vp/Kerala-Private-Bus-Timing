@@ -132,7 +132,7 @@ This dataset is compiled from publicly available information and may not encompa
             for text in page.findall("./text/b"):
                 text_content = text.text.strip() if text is not None and text.text is not None else ""
                 if text_content.startswith("Vehicle Number"):
-                    vehicle_number = text_content.split(":")[1].strip() if ":"in text_content else ""
+                    vehicle_number = text_content.split(":")[1].strip() if ":" in text_content else ""
             
         return vehicle_number
 
@@ -142,7 +142,7 @@ This dataset is compiled from publicly available information and may not encompa
         page_num = entry['page']
         vehicle_num = extract_details(page_num)
         prev_vehicle_num = extract_details(page_num-1)
-        if vehicle_num=="":
+        if vehicle_num=="" :
                 if not prev_vehicle_num=="":
                     vehicle_num = prev_vehicle_num
             
