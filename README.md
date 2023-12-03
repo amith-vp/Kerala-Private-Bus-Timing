@@ -11,32 +11,32 @@ If you find any parsing errors, please create a pull request (PR) or a raise an 
 {
       "Vehicle Number": "KL 05 AQ 4567",
       "route": [
-        "ALUVA BANK JUNCTION ",
-        "PULINCHODE SIGNAL JUNCTION ",
-        "COMPANYPADI ",
-        "MUTTOM "
+        "ALUVA BANK JUNCTION",
+        "PULINCHODE SIGNAL JUNCTION",
+        "COMPANYPADI",
+        "MUTTOM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": "ALUVA BANK JUNCTION ",
+              "station": "ALUVA BANK JUNCTION",
               "arrivalTime": "05:00 am",
               "departureTime": "05:00 am"
             },
             {
-              "station": "PULINCHODE SIGNAL JUNCTION ",
+              "station": "PULINCHODE SIGNAL JUNCTION",
               "arrivalTime": "05:07 am",
               "departureTime": "05:07 am"
             },
             {
-              "station": "COMPANYPADI ",
+              "station": "COMPANYPADI",
               "arrivalTime": "05:15 am",
               "departureTime": "05:15 am"
             },
             {
-              "station": "MUTTOM ",
+              "station": "MUTTOM",
               "arrivalTime": "05:18 am",
               "departureTime": "05:18 am"
             }
@@ -46,22 +46,22 @@ If you find any parsing errors, please create a pull request (PR) or a raise an 
           "trip": 2,
           "stations": [
             {
-              "station": "MUTTOM ",
+              "station": "MUTTOM",
               "arrivalTime": "05:19 am",
               "departureTime": "05:19 am"
             },
             {
-              "station": "COMPANYPADI ",
+              "station": "COMPANYPADI",
               "arrivalTime": "05:20 am",
               "departureTime": "05:20 am"
             },
             {
-              "station": "PULINCHODE SIGNAL JUNCTION ",
+              "station": "PULINCHODE SIGNAL JUNCTION",
               "arrivalTime": "05:30 am",
               "departureTime": "05:30 am"
             },
             {
-              "station": "ALUVA BANK JUNCTION ",
+              "station": "ALUVA BANK JUNCTION",
               "arrivalTime": "05:55 am",
               "departureTime": "05:55 am"
             }
