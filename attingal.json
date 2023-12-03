@@ -4,7 +4,7 @@
       "Vehicle Number": "KL 01 AA 8594",
       "route": [
         "KARETTE ",
-        "ANCHUTHENGU "
+        "ANCHUTHENGU"
       ],
       "schedule": [
         {
@@ -103,7 +103,7 @@
       "Vehicle Number": "KL 01 AB 678",
       "route": [
         "PANAYILKADAVU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -383,7 +383,7 @@
       "route": [
         "ATTINGAL ",
         "VAKKOM ",
-        "PANAYILKADAVU "
+        "PANAYILKADAVU"
       ],
       "schedule": [
         {
@@ -832,7 +832,7 @@
       "Vehicle Number": "KL 01 AD 678",
       "route": [
         "VAKKOM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -1202,7 +1202,7 @@
       "route": [
         "AYILAM ",
         "VAKKOM ",
-        "AYILAM "
+        "AYILAM"
       ],
       "schedule": [
         {
@@ -1407,7 +1407,7 @@
       "route": [
         "KALLARA ",
         "PALODE ",
-        "BANKUMUKKU "
+        "BANKUMUKKU"
       ],
       "schedule": [
         {
@@ -1539,7 +1539,7 @@
         "KILIMANOOR ",
         "PARIPALLY ",
         "PARAVOOR ",
-        "POZ HIKKARA "
+        "POZ HIKKARA"
       ],
       "schedule": [
         {
@@ -1732,7 +1732,7 @@
         "KILIMANOOR ",
         "NILAMEL ",
         "KADAKKAL,KL02 ",
-        "MADATHARA "
+        "MADATHARA"
       ],
       "schedule": [
         {
@@ -1951,7 +1951,7 @@
       "Vehicle Number": "KL 01 BV 678",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -2170,7 +2170,7 @@
       "Vehicle Number": "KL 01 CD 96",
       "route": [
         "ATTINGAL ",
-        "KAAPPIL "
+        "KAAPPIL"
       ],
       "schedule": [
         {
@@ -2333,7 +2333,7 @@
         "KALLAMBALAM ",
         "NEDUMPARAMBU ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -2553,7 +2553,7 @@
       "route": [
         "PULIMATH ",
         "KILIMANOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -2802,7 +2802,7 @@
       "Vehicle Number": "KL 01 W 2772",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -3024,7 +3024,7 @@
         "PARIPALLY ",
         "PALLIKKAL ",
         "KILIMANOOR ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -3215,7 +3215,7 @@
         "VELAMANOOR ",
         "PARIPALLY ",
         "VARKALA ",
-        "PARAMBIL TEMPLE "
+        "PARAMBIL TEMPLE"
       ],
       "schedule": [
         {
@@ -3426,7 +3426,7 @@
         "RATHICKAL ",
         "VARKALA ",
         "PARAVOOR ",
-        "KOTTIYAM "
+        "KOTTIYAM"
       ],
       "schedule": [
         {
@@ -3637,7 +3637,7 @@
         "KODIMOOTTIL TEMPLE ",
         "PARIPALLY ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -3996,7 +3996,7 @@
       "Vehicle Number": "KL 02 AL 8019",
       "route": [
         "NADAKKAL ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -4128,7 +4128,7 @@
         "PARIPALLY ",
         "PALLIKKAL ",
         "KILIMANOOR ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -4317,7 +4317,7 @@
       "Vehicle Number": "KL 02 R 7908",
       "route": [
         "ATTINGAL ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -4567,7 +4567,7 @@
       "route": [
         "PARIPALLY ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -4860,7 +4860,7 @@
         "ATTINGAL ",
         "KILIMANOOR ",
         "KALLAMBALAM ",
-        "NAVAIKULAM TEMPLE "
+        "NAVAIKULAM TEMPLE"
       ],
       "schedule": [
         {
@@ -5161,7 +5161,7 @@
         "PARAVOOR ",
         "KAAPPIL ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -5522,7 +5522,7 @@
         "KADAKKAVOOR ",
         "VARKALA ",
         "PARAVOOR ",
-        "POZ HIKKARA "
+        "POZ HIKKARA"
       ],
       "schedule": [
         {
@@ -5783,7 +5783,7 @@
         "ATTINGAL ",
         "KILIMANOOR ",
         "KADAKKAL ",
-        "ANCHAL "
+        "ANCHAL"
       ],
       "schedule": [
         {
@@ -5943,7 +5943,7 @@
       "route": [
         "PARIPALLY ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -6194,7 +6194,7 @@
         "ATTINGAL ",
         "CHIRAYINKEEZHU ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -6531,7 +6531,7 @@
         "PONGANADU ",
         "KALLAMBALAM ",
         "PALLIKKAL ",
-        "EERATTIL "
+        "EERATTIL"
       ],
       "schedule": [
         {
@@ -6822,7 +6822,7 @@
         "VAVARAMBALAM ",
         "VENGODE ",
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -7032,7 +7032,7 @@
       "route": [
         "PAZ HAKUTTY ",
         "PALODE ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -7165,7 +7165,7 @@
         "PANAYILKADAVU ",
         "AKATHUMURI ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -7596,7 +7596,7 @@
         "ATTINGAL ",
         "VENJARAMOODU ",
         "VENGODE ",
-        "16TH MILE STONE "
+        "16TH MILE STONE"
       ],
       "schedule": [
         {
@@ -7805,7 +7805,7 @@
       "Vehicle Number": "KL 16 234",
       "route": [
         "AYILAM ",
-        "VAKKOM "
+        "VAKKOM"
       ],
       "schedule": [
         {
@@ -7998,7 +7998,7 @@
         "OONNINMOODU ",
         "PARIPALLY ",
         "PALLIKKAL ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -8220,7 +8220,7 @@
         "CHARAYAM ",
         "KILIMANOOR ",
         "PONGANADU ",
-        "KALLAMBALAM "
+        "KALLAMBALAM"
       ],
       "schedule": [
         {
@@ -8470,7 +8470,7 @@
       "route": [
         "VARKALA ",
         "KADAKKAVOOR ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -8721,7 +8721,7 @@
         "VAVARAMBALAM ",
         "VENGODE ",
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -8932,7 +8932,7 @@
         "KAPPIL H S ",
         "VARKALA ",
         "KALLAMBALAM ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -9144,7 +9144,7 @@
         "KADAKKAVOOR ",
         "CHIRAYINKEEZ HU ",
         "MAMOM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -9484,7 +9484,7 @@
       "route": [
         "AYILAM ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -9774,7 +9774,7 @@
       "route": [
         "PAZ HAKUTTY ",
         "CHERUVALAM ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -9983,7 +9983,7 @@
       "Vehicle Number": "KL 16 C 9333",
       "route": [
         "AYILAM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -10383,7 +10383,7 @@
       "route": [
         "KALLAMBALAM ",
         "VELLALLOOR ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -10793,7 +10793,7 @@
       "route": [
         "KARETTE ",
         "ATTINGAL ",
-        "VAKKOM "
+        "VAKKOM"
       ],
       "schedule": [
         {
@@ -11003,7 +11003,7 @@
       "route": [
         "PARIPALLY ",
         "PALLIKKAL ",
-        "KILIMANOOR MARKET JUNCTION "
+        "KILIMANOOR MARKET JUNCTION"
       ],
       "schedule": [
         {
@@ -11292,7 +11292,7 @@
       "Vehicle Number": "KL 16 N 9001",
       "route": [
         "CHIRAYINKEEZ HU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -11722,7 +11722,7 @@
       "route": [
         "KARETTE ",
         "ATTINGAL ",
-        "MAMOM "
+        "MAMOM"
       ],
       "schedule": [
         {
@@ -12051,7 +12051,7 @@
       "Vehicle Number": "KL 16 Q 2772",
       "route": [
         "ATTINGAL ",
-        "KAAPPIL "
+        "KAAPPIL"
       ],
       "schedule": [
         {
@@ -12212,7 +12212,7 @@
         "ATTINGAL ",
         "KADAKKAVOOR ",
         "VARKALA ",
-        "MANTHARA TEMPLE "
+        "MANTHARA TEMPLE"
       ],
       "schedule": [
         {
@@ -12462,7 +12462,7 @@
       "route": [
         "VENJARAMOODU ",
         "ATTINGAL ",
-        "KOCHUPLAM PRIVATE BUS STAND "
+        "KOCHUPLAM PRIVATE BUS STAND"
       ],
       "schedule": [
         {
@@ -12713,7 +12713,7 @@
         "VARKALA ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -12973,7 +12973,7 @@
       "route": [
         "VAVARAMBALAM ",
         "CHIRAYINKEEZHU ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -13102,7 +13102,7 @@
       "Vehicle Number": "KL 16 8640",
       "route": [
         "KOCHUPALAM ",
-        "PALLIKKAL "
+        "PALLIKKAL"
       ],
       "schedule": [
         {
@@ -13381,7 +13381,7 @@
       "Vehicle Number": "KL 16 E 4422",
       "route": [
         "S N COLLEGE VARKALA ",
-        "S N COLLEGE VARKALA "
+        "S N COLLEGE VARKALA"
       ],
       "schedule": [
         {
@@ -13675,7 +13675,7 @@
       "Vehicle Number": "KL 16 P 8586",
       "route": [
         "VARKALA ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -13804,7 +13804,7 @@
       "Vehicle Number": "KL 01 AH 6464",
       "route": [
         "CHIRAYINKEEZ HU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -14144,7 +14144,7 @@
       "route": [
         "KARETTE ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -14396,7 +14396,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "VARKALA ",
-        "KAAPPIL "
+        "KAAPPIL"
       ],
       "schedule": [
         {
@@ -14638,7 +14638,7 @@
         "ATTINGAL ",
         "KILIMANOOR ",
         "KALLARA ",
-        "PALODE "
+        "PALODE"
       ],
       "schedule": [
         {
@@ -14823,7 +14823,7 @@
       "route": [
         "ATTINGAL ",
         "AYILAM ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -15175,7 +15175,7 @@
         "KALLAMBALAM ",
         "PONGANADU ",
         "KILIMANOOR ",
-        "ADAYAMON "
+        "ADAYAMON"
       ],
       "schedule": [
         {
@@ -15429,8 +15429,8 @@
         "NILAMEL ",
         "KALLAMBALAM ",
         "ATTINGAL",
-        " CHIRAYINKEEZHU ",
-        "AZ HOOR "
+        "CHIRAYINKEEZHU ",
+        "AZ HOOR"
       ],
       "schedule": [
         {
@@ -15467,7 +15467,7 @@
               "departureTime": "08:30 am"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "08:45 am",
               "departureTime": "08:45 am"
             },
@@ -15487,7 +15487,7 @@
               "departureTime": "10:05 am"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "10:25 am",
               "departureTime": "10:25 am"
             },
@@ -15557,7 +15557,7 @@
               "departureTime": "04:40 pm"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "04:55 pm",
               "departureTime": "04:55 pm"
             },
@@ -15577,7 +15577,7 @@
               "departureTime": "05:20 pm"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "05:40 pm",
               "departureTime": "05:40 pm"
             },
@@ -15619,7 +15619,7 @@
       "Vehicle Number": "KL 16 E 9111",
       "route": [
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -16020,7 +16020,7 @@
         "KAVALAYOOR ",
         "KALLAMBALAM ",
         "NAGAROOR ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -16271,7 +16271,7 @@
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
         "KILIMANOOR ",
-        "KADAKKAL "
+        "KADAKKAL"
       ],
       "schedule": [
         {
@@ -16531,7 +16531,7 @@
       "route": [
         "VARKALA ",
         "PARIPALLY ",
-        "ESI HOSPITAL "
+        "ESI HOSPITAL"
       ],
       "schedule": [
         {
@@ -16782,7 +16782,7 @@
         "CHIRAYINKEEZ HU ",
         "KORANI ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -17041,7 +17041,7 @@
       "Vehicle Number": "KL 02 V 2727",
       "route": [
         "CHIRAYINKEEZ HU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -17441,7 +17441,7 @@
       "route": [
         "VAIDHYANKAVE ",
         "VENJARAMOODU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -17713,7 +17713,7 @@
         "CHIRAYINKEEZ HU ",
         "KADAKKAVOOR ",
         "PANAYILKADAVU ",
-        "CHERUNNIYOOR "
+        "CHERUNNIYOOR"
       ],
       "schedule": [
         {
@@ -18213,7 +18213,7 @@
       "route": [
         "PARIPALLY ",
         "PALLIKKAL ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -18492,7 +18492,7 @@
       "Vehicle Number": "KL 16 D 9252",
       "route": [
         "ATTINGAL ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -18714,7 +18714,7 @@
         "ATTINGAL ",
         "AYILAM ",
         "VENJARAMOODU ",
-        "ALIYADU "
+        "ALIYADU"
       ],
       "schedule": [
         {
@@ -19024,7 +19024,7 @@
       "route": [
         "ATTINGAL ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -19277,7 +19277,7 @@
         "ATTINGAL ",
         "KILIMANOOR ",
         "THOLIKUZ HI ",
-        "EYYAKKODU "
+        "EYYAKKODU"
       ],
       "schedule": [
         {
@@ -19568,7 +19568,7 @@
         "PARAVOOR ",
         "OONNINMOODU ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -19828,7 +19828,7 @@
       "route": [
         "PARIPALLY ",
         "PALLIKKAL ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -20108,7 +20108,7 @@
       "route": [
         "MOTTAKUZ HI ",
         "KILIMANOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -20398,7 +20398,7 @@
       "route": [
         "ATTINGAL ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -20828,7 +20828,7 @@
       "route": [
         "MADATHARA TEMPLE ",
         "VARKALA ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -21039,7 +21039,7 @@
         "ATTINGAL ",
         "CHIRAYINKEEZ HU ",
         "KORANI ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -21350,7 +21350,7 @@
         "PERUNGUZ HI ",
         "MUDAPURAMM ",
         "MAMOM TEMPLE ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -21711,7 +21711,7 @@
         "VARKALA ",
         "KADAKKAVOOR ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -21874,7 +21874,7 @@
         "NAGAROOR ",
         "KALLAMBALAM ",
         "VARKALA ",
-        "ODAYAM VALIYA PALLI "
+        "ODAYAM VALIYA PALLI"
       ],
       "schedule": [
         {
@@ -22165,7 +22165,7 @@
         "KORANI ",
         "CHIRAYINKEEZHU ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -22426,7 +22426,7 @@
         "VARKALA TEMPLE ",
         "VARKALA ",
         "KALLAMBALAM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -22737,7 +22737,7 @@
         "KADAKKAVOOR ",
         "ATTINGAL ",
         "CHIRAYINKEEZ HU ",
-        "PERUNGUZ HI "
+        "PERUNGUZ HI"
       ],
       "schedule": [
         {
@@ -22997,7 +22997,7 @@
       "route": [
         "BANKUMUKKU ",
         "PALODE ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -23129,7 +23129,7 @@
         "MAMOM TEMPLE ",
         "CHIRAYINKEEZ HU ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -23623,7 +23623,7 @@
         "KADAKKAL,KL02 ",
         "KOLLAYIL ",
         "PALODE ",
-        "MUKKILKADA "
+        "MUKKILKADA"
       ],
       "schedule": [
         {
@@ -23792,7 +23792,7 @@
       "Vehicle Number": "KL 16 D 5625",
       "route": [
         "ATTINGAL ",
-        "KADAKKAL,KL02 "
+        "KADAKKAL,KL02"
       ],
       "schedule": [
         {
@@ -23896,7 +23896,7 @@
         "NILAMEL ",
         "KILIMANOOR ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -24067,7 +24067,7 @@
         "KALLAMBALAM ",
         "PALLIKKAL ",
         "KILIMANOOR ",
-        "PUTHIYAKAVU TEMPLE "
+        "PUTHIYAKAVU TEMPLE"
       ],
       "schedule": [
         {
@@ -24340,7 +24340,7 @@
         "KADAKKAL,KL02 ",
         "NILAMEL ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -24492,7 +24492,7 @@
         "VENJARAMOODU ",
         "ATTINGAL ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -24742,7 +24742,7 @@
       "route": [
         "KARETTE ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -24913,7 +24913,7 @@
         "AKATHUMURI ",
         "PANAYILKADAVU ",
         "VAKKOM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -25285,7 +25285,7 @@
         "KALLAMBALAM ",
         "NILAMEL ",
         "KADAKKAL,KL02 ",
-        "MADATHARA "
+        "MADATHARA"
       ],
       "schedule": [
         {
@@ -25479,7 +25479,7 @@
         "KUSAVOOR ",
         "BHARATHANNOOR ",
         "PANGODE ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -25728,7 +25728,7 @@
       "Vehicle Number": "KL 22 3648",
       "route": [
         "KORANI ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -26068,7 +26068,7 @@
       "route": [
         "MANTHARA TEMPLE ",
         "VARKALA ",
-        "PARIPALLY "
+        "PARIPALLY"
       ],
       "schedule": [
         {
@@ -26318,7 +26318,7 @@
       "route": [
         "AYILAM ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -26561,7 +26561,7 @@
         "PARIPALLY ",
         "PALLIKKAL ",
         "KILIMANOOR ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -26780,7 +26780,7 @@
       "Vehicle Number": "KL 01 AV 9192",
       "route": [
         "KAAPPIL ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -26941,7 +26941,7 @@
         "THAZ HEVETTOOR ",
         "VARKALA ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -27202,7 +27202,7 @@
         "KALLARA ",
         "KILIMANOOR ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -27413,7 +27413,7 @@
         "MANKATTUMOOLA ",
         "ATTINGAL ",
         "KORANI ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -27728,7 +27728,7 @@
         "CHADAYAMANGALAM ",
         "AYOOR ",
         "ANCHAL ",
-        "PUNALUR "
+        "PUNALUR"
       ],
       "schedule": [
         {
@@ -27919,7 +27919,7 @@
         "KALLARA ",
         "KILIMANOOR ",
         "PALLIKKAL ",
-        "PARIPPALLY JUNCTION "
+        "PARIPPALLY JUNCTION"
       ],
       "schedule": [
         {
@@ -28189,7 +28189,7 @@
       "route": [
         "KALLAMBALAM ",
         "VELLALLOOR ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -28602,7 +28602,7 @@
         "KARETTE ",
         "KILIMANOOR ",
         "THOLIKUZ HI ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -28821,7 +28821,7 @@
       "Vehicle Number": "KL 16 D 8595",
       "route": [
         "VARKALA ",
-        "PARIPALLY "
+        "PARIPALLY"
       ],
       "schedule": [
         {
@@ -29102,7 +29102,7 @@
         "VAKKOM ",
         "CHIRAYINKEEZHU ",
         "ATTINGAL ",
-        "AYILAM "
+        "AYILAM"
       ],
       "schedule": [
         {
@@ -29413,7 +29413,7 @@
         "KADAKKAL,KL02 ",
         "NILAMEL ",
         "KILIMANOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -29672,7 +29672,7 @@
       "Vehicle Number": "KL 16 D 3009",
       "route": [
         "KAAPPIL ",
-        "MADATHARA "
+        "MADATHARA"
       ],
       "schedule": [
         {
@@ -29743,7 +29743,7 @@
         "KOTTUKUNNAM ",
         "VENJARAMOODU ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -30003,7 +30003,7 @@
       "route": [
         "OORUPOIKA ",
         "ATTINGAL ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -30175,7 +30175,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "VARKALA ",
-        "PARAVOOR "
+        "PARAVOOR"
       ],
       "schedule": [
         {
@@ -30396,7 +30396,7 @@
         "VARKALA ",
         "KADAKKAVOOR ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -30605,7 +30605,7 @@
       "Vehicle Number": "KL 16 V 9495",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -30794,7 +30794,7 @@
       "Vehicle Number": "KL 16 C 9666",
       "route": [
         "KOCHUPALAM ",
-        "KALLAMBALAM "
+        "KALLAMBALAM"
       ],
       "schedule": [
         {
@@ -31108,7 +31108,7 @@
         "VARKALA ",
         "OONNINMOODU ",
         "PARAVOOR ",
-        "KOTTIYAM "
+        "KOTTIYAM"
       ],
       "schedule": [
         {
@@ -31278,7 +31278,7 @@
       "route": [
         "VARKALA ",
         "ATTINGAL ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -31470,7 +31470,7 @@
         "VARKALA ",
         "PARIPALLY ",
         "KALLUVATHUKKAL ",
-        "VELAMANOOR "
+        "VELAMANOOR"
       ],
       "schedule": [
         {
@@ -31724,7 +31724,7 @@
         "NILAMEL ",
         "KADAKKAL,KL02 ",
         "MADATHARA ",
-        "SASTHANADA MADATHARA "
+        "SASTHANADA MADATHARA"
       ],
       "schedule": [
         {
@@ -31896,7 +31896,7 @@
         "VARKALA ",
         "OONNINMOODU ",
         "PARAVOOR ",
-        "POZ HIKKARA "
+        "POZ HIKKARA"
       ],
       "schedule": [
         {
@@ -32207,7 +32207,7 @@
         "ATTINGAL ",
         "VARKALA ",
         "PARAVOOR ",
-        "KOTTIYAM "
+        "KOTTIYAM"
       ],
       "schedule": [
         {
@@ -32368,7 +32368,7 @@
         "PARAVOOR ",
         "KAAPPIL ",
         "VARKALA ",
-        "RATHICKAL "
+        "RATHICKAL"
       ],
       "schedule": [
         {
@@ -32728,7 +32728,7 @@
       "route": [
         "KARETTE ",
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -32860,7 +32860,7 @@
         "THOLIKUZ HI ",
         "KILIMANOOR ",
         "KALLARA ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -33192,7 +33192,7 @@
         "VARKALA ",
         "PARAVOOR ",
         "KOTTIYAM ",
-        "KUNDARA "
+        "KUNDARA"
       ],
       "schedule": [
         {
@@ -33322,7 +33322,7 @@
       "route": [
         "KOTTUKUNNAM ",
         "VENJARAMOODU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -33572,7 +33572,7 @@
       "route": [
         "CHIRAYINKEEZ HU ",
         "KADAKKAVOOR ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -33942,7 +33942,7 @@
       "route": [
         "KAPPIL H S ",
         "VARKALA ",
-        "AKATHUMURI "
+        "AKATHUMURI"
       ],
       "schedule": [
         {
@@ -34192,7 +34192,7 @@
       "route": [
         "ATTINGAL ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -34443,7 +34443,7 @@
         "VARKALA ",
         "ATTINGAL ",
         "VENJARAMOODU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -34613,7 +34613,7 @@
       "route": [
         "MANTHARA TEMPLE ",
         "VARKALA ",
-        "AKATHUMURI "
+        "AKATHUMURI"
       ],
       "schedule": [
         {
@@ -34903,7 +34903,7 @@
       "route": [
         "PARIPALLY ",
         "VARKALA RAILWAY STATION ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -35194,7 +35194,7 @@
         "PUTHIYAKAVE ",
         "KILIMANOOR ",
         "KALLARA ",
-        "THENGINKODE "
+        "THENGINKODE"
       ],
       "schedule": [
         {
@@ -35494,7 +35494,7 @@
       "route": [
         "MUTTUKONAM ",
         "CHEMPAKAMANGALAM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -35874,7 +35874,7 @@
       "route": [
         "PAZHAYA CHANDA ",
         "VARKALA ",
-        "KAPPIL H S "
+        "KAPPIL H S"
       ],
       "schedule": [
         {
@@ -36324,7 +36324,7 @@
       "route": [
         "KUSAVOOR ",
         "THENNOOR ",
-        "KALUNGUMUKKU "
+        "KALUNGUMUKKU"
       ],
       "schedule": [
         {
@@ -36593,7 +36593,7 @@
       "Vehicle Number": "KL 05 X 3355",
       "route": [
         "ATTINGAL ",
-        "AYILAM "
+        "AYILAM"
       ],
       "schedule": [
         {
@@ -36904,7 +36904,7 @@
         "AKATHUMURI ",
         "VARKALA ",
         "ATTINGAL ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -37129,7 +37129,7 @@
         "PALLIKKAL ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "KOTTARAKARI "
+        "KOTTARAKARI"
       ],
       "schedule": [
         {
@@ -37320,7 +37320,7 @@
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
         "KADAKKAVOOR ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -37561,7 +37561,7 @@
         "VARKALA TEMPLE ",
         "VARKALA ",
         "ATTINGAL ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -37720,7 +37720,7 @@
       "Vehicle Number": "KL 16 C 111",
       "route": [
         "CHIRAYINKEEZ HU ",
-        "KORANI "
+        "KORANI"
       ],
       "schedule": [
         {
@@ -38017,7 +38017,7 @@
         "KALLAMBALAM ",
         "PALLIKKAL ",
         "CHADAYAMANGALAM ",
-        "AYOOR "
+        "AYOOR"
       ],
       "schedule": [
         {
@@ -38277,7 +38277,7 @@
       "route": [
         "ATTINGAL ",
         "KADAKKAVOOR ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -38527,7 +38527,7 @@
       "route": [
         "VARKALA ",
         "KAAPPIL ",
-        "PARAVOOR "
+        "PARAVOOR"
       ],
       "schedule": [
         {
@@ -38777,7 +38777,7 @@
       "route": [
         "VARKALA JUNCTION ",
         "PARIPALLY ",
-        "ESI HOSPITAL PARIPPALLY "
+        "ESI HOSPITAL PARIPPALLY"
       ],
       "schedule": [
         {
@@ -39029,7 +39029,7 @@
         "VENJARAMOODU ",
         "ATTINGAL ",
         "CHIRAYINKEEZHU ",
-        "KORANI "
+        "KORANI"
       ],
       "schedule": [
         {
@@ -39282,7 +39282,7 @@
         "KILIMANOOR ",
         "NILAMEL ",
         "KADAKKAL,KL02 ",
-        "MADATHARA "
+        "MADATHARA"
       ],
       "schedule": [
         {
@@ -39509,7 +39509,7 @@
         "PONGANADU ",
         "KILIMANOOR ",
         "THOLIKUZ HI ",
-        "PALLIMUKKU "
+        "PALLIMUKKU"
       ],
       "schedule": [
         {
@@ -39698,7 +39698,7 @@
       "Vehicle Number": "KL 22 A 4708",
       "route": [
         "KORANI ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -40097,7 +40097,7 @@
       "Vehicle Number": "KL 38 3391",
       "route": [
         "VARKALA ",
-        "PARIPALLY "
+        "PARIPALLY"
       ],
       "schedule": [
         {
@@ -40317,7 +40317,7 @@
       "route": [
         "VARKALA ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -40447,7 +40447,7 @@
       "route": [
         "VAKKOM ",
         "ATTINGAL ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -40621,7 +40621,7 @@
         "OONNINMOODU ",
         "POOTHAKULAM ",
         "PARAVOOR ",
-        "KOTTIYAM "
+        "KOTTIYAM"
       ],
       "schedule": [
         {
@@ -40823,7 +40823,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "PONGANADU ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -41017,7 +41017,7 @@
         "PALLIKKAL ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "KOTTARAKARI "
+        "KOTTARAKARI"
       ],
       "schedule": [
         {
@@ -41190,7 +41190,7 @@
         "KILIMANOOR ",
         "PALLIKKAL ",
         "KOTTIYAM ",
-        "KOLLAM "
+        "KOLLAM"
       ],
       "schedule": [
         {
@@ -41341,7 +41341,7 @@
         "PAPPALA ",
         "KILIMANOOR ",
         "KALLARA ",
-        "MYLAMOODU "
+        "MYLAMOODU"
       ],
       "schedule": [
         {
@@ -41554,7 +41554,7 @@
         "VENJARAMOODU ",
         "ATTINGAL ",
         "CHIRAYINKEEZ HU ",
-        "PANAYILKADAVU "
+        "PANAYILKADAVU"
       ],
       "schedule": [
         {
@@ -41773,7 +41773,7 @@
       "Vehicle Number": "KL 16 P 1980",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -41967,7 +41967,7 @@
         "CHADAYAMANGALAM ",
         "ATTINGAL ",
         "CHIRAYINKEEZHU ",
-        "KOTTARAKARI "
+        "KOTTARAKARI"
       ],
       "schedule": [
         {
@@ -42138,7 +42138,7 @@
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
         "KILIMANOOR ",
-        "PALLIKKAL "
+        "PALLIKKAL"
       ],
       "schedule": [
         {
@@ -42372,7 +42372,7 @@
         "PALLIKKAL ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "VAKKOM "
+        "VAKKOM"
       ],
       "schedule": [
         {
@@ -42566,7 +42566,7 @@
         "PONGANADU ",
         "KALLAMBALAM ",
         "VARKALA ",
-        "CHILAKKOOR TEMPLE "
+        "CHILAKKOOR TEMPLE"
       ],
       "schedule": [
         {
@@ -42718,7 +42718,7 @@
         "VARKALA RAILWAY STATION ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -42968,7 +42968,7 @@
       "route": [
         "ATTINGAL ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -43220,7 +43220,7 @@
         "VARKALA RAILWAY STATION ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -43470,7 +43470,7 @@
       "route": [
         "KATTUPUTHUSSERI ",
         "PARIPALLY ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -43730,7 +43730,7 @@
       "route": [
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -43981,7 +43981,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "PARIPALLY ",
-        "OYOOR "
+        "OYOOR"
       ],
       "schedule": [
         {
@@ -44192,7 +44192,7 @@
         "KALLARA ",
         "PALODE ",
         "PAZ HAKUTTY ",
-        "BANKUMUKKU "
+        "BANKUMUKKU"
       ],
       "schedule": [
         {
@@ -44351,7 +44351,7 @@
       "Vehicle Number": "KL 01 AC 678",
       "route": [
         "ANCHUTHENGU ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -44452,7 +44452,7 @@
         "KODIMOOTTIL TEMPLE ",
         "PARIPALLY ",
         "VARKALA ",
-        "SIVAGIRI "
+        "SIVAGIRI"
       ],
       "schedule": [
         {
@@ -44814,7 +44814,7 @@
         "VARKALA ",
         "S N COLLEGE VARKALA ",
         "PANAYARA ",
-        "PARIPALLY "
+        "PARIPALLY"
       ],
       "schedule": [
         {
@@ -45119,7 +45119,7 @@
       "route": [
         "CHIRAYINKEEZ HU ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -45411,7 +45411,7 @@
         "KADAKKAVOOR ",
         "CHIRAYINKEEZ HU ",
         "MAMOM TEMPLE ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -45750,7 +45750,7 @@
       "Vehicle Number": "KL 44 2250",
       "route": [
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -46210,7 +46210,7 @@
       "route": [
         "PARIPALLY ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -46541,7 +46541,7 @@
         "KILIMANOOR ",
         "KARETTE ",
         "ATTINGAL ",
-        "MELVETTOOR "
+        "MELVETTOOR"
       ],
       "schedule": [
         {
@@ -46755,7 +46755,7 @@
         "NILAMEL ",
         "KADAKKAL,KL02 ",
         "MADATHARA ",
-        "JAWAHAR COLONY "
+        "JAWAHAR COLONY"
       ],
       "schedule": [
         {
@@ -46925,7 +46925,7 @@
       "route": [
         "VAMANAPURAM ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -47205,7 +47205,7 @@
       "route": [
         "THOPPICHANTHA ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -47457,7 +47457,7 @@
         "VARKALA ",
         "PARIPALLY ",
         "KALLUVATHUKKAL ",
-        "VELAMANOOR "
+        "VELAMANOOR"
       ],
       "schedule": [
         {
@@ -47707,7 +47707,7 @@
       "route": [
         "KADAKKAL,KL02 ",
         "VARKALA ",
-        "THAZ HEVETTOOR "
+        "THAZ HEVETTOOR"
       ],
       "schedule": [
         {
@@ -47840,7 +47840,7 @@
         "KALLARA ",
         "KUSAVOOR ",
         "THENNOOR ",
-        "VITHURA "
+        "VITHURA"
       ],
       "schedule": [
         {
@@ -48090,7 +48090,7 @@
       "route": [
         "VENJARAMOODU ",
         "ATTINGAL ",
-        "VAKKOM "
+        "VAKKOM"
       ],
       "schedule": [
         {
@@ -48362,7 +48362,7 @@
         "PARIPALLY ",
         "OONNINMOODU ",
         "AYIROOR ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -48672,7 +48672,7 @@
       "route": [
         "MUTTUKONAM ",
         "VENGODE ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -49044,7 +49044,7 @@
         "KALLARA ",
         "KILIMANOOR ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -49198,7 +49198,7 @@
       "Vehicle Number": "KL 01 AB 2988",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -49390,7 +49390,7 @@
         "MANANAKKU ",
         "ALAMCODE ",
         "VILAYILMOOLA ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -49759,7 +49759,7 @@
       "Vehicle Number": "KL 16 8757",
       "route": [
         "KOCHUPALAM ",
-        "KALLAMBALAM "
+        "KALLAMBALAM"
       ],
       "schedule": [
         {
@@ -50041,7 +50041,7 @@
         "ATTINGAL ",
         "CHIRAYINKEEZHU ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -50231,7 +50231,7 @@
       "route": [
         "KILIMANOOR ",
         "PALLIKKAL ",
-        "OYOOR "
+        "OYOOR"
       ],
       "schedule": [
         {
@@ -50483,7 +50483,7 @@
         "AKATHUMURI ",
         "PANAYILKADAVU ",
         "VAKKOM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -50894,7 +50894,7 @@
         "PULIMATH TEMPLE ",
         "KILIMANOOR ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -51196,7 +51196,7 @@
         "ATTINGAL ",
         "AYOOR ",
         "ANCHAL ",
-        "PUNALUR "
+        "PUNALUR"
       ],
       "schedule": [
         {
@@ -51327,7 +51327,7 @@
         "PARIPALLY ",
         "VARKALA ",
         "KADAKKAVOOR ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -51518,7 +51518,7 @@
         "ATTINGAL ",
         "CHIRAYINKEEZHU ",
         "KADAKKAVOOR ",
-        "VARKALA RAILWAY STATION "
+        "VARKALA RAILWAY STATION"
       ],
       "schedule": [
         {
@@ -51778,7 +51778,7 @@
       "route": [
         "VENJARAMOODU ",
         "ATTINGAL ",
-        "ANCHUTHENGU "
+        "ANCHUTHENGU"
       ],
       "schedule": [
         {
@@ -51938,7 +51938,7 @@
       "route": [
         "VAMANAPURAM ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -52109,7 +52109,7 @@
         "VARKALA TEMPLE ",
         "VARKALA ",
         "OONNINMOODU ",
-        "PARAVOOR "
+        "PARAVOOR"
       ],
       "schedule": [
         {
@@ -52419,7 +52419,7 @@
       "route": [
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -52668,7 +52668,7 @@
       "Vehicle Number": "KL 21 6191",
       "route": [
         "ATTINGAL ",
-        "PANAYILKADAVU "
+        "PANAYILKADAVU"
       ],
       "schedule": [
         {
@@ -53038,7 +53038,7 @@
       "route": [
         "VARKALA ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -53249,7 +53249,7 @@
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -53540,7 +53540,7 @@
         "KALLAMBALAM ",
         "THUMPODU ",
         "KILIMANOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -53750,7 +53750,7 @@
       "route": [
         "PULIMATH TEMPLE ",
         "KILIMANOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -54000,7 +54000,7 @@
       "route": [
         "KADAKKAVOOR ",
         "ATTINGAL ",
-        "KARETTE "
+        "KARETTE"
       ],
       "schedule": [
         {
@@ -54210,7 +54210,7 @@
       "route": [
         "KALLARA ",
         "PALODE ",
-        "OZ HUKUPARA "
+        "OZ HUKUPARA"
       ],
       "schedule": [
         {
@@ -54422,7 +54422,7 @@
         "VARKALA ",
         "KALLAMBALAM ",
         "KILIMANOOR ",
-        "KADAKKAL,KL02 "
+        "KADAKKAL,KL02"
       ],
       "schedule": [
         {
@@ -54615,7 +54615,7 @@
         "NILAMEL ",
         "KILIMANOOR ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -54835,7 +54835,7 @@
       "route": [
         "ATTINGAL ",
         "KILIMANOOR ",
-        "KADAKKAL,KL02 "
+        "KADAKKAL,KL02"
       ],
       "schedule": [
         {
@@ -55005,7 +55005,7 @@
       "route": [
         "KARETTE ",
         "ATTINGAL ",
-        "MAMOM "
+        "MAMOM"
       ],
       "schedule": [
         {
@@ -55296,7 +55296,7 @@
         "KALLARA ",
         "KILIMANOOR ",
         "PALLIKKAL ",
-        "PARIPPALLY MARKET JUNCTION "
+        "PARIPPALLY MARKET JUNCTION"
       ],
       "schedule": [
         {
@@ -55577,7 +55577,7 @@
         "PALODE ",
         "KALLARA ",
         "MUTHUVILA ",
-        "PAZ HAKUTTY "
+        "PAZ HAKUTTY"
       ],
       "schedule": [
         {
@@ -55737,8 +55737,8 @@
       "route": [
         "KOTTUKUNNAM TEMPLE ",
         "VENJARAMOODU",
-        " ATTINGAL ",
-        "PERANAM TEMPLE "
+        "ATTINGAL ",
+        "PERANAM TEMPLE"
       ],
       "schedule": [
         {
@@ -55755,7 +55755,7 @@
               "departureTime": "07:25 am"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "07:55 am",
               "departureTime": "07:55 am"
             },
@@ -55775,7 +55775,7 @@
               "departureTime": "09:25 am"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "09:40 am",
               "departureTime": "09:40 am"
             },
@@ -55805,7 +55805,7 @@
               "departureTime": "12:05 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "12:33 pm",
               "departureTime": "12:33 pm"
             },
@@ -55825,7 +55825,7 @@
               "departureTime": "02:35 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "02:50 pm",
               "departureTime": "02:50 pm"
             },
@@ -55855,7 +55855,7 @@
               "departureTime": "04:07 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "04:37 pm",
               "departureTime": "04:37 pm"
             },
@@ -55875,7 +55875,7 @@
               "departureTime": "05:10 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "05:25 pm",
               "departureTime": "05:25 pm"
             },
@@ -55905,7 +55905,7 @@
               "departureTime": "06:55 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "07:25 pm",
               "departureTime": "07:25 pm"
             },
@@ -55925,7 +55925,7 @@
               "departureTime": "08:10 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "08:25 pm",
               "departureTime": "08:25 pm"
             },
@@ -55948,7 +55948,7 @@
       "route": [
         "MUTTUKONAM ",
         "VENGODE ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -56357,7 +56357,7 @@
       "Vehicle Number": "KL 16 X 5727",
       "route": [
         "VAMANAPURAM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -56608,7 +56608,7 @@
         "ATTINGAL ",
         "AYILAM ",
         "ELAMBATHADAM ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -56919,7 +56919,7 @@
         "VARKALA TEMPLE ",
         "VARKALA ",
         "ATTINGAL ",
-        "SARKARA TEMPLE "
+        "SARKARA TEMPLE"
       ],
       "schedule": [
         {
@@ -57179,7 +57179,7 @@
       "route": [
         "VARKALA TEMPLE ",
         "VARKALA RAILWAY STATION ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -57429,7 +57429,7 @@
       "route": [
         "PAZ HAKUTTY ",
         "MUTHUVILA ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -57640,7 +57640,7 @@
         "THANNIMOODU VARKALA ",
         "VARKALA RAILWAY STATION ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -57861,7 +57861,7 @@
         "KALLAMBALAM ",
         "KILIMANOOR ",
         "KALLARA ",
-        "PALODE "
+        "PALODE"
       ],
       "schedule": [
         {
@@ -58072,7 +58072,7 @@
         "KOTTUKUNNAM ",
         "VENJARAMOODU ",
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -58335,7 +58335,7 @@
         "VARKALA BUS STAND ",
         "VARKALA TEMPLE ",
         "EDAVA ",
-        "KAPPIL H S "
+        "KAPPIL H S"
       ],
       "schedule": [
         {
@@ -58657,7 +58657,7 @@
         "VENJARAMOODU ",
         "ATTINGAL ",
         "KARETTE ",
-        "KILIMANOOR "
+        "KILIMANOOR"
       ],
       "schedule": [
         {
@@ -58908,7 +58908,7 @@
         "THOLIKUZ HI ",
         "KALLARA ",
         "KARETTE ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -59119,7 +59119,7 @@
         "PALLIKKAL ",
         "KILIMANOOR ",
         "ATTINGAL ",
-        "CHIRAYINKIL "
+        "CHIRAYINKIL"
       ],
       "schedule": [
         {
@@ -59282,7 +59282,7 @@
         "KUSAVOOR ",
         "BHARATHANNOOR ",
         "KALLARA ",
-        "PALUVALLY "
+        "PALUVALLY"
       ],
       "schedule": [
         {
@@ -59595,7 +59595,7 @@
         "CHIRAYINKEEZHU ",
         "ATTINGAL ",
         "KILIMANOOR ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -59817,7 +59817,7 @@
         "VARKALA ",
         "AKATHUMURI ",
         "VAKKOM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -60157,7 +60157,7 @@
       "route": [
         "PAZ HAKUTTY ",
         "MUTHUVILA ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -60408,7 +60408,7 @@
         "AKATHUMURI ",
         "VARKALA ",
         "KALLAMBALAM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -60670,7 +60670,7 @@
         "PAZ HAKUTTY ",
         "MUTHUVILA ",
         "KALLARA ",
-        "PALODE "
+        "PALODE"
       ],
       "schedule": [
         {
@@ -60862,7 +60862,7 @@
         "ATTINGAL ",
         "KILIMANOOR ",
         "KALLARA ",
-        "PALODE "
+        "PALODE"
       ],
       "schedule": [
         {
@@ -61052,7 +61052,7 @@
       "route": [
         "MUTHALAPOZ HI ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -61426,7 +61426,7 @@
         "PALLIKKAL ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "KOTTARAKARI "
+        "KOTTARAKARI"
       ],
       "schedule": [
         {
@@ -61601,7 +61601,7 @@
       "route": [
         "VARKALA ",
         "KALLAMBALAM ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -61850,7 +61850,7 @@
       "Vehicle Number": "KL 16 B 36",
       "route": [
         "KARETTE ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -62039,7 +62039,7 @@
       "Vehicle Number": "KL 18 5726",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -62228,7 +62228,7 @@
       "Vehicle Number": "KL 13 D 6899",
       "route": [
         "KARETTE ",
-        "ANCHUTHENGU "
+        "ANCHUTHENGU"
       ],
       "schedule": [
         {
@@ -62328,7 +62328,7 @@
       "route": [
         "PALA ",
         "PALLICKATHODU ",
-        "PAMPADY "
+        "PAMPADY"
       ],
       "schedule": [
         {
@@ -62438,7 +62438,7 @@
         "NILAMEL ",
         "KADAKKAL,KL02 ",
         "MADATHARA ",
-        "SASTHANADA MADATHARA "
+        "SASTHANADA MADATHARA"
       ],
       "schedule": [
         {
@@ -62628,7 +62628,7 @@
       "route": [
         "VARKALA ",
         "KALLAMBALAM ",
-        "KARIMANKODE "
+        "KARIMANKODE"
       ],
       "schedule": [
         {
@@ -62704,7 +62704,7 @@
         "VAMANAPURAM ",
         "ATTINGAL ",
         "VARKALA ",
-        "THEKKUMBHAGOM "
+        "THEKKUMBHAGOM"
       ],
       "schedule": [
         {
@@ -62866,7 +62866,7 @@
         "PALODE ",
         "PERAYAM ",
         "PANAVOOR ",
-        "BANKUMUKKU "
+        "BANKUMUKKU"
       ],
       "schedule": [
         {
@@ -63057,7 +63057,7 @@
         "KALLAMBALAM ",
         "KILIMANOOR ",
         "KALLARA ",
-        "PANGODE "
+        "PANGODE"
       ],
       "schedule": [
         {
@@ -63269,7 +63269,7 @@
         "PARAVOOR ",
         "KADAKKAVOOR ",
         "PARAVOOR ",
-        "POZ HIKKARA "
+        "POZ HIKKARA"
       ],
       "schedule": [
         {
@@ -63441,7 +63441,7 @@
         "VARKALA ",
         "KALLAMBALAM ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -63632,7 +63632,7 @@
         "VENJARAMOODU ",
         "ATTINGAL ",
         "VARKALA ",
-        "AKATHUMURI "
+        "AKATHUMURI"
       ],
       "schedule": [
         {
@@ -63844,7 +63844,7 @@
         "KALLAMBALAM ",
         "PARIPALLY ",
         "KADAKKAL,KL02 ",
-        "PANGODE "
+        "PANGODE"
       ],
       "schedule": [
         {
@@ -64035,7 +64035,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "VARKALA ",
-        "RATHICKAL "
+        "RATHICKAL"
       ],
       "schedule": [
         {
@@ -64296,7 +64296,7 @@
         "KOTTARAKARI ",
         "ATTINGAL ",
         "CHADAYAMANGALAM ",
-        "PUNALUR "
+        "PUNALUR"
       ],
       "schedule": [
         {
@@ -64407,7 +64407,7 @@
         "THANNIMOODU VARKALA ",
         "VARKALA ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -64627,7 +64627,7 @@
       "route": [
         "VARKALA ",
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -64798,7 +64798,7 @@
         "SARKARA TEMPLE ",
         "ATTINGAL ",
         "VARKALA ",
-        "VARKALA TEMPLE "
+        "VARKALA TEMPLE"
       ],
       "schedule": [
         {
@@ -65058,7 +65058,7 @@
       "route": [
         "KALLAMBALAM ",
         "PALLIKKAL ",
-        "AYOOR "
+        "AYOOR"
       ],
       "schedule": [
         {
@@ -65268,7 +65268,7 @@
       "route": [
         "CHERUVALAM ",
         "KALLARA ",
-        "PALODE "
+        "PALODE"
       ],
       "schedule": [
         {
@@ -65518,7 +65518,7 @@
       "route": [
         "KUSAVOOR ",
         "THENNOOR ",
-        "KALINGUMUKKU "
+        "KALINGUMUKKU"
       ],
       "schedule": [
         {
@@ -65787,7 +65787,7 @@
       "Vehicle Number": "KL 16 B 1499",
       "route": [
         "ATTINGAL ",
-        "VENJARAMOODU "
+        "VENJARAMOODU"
       ],
       "schedule": [
         {
@@ -66098,7 +66098,7 @@
         "ATTINGAL ",
         "CHIRAYINKEEZ HU ",
         "KADAKKAVOOR ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -66537,7 +66537,7 @@
         "KADAKKAL,KL02 ",
         "CHITHARA ",
         "KALLARA ",
-        "PALUVALLY "
+        "PALUVALLY"
       ],
       "schedule": [
         {
@@ -66736,7 +66736,7 @@
       "Vehicle Number": "KL 07 AR 6285",
       "route": [
         "ATTINGAL ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -66929,7 +66929,7 @@
         "PARIPALLY ",
         "NILAMEL ",
         "KADAKKAL,KL02 ",
-        "MADATHARA "
+        "MADATHARA"
       ],
       "schedule": [
         {
@@ -67080,7 +67080,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "AYOOR ",
-        "ARKKANOOR "
+        "ARKKANOOR"
       ],
       "schedule": [
         {
@@ -67242,7 +67242,7 @@
         "VARKALA ",
         "KALLAMBALAM ",
         "KILIMANOOR ",
-        "KADAKKAL,KL02 "
+        "KADAKKAL,KL02"
       ],
       "schedule": [
         {
@@ -67433,7 +67433,7 @@
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
         "KALLAMBALAM ",
-        "VARKALA "
+        "VARKALA"
       ],
       "schedule": [
         {
@@ -67752,7 +67752,7 @@
       "Vehicle Number": "KL 16 F 1699",
       "route": [
         "KALLAMBALAM ",
-        "KOCHUPALAM "
+        "KOCHUPALAM"
       ],
       "schedule": [
         {
@@ -68062,7 +68062,7 @@
       "route": [
         "KORANI ",
         "CHIRAYINKEEZHU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -68514,7 +68514,7 @@
         "VENJARAMOODU ",
         "ATTINGAL ",
         "CHIRAYINKEEZ HU ",
-        "SARKARA TEMPLE "
+        "SARKARA TEMPLE"
       ],
       "schedule": [
         {
@@ -68778,7 +68778,7 @@
       "Vehicle Number": "KL 16 N 6262",
       "route": [
         "ATTINGAL ",
-        "CHIRAYINKEEZ HU "
+        "CHIRAYINKEEZ HU"
       ],
       "schedule": [
         {
@@ -69239,7 +69239,7 @@
         "ATTINGAL ",
         "KALLAMBALAM ",
         "VARKALA ",
-        "KADAKKAVOOR "
+        "KADAKKAVOOR"
       ],
       "schedule": [
         {
@@ -69450,7 +69450,7 @@
         "VENGODE ",
         "ATTINGAL ",
         "KADAKKAVOOR ",
-        "ANCHUTHENGU "
+        "ANCHUTHENGU"
       ],
       "schedule": [
         {
@@ -69713,7 +69713,7 @@
         "KALLARA ",
         "PANGODE ",
         "KADAKKAL,KL02 ",
-        "ANCHAL "
+        "ANCHAL"
       ],
       "schedule": [
         {
@@ -69904,7 +69904,7 @@
         "ATTINGAL ",
         "VENJARAMOODU ",
         "VENGODE ",
-        "16TH MILE STONE "
+        "16TH MILE STONE"
       ],
       "schedule": [
         {
@@ -70118,7 +70118,7 @@
         "NILAMEL ",
         "KADAKKAL,KL02 ",
         "MADATHARA ",
-        "KARIMANKODE "
+        "KARIMANKODE"
       ],
       "schedule": [
         {
@@ -70288,7 +70288,7 @@
       "route": [
         "PALODE ",
         "KALLARA ",
-        "PAZ HAKUTTY "
+        "PAZ HAKUTTY"
       ],
       "schedule": [
         {
@@ -70418,7 +70418,7 @@
       "route": [
         "SARKARA TEMPLE ",
         "CHIRAYINKEEZHU ",
-        "ATTINGAL "
+        "ATTINGAL"
       ],
       "schedule": [
         {
@@ -70948,7 +70948,7 @@
       "route": [
         "CHIRAYINKEEZ HU ",
         "ATTINGAL ",
-        "VAMANAPURAM "
+        "VAMANAPURAM"
       ],
       "schedule": [
         {
@@ -71160,7 +71160,7 @@
         "NAGAROOR ",
         "KALLAMBALAM ",
         "THUMPODU ",
-        "NILAMEL "
+        "NILAMEL"
       ],
       "schedule": [
         {
@@ -71395,7 +71395,7 @@
         "CHADAYAMANGALAM ",
         "AYOOR ",
         "ANCHAL ",
-        "PUNALUR "
+        "PUNALUR"
       ],
       "schedule": [
         {
@@ -71586,7 +71586,7 @@
         "KUSAVOOR ",
         "BHARATHANNOOR ",
         "PANGODE ",
-        "KALLARA "
+        "KALLARA"
       ],
       "schedule": [
         {
@@ -71896,7 +71896,7 @@
       "route": [
         "KUSAVOOR ",
         "THENNOOR ",
-        "KALINGUMUKKU "
+        "KALINGUMUKKU"
       ],
       "schedule": [
         {
