@@ -10887,12 +10887,12 @@
     {
       "Vehicle Number": "KL 56 M 6234",
       "route": [
-        " THAMARASSERY ",
-        " MUTHOTTIKKAL ",
-        " BALUSSERI ",
-        " EKAROOL ",
-        " KOYILANDY ",
-        " ULLIYERI ",
+        "THAMARASSERY ",
+        "MUTHOTTIKKAL ",
+        "BALUSSERI ",
+        "EKAROOL ",
+        "KOYILANDY ",
+        "ULLIYERI ",
         "KOYILANDY RAILWAY STATION"
       ],
       "schedule": [
@@ -10900,12 +10900,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " EKAROOL ",
+              "station": "EKAROOL ",
               "arrivalTime": "06:30 am",
               "departureTime": "06:30 am"
             },
             {
-              "station": " MUTHOTTIKKAL ",
+              "station": "MUTHOTTIKKAL ",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             }
@@ -10915,17 +10915,17 @@
           "trip": 2,
           "stations": [
             {
-              "station": " MUTHOTTIKKAL ",
+              "station": "MUTHOTTIKKAL ",
               "arrivalTime": "07:02 am",
               "departureTime": "07:02 am"
             },
             {
-              "station": " BALUSSERI ",
+              "station": "BALUSSERI ",
               "arrivalTime": "07:42 am",
               "departureTime": "07:45 am"
             },
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "08:25 am",
               "departureTime": "08:25 am"
             },
@@ -10945,12 +10945,12 @@
               "departureTime": "08:35 am"
             },
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "08:38 am",
               "departureTime": "08:45 am"
             },
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "09:55 am",
               "departureTime": "09:55 am"
             }
@@ -10960,22 +10960,22 @@
           "trip": 4,
           "stations": [
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "09:57 am",
               "departureTime": "09:57 am"
             },
             {
-              "station": " MUTHOTTIKKAL ",
+              "station": "MUTHOTTIKKAL ",
               "arrivalTime": "10:22 am",
               "departureTime": "10:23 am"
             },
             {
-              "station": " BALUSSERI ",
+              "station": "BALUSSERI ",
               "arrivalTime": "11:03 am",
               "departureTime": "11:08 am"
             },
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "11:48 am",
               "departureTime": "11:48 am"
             }
@@ -10985,12 +10985,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "01:17 pm",
               "departureTime": "01:17 pm"
             },
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "02:27 pm",
               "departureTime": "02:27 pm"
             }
@@ -11000,12 +11000,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "02:46 pm",
               "departureTime": "02:46 pm"
             },
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "03:56 pm",
               "departureTime": "03:56 pm"
             }
@@ -11015,12 +11015,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "04:11 pm",
               "departureTime": "04:11 pm"
             },
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "05:21 pm",
               "departureTime": "05:21 pm"
             }
@@ -11030,12 +11030,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "05:40 pm",
               "departureTime": "05:40 pm"
             },
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "06:50 pm",
               "departureTime": "06:58 pm"
             },
@@ -11055,7 +11055,7 @@
               "departureTime": "07:01 pm"
             },
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "07:04 pm",
               "departureTime": "07:04 pm"
             }
@@ -11065,12 +11065,12 @@
           "trip": 10,
           "stations": [
             {
-              "station": " KOYILANDY ",
+              "station": "KOYILANDY ",
               "arrivalTime": "07:18 pm",
               "departureTime": "07:18 pm"
             },
             {
-              "station": " ULLIYERI ",
+              "station": "ULLIYERI ",
               "arrivalTime": "07:38 pm",
               "departureTime": "07:38 pm"
             }
@@ -11080,12 +11080,12 @@
           "trip": 11,
           "stations": [
             {
-              "station": " ULLIYERI ",
+              "station": "ULLIYERI ",
               "arrivalTime": "07:41 pm",
               "departureTime": "07:41 pm"
             },
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "08:31 pm",
               "departureTime": "08:31 pm"
             }
@@ -11095,12 +11095,12 @@
           "trip": 12,
           "stations": [
             {
-              "station": " THAMARASSERY ",
+              "station": "THAMARASSERY ",
               "arrivalTime": "09:05 pm",
               "departureTime": "09:05 pm"
             },
             {
-              "station": " EKAROOL ",
+              "station": "EKAROOL ",
               "arrivalTime": "09:23 pm",
               "departureTime": "09:23 pm"
             }

@@ -11498,8 +11498,8 @@
     {
       "Vehicle Number": "KL 13 AE 4174",
       "route": [
-        " CHALODE ",
-        " MAYYIL ",
+        "CHALODE ",
+        "MAYYIL ",
         "KANNUR- THAVAKKARA BUS ST AND ",
         "KANNUR HQ HOSP BUS STAND"
       ],
@@ -11508,12 +11508,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "07:45 am",
               "departureTime": "07:45 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "08:15 am",
               "departureTime": "08:15 am"
             },
@@ -11543,12 +11543,12 @@
               "departureTime": "09:47 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "10:39 am",
               "departureTime": "10:39 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "11:09 am",
               "departureTime": "11:09 am"
             }
@@ -11558,12 +11558,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "12:10 pm",
               "departureTime": "12:10 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "12:40 pm",
               "departureTime": "12:40 pm"
             },
@@ -11593,12 +11593,12 @@
               "departureTime": "02:15 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "03:07 pm",
               "departureTime": "03:07 pm"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "03:37 pm",
               "departureTime": "03:37 pm"
             }
@@ -11608,12 +11608,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "04:10 pm",
               "departureTime": "04:10 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "04:40 pm",
               "departureTime": "04:40 pm"
             },
@@ -11643,12 +11643,12 @@
               "departureTime": "06:24 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "07:16 pm",
               "departureTime": "07:20 pm"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "07:50 pm",
               "departureTime": "07:50 pm"
             }
@@ -21330,14 +21330,14 @@
     {
       "Vehicle Number": "KL 59 S 9818",
       "route": [
-        " CHANDANAKAMPARA ",
-        " PAYYAVOOR ",
-        " SREEKANDAPURAM ",
-        " IRIKKUR ",
-        " CHALOD ",
-        " MAYYIL ",
+        "CHANDANAKAMPARA ",
+        "PAYYAVOOR ",
+        "SREEKANDAPURAM ",
+        "IRIKKUR ",
+        "CHALOD ",
+        "MAYYIL ",
         "KUTTIATTOOR PANCHAYATH ",
-        " KOMAKKIRI ",
+        "KOMAKKIRI ",
         "KANNUR HQ HOSP BUS STAND"
       ],
       "schedule": [
@@ -21345,32 +21345,32 @@
           "trip": 1,
           "stations": [
             {
-              "station": " CHANDANAKAMPARA ",
+              "station": "CHANDANAKAMPARA ",
               "arrivalTime": "04:15 am",
               "departureTime": "04:15 am"
             },
             {
-              "station": " PAYYAVOOR ",
+              "station": "PAYYAVOOR ",
               "arrivalTime": "04:40 am",
               "departureTime": "04:40 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "05:05 am",
               "departureTime": "05:05 am"
             },
             {
-              "station": " IRIKKUR ",
+              "station": "IRIKKUR ",
               "arrivalTime": "05:28 am",
               "departureTime": "05:28 am"
             },
             {
-              "station": " CHALOD ",
+              "station": "CHALOD ",
               "arrivalTime": "05:53 am",
               "departureTime": "05:53 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "06:23 am",
               "departureTime": "06:23 am"
             },
@@ -21380,7 +21380,7 @@
               "departureTime": "07:05 am"
             },
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "07:10 am",
               "departureTime": "07:10 am"
             },
@@ -21400,7 +21400,7 @@
               "departureTime": "08:05 am"
             },
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "08:58 am",
               "departureTime": "08:58 am"
             }
@@ -21410,7 +21410,7 @@
           "trip": 3,
           "stations": [
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "09:20 am",
               "departureTime": "09:20 am"
             },
@@ -21430,7 +21430,7 @@
               "departureTime": "10:47 am"
             },
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "11:40 am",
               "departureTime": "11:40 am"
             }
@@ -21440,7 +21440,7 @@
           "trip": 5,
           "stations": [
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "12:05 pm",
               "departureTime": "12:05 pm"
             },
@@ -21460,7 +21460,7 @@
               "departureTime": "02:35 pm"
             },
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "03:28 pm",
               "departureTime": "03:28 pm"
             }
@@ -21470,7 +21470,7 @@
           "trip": 7,
           "stations": [
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "03:50 pm",
               "departureTime": "03:50 pm"
             },
@@ -21490,7 +21490,7 @@
               "departureTime": "05:11 pm"
             },
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "06:04 pm",
               "departureTime": "06:04 pm"
             }
@@ -21500,7 +21500,7 @@
           "trip": 9,
           "stations": [
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "06:30 pm",
               "departureTime": "06:30 pm"
             },
@@ -21520,7 +21520,7 @@
               "departureTime": "07:45 pm"
             },
             {
-              "station": " KOMAKKIRI ",
+              "station": "KOMAKKIRI ",
               "arrivalTime": "08:38 pm",
               "departureTime": "08:38 pm"
             },
@@ -21530,32 +21530,32 @@
               "departureTime": "08:43 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:01 pm",
               "departureTime": "09:01 pm"
             },
             {
-              "station": " CHALOD ",
+              "station": "CHALOD ",
               "arrivalTime": "09:31 pm",
               "departureTime": "09:31 pm"
             },
             {
-              "station": " IRIKKUR ",
+              "station": "IRIKKUR ",
               "arrivalTime": "09:56 pm",
               "departureTime": "09:56 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "10:19 pm",
               "departureTime": "10:19 pm"
             },
             {
-              "station": " PAYYAVOOR ",
+              "station": "PAYYAVOOR ",
               "arrivalTime": "10:44 pm",
               "departureTime": "10:44 pm"
             },
             {
-              "station": " CHANDANAKAMPARA ",
+              "station": "CHANDANAKAMPARA ",
               "arrivalTime": "10:50 pm",
               "departureTime": "10:50 pm"
             }
@@ -36628,10 +36628,10 @@
       "Vehicle Number": "KL 13 P 9079",
       "route": [
         "MATTANUR BUS STAND ",
-        " CHALODE ",
+        "CHALODE ",
         "KUTTIYATTOOR PANCHAYATH ",
-        " MAYYIL V O ",
-        " MAYYIL ",
+        "MAYYIL V O ",
+        "MAYYIL ",
         "PARASSINIKADAVU BUS ST AND ",
         "THALIPARAMB BUS ST AND ",
         "PARIYARAM MEDICAL COLLEGE"
@@ -36641,7 +36641,7 @@
           "trip": 1,
           "stations": [
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "06:45 am",
               "departureTime": "06:45 am"
             },
@@ -36651,7 +36651,7 @@
               "departureTime": "06:58 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "07:13 am",
               "departureTime": "07:13 am"
             },
@@ -36671,7 +36671,7 @@
               "departureTime": "07:40 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "07:58 am",
               "departureTime": "08:00 am"
             },
@@ -36681,12 +36681,12 @@
               "departureTime": "08:15 am"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "08:28 am",
               "departureTime": "08:28 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "08:33 am",
               "departureTime": "08:40 am"
             },
@@ -36726,12 +36726,12 @@
               "departureTime": "11:23 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "11:43 am",
               "departureTime": "11:43 am"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "11:48 am",
               "departureTime": "11:48 am"
             },
@@ -36751,12 +36751,12 @@
               "departureTime": "12:05 pm"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "12:18 pm",
               "departureTime": "12:18 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "12:23 pm",
               "departureTime": "12:23 pm"
             },
@@ -36796,12 +36796,12 @@
               "departureTime": "02:45 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "03:05 pm",
               "departureTime": "03:05 pm"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "03:10 pm",
               "departureTime": "03:10 pm"
             },
@@ -36821,12 +36821,12 @@
               "departureTime": "03:40 pm"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "03:53 pm",
               "departureTime": "03:53 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "03:58 pm",
               "departureTime": "03:58 pm"
             },
@@ -36866,12 +36866,12 @@
               "departureTime": "06:20 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "06:40 pm",
               "departureTime": "06:45 pm"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "06:50 pm",
               "departureTime": "06:50 pm"
             },
@@ -36881,7 +36881,7 @@
               "departureTime": "07:03 pm"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "07:28 pm",
               "departureTime": "07:28 pm"
             }
@@ -36896,12 +36896,12 @@
               "departureTime": "07:35 pm"
             },
             {
-              "station": " MAYYIL V O ",
+              "station": "MAYYIL V O ",
               "arrivalTime": "07:50 pm",
               "departureTime": "07:50 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "08:03 pm",
               "departureTime": "08:03 pm"
             }
@@ -69200,9 +69200,9 @@
     {
       "Vehicle Number": "KL 58 D 9027",
       "route": [
-        " OORPALLY ",
-        " KUTHUPARAMB ",
-        " VENGAD ",
+        "OORPALLY ",
+        "KUTHUPARAMB ",
+        "VENGAD ",
         "THAVAKKARA NEW BUS STAND"
       ],
       "schedule": [
@@ -69210,17 +69210,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": " OORPALLY ",
+              "station": "OORPALLY ",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "07:21 am",
               "departureTime": "07:48 am"
             },
             {
-              "station": " VENGAD ",
+              "station": "VENGAD ",
               "arrivalTime": "08:14 am",
               "departureTime": "08:14 am"
             },
@@ -69240,12 +69240,12 @@
               "departureTime": "10:55 am"
             },
             {
-              "station": " VENGAD ",
+              "station": "VENGAD ",
               "arrivalTime": "11:55 am",
               "departureTime": "12:05 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "12:31 pm",
               "departureTime": "12:31 pm"
             }
@@ -69255,12 +69255,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "01:00 pm",
               "departureTime": "01:00 pm"
             },
             {
-              "station": " VENGAD ",
+              "station": "VENGAD ",
               "arrivalTime": "01:26 pm",
               "departureTime": "01:26 pm"
             },
@@ -69280,12 +69280,12 @@
               "departureTime": "03:05 pm"
             },
             {
-              "station": " VENGAD ",
+              "station": "VENGAD ",
               "arrivalTime": "04:05 pm",
               "departureTime": "04:05 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "04:31 pm",
               "departureTime": "04:31 pm"
             }
@@ -69295,12 +69295,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "04:50 pm",
               "departureTime": "04:50 pm"
             },
             {
-              "station": " VENGAD ",
+              "station": "VENGAD ",
               "arrivalTime": "05:16 pm",
               "departureTime": "05:16 pm"
             },
@@ -69320,17 +69320,17 @@
               "departureTime": "07:05 pm"
             },
             {
-              "station": " VENGAD ",
+              "station": "VENGAD ",
               "arrivalTime": "08:05 pm",
               "departureTime": "08:05 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "08:31 pm",
               "departureTime": "08:40 pm"
             },
             {
-              "station": " OORPALLY ",
+              "station": "OORPALLY ",
               "arrivalTime": "09:06 pm",
               "departureTime": "09:06 pm"
             }
@@ -72233,11 +72233,11 @@
     {
       "Vehicle Number": "KL 13 AE 189",
       "route": [
-        " VANCHIYAM ",
-        " ONNAMPALAM ",
-        " CHANDANAKKAMPARA ",
-        " PAYYAVOOR ",
-        " SREEKANDAPURAM ",
+        "VANCHIYAM ",
+        "ONNAMPALAM ",
+        "CHANDANAKKAMPARA ",
+        "PAYYAVOOR ",
+        "SREEKANDAPURAM ",
         "THALIPARAMB BUS ST AND ",
         "KANNUR- THAVAKKARA BUS STAND"
       ],
@@ -72246,12 +72246,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "07:40 am",
               "departureTime": "07:40 am"
             },
             {
-              "station": " VANCHIYAM ",
+              "station": "VANCHIYAM ",
               "arrivalTime": "07:50 am",
               "departureTime": "07:50 am"
             }
@@ -72261,27 +72261,27 @@
           "trip": 2,
           "stations": [
             {
-              "station": " VANCHIYAM ",
+              "station": "VANCHIYAM ",
               "arrivalTime": "08:00 am",
               "departureTime": "08:00 am"
             },
             {
-              "station": " ONNAMPALAM ",
+              "station": "ONNAMPALAM ",
               "arrivalTime": "08:10 am",
               "departureTime": "08:10 am"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "08:15 am",
               "departureTime": "08:40 am"
             },
             {
-              "station": " PAYYAVOOR ",
+              "station": "PAYYAVOOR ",
               "arrivalTime": "09:05 am",
               "departureTime": "09:10 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "09:35 am",
               "departureTime": "09:35 am"
             },
@@ -72321,7 +72321,7 @@
               "departureTime": "01:02 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "01:49 pm",
               "departureTime": "01:49 pm"
             }
@@ -72331,17 +72331,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "01:52 pm",
               "departureTime": "01:52 pm"
             },
             {
-              "station": " PAYYAVOOR ",
+              "station": "PAYYAVOOR ",
               "arrivalTime": "02:17 pm",
               "departureTime": "02:17 pm"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "02:42 pm",
               "departureTime": "02:42 pm"
             }
@@ -72351,17 +72351,17 @@
           "trip": 6,
           "stations": [
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "02:54 pm",
               "departureTime": "02:54 pm"
             },
             {
-              "station": " PAYYAVOOR ",
+              "station": "PAYYAVOOR ",
               "arrivalTime": "03:19 pm",
               "departureTime": "03:19 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "03:44 pm",
               "departureTime": "03:45 pm"
             },
@@ -72401,7 +72401,7 @@
               "departureTime": "07:00 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "07:44 pm",
               "departureTime": "07:44 pm"
             }
@@ -72411,17 +72411,17 @@
           "trip": 9,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "07:55 pm",
               "departureTime": "07:55 pm"
             },
             {
-              "station": " PAYYAVOOR ",
+              "station": "PAYYAVOOR ",
               "arrivalTime": "08:20 pm",
               "departureTime": "08:20 pm"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "08:45 pm",
               "departureTime": "08:45 pm"
             }
@@ -75315,21 +75315,21 @@
       "Vehicle Number": "KL 13 AE 549",
       "route": [
         "KANNUR- THAVAKKARA BUS ST AND ",
-        " IRITTY ",
-        " KAKKEYANGAD ",
-        " VANIYAPPARA"
+        "IRITTY ",
+        "KAKKEYANGAD ",
+        "VANIYAPPARA"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " KAKKEYANGAD ",
+              "station": "KAKKEYANGAD ",
               "arrivalTime": "05:40 am",
               "departureTime": "05:40 am"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "05:54 am",
               "departureTime": "05:54 am"
             }
@@ -75339,7 +75339,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "06:01 am",
               "departureTime": "06:01 am"
             },
@@ -75359,12 +75359,12 @@
               "departureTime": "08:35 am"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "10:06 am",
               "departureTime": "10:06 am"
             },
             {
-              "station": " VANIYAPPARA ",
+              "station": "VANIYAPPARA ",
               "arrivalTime": "10:33 am",
               "departureTime": "10:33 am"
             }
@@ -75374,12 +75374,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " VANIYAPPARA ",
+              "station": "VANIYAPPARA ",
               "arrivalTime": "10:38 am",
               "departureTime": "10:38 am"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "11:05 am",
               "departureTime": "11:05 am"
             }
@@ -75389,7 +75389,7 @@
           "trip": 5,
           "stations": [
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "11:39 am",
               "departureTime": "11:39 am"
             },
@@ -75409,12 +75409,12 @@
               "departureTime": "02:39 pm"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "04:10 pm",
               "departureTime": "04:10 pm"
             },
             {
-              "station": " VANIYAPPARA ",
+              "station": "VANIYAPPARA ",
               "arrivalTime": "04:37 pm",
               "departureTime": "04:37 pm"
             }
@@ -75424,12 +75424,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " VANIYAPPARA ",
+              "station": "VANIYAPPARA ",
               "arrivalTime": "05:00 pm",
               "departureTime": "05:00 pm"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "05:27 pm",
               "departureTime": "05:27 pm"
             }
@@ -75439,7 +75439,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "05:52 pm",
               "departureTime": "05:52 pm"
             },
@@ -75459,12 +75459,12 @@
               "departureTime": "07:27 pm"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "08:58 pm",
               "departureTime": "09:06 pm"
             },
             {
-              "station": " KAKKEYANGAD ",
+              "station": "KAKKEYANGAD ",
               "arrivalTime": "09:20 pm",
               "departureTime": "09:20 pm"
             }
@@ -78391,12 +78391,12 @@
     {
       "Vehicle Number": "KL 59 J 4384",
       "route": [
-        " KALLUVAYAL ",
-        " PARIPPUTHODU ",
-        " KEEZ HPALLY ",
-        " IRITTY ",
-        " IRIKKUR ",
-        " SREEKANDAPURAM ",
+        "KALLUVAYAL ",
+        "PARIPPUTHODU ",
+        "KEEZ HPALLY ",
+        "IRITTY ",
+        "IRIKKUR ",
+        "SREEKANDAPURAM ",
         "THALIPARAMB BUS ST AND ",
         "PARIYARAM MEDICAL COLLEGE"
       ],
@@ -78405,22 +78405,22 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KALLUVAYAL ",
+              "station": "KALLUVAYAL ",
               "arrivalTime": "06:50 am",
               "departureTime": "06:50 am"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "07:03 am",
               "departureTime": "07:14 am"
             },
             {
-              "station": " IRIKKUR ",
+              "station": "IRIKKUR ",
               "arrivalTime": "07:50 am",
               "departureTime": "07:52 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "08:15 am",
               "departureTime": "08:25 am"
             },
@@ -78460,7 +78460,7 @@
               "departureTime": "10:20 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "11:07 am",
               "departureTime": "11:07 am"
             }
@@ -78470,17 +78470,17 @@
           "trip": 4,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "11:10 am",
               "departureTime": "11:10 am"
             },
             {
-              "station": " IRIKKUR ",
+              "station": "IRIKKUR ",
               "arrivalTime": "11:33 am",
               "departureTime": "11:33 am"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "12:09 pm",
               "departureTime": "12:09 pm"
             }
@@ -78490,17 +78490,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "12:36 pm",
               "departureTime": "12:36 pm"
             },
             {
-              "station": " KEEZ HPALLY ",
+              "station": "KEEZ HPALLY ",
               "arrivalTime": "01:12 pm",
               "departureTime": "01:12 pm"
             },
             {
-              "station": " PARIPPUTHODU ",
+              "station": "PARIPPUTHODU ",
               "arrivalTime": "01:17 pm",
               "departureTime": "01:17 pm"
             }
@@ -78510,27 +78510,27 @@
           "trip": 6,
           "stations": [
             {
-              "station": " PARIPPUTHODU ",
+              "station": "PARIPPUTHODU ",
               "arrivalTime": "02:05 pm",
               "departureTime": "02:05 pm"
             },
             {
-              "station": " KEEZ HPALLY ",
+              "station": "KEEZ HPALLY ",
               "arrivalTime": "02:10 pm",
               "departureTime": "02:22 pm"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "02:58 pm",
               "departureTime": "03:35 pm"
             },
             {
-              "station": " IRIKKUR ",
+              "station": "IRIKKUR ",
               "arrivalTime": "04:11 pm",
               "departureTime": "04:11 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "04:34 pm",
               "departureTime": "04:35 pm"
             },
@@ -78550,7 +78550,7 @@
               "departureTime": "06:04 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "06:51 pm",
               "departureTime": "06:51 pm"
             }
@@ -78560,17 +78560,17 @@
           "trip": 8,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "06:55 pm",
               "departureTime": "06:55 pm"
             },
             {
-              "station": " IRIKKUR ",
+              "station": "IRIKKUR ",
               "arrivalTime": "07:18 pm",
               "departureTime": "07:18 pm"
             },
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "07:54 pm",
               "departureTime": "07:54 pm"
             }
@@ -78580,12 +78580,12 @@
           "trip": 9,
           "stations": [
             {
-              "station": " IRITTY ",
+              "station": "IRITTY ",
               "arrivalTime": "08:10 pm",
               "departureTime": "08:10 pm"
             },
             {
-              "station": " KALLUVAYAL ",
+              "station": "KALLUVAYAL ",
               "arrivalTime": "08:28 pm",
               "departureTime": "08:28 pm"
             }
@@ -78755,22 +78755,22 @@
     {
       "Vehicle Number": "KL 59 K 1111",
       "route": [
-        " URUVACHAL ",
-        " KUTHUPARAMB ",
+        "URUVACHAL ",
+        "KUTHUPARAMB ",
         "KANNUR- THAVAKKARA BUS ST AND ",
-        " KOZ HIKODE"
+        "KOZ HIKODE"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " URUVACHAL ",
+              "station": "URUVACHAL ",
               "arrivalTime": "07:35 am",
               "departureTime": "07:35 am"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "07:50 am",
               "departureTime": "07:52 am"
             },
@@ -78780,7 +78780,7 @@
               "departureTime": "08:47 am"
             },
             {
-              "station": " KOZ HIKODE ",
+              "station": "KOZ HIKODE ",
               "arrivalTime": "11:27 am",
               "departureTime": "11:27 am"
             }
@@ -78790,7 +78790,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " KOZ HIKODE ",
+              "station": "KOZ HIKODE ",
               "arrivalTime": "12:57 pm",
               "departureTime": "12:57 pm"
             },
@@ -78810,7 +78810,7 @@
               "departureTime": "04:34 pm"
             },
             {
-              "station": " KOZ HIKODE ",
+              "station": "KOZ HIKODE ",
               "arrivalTime": "07:14 pm",
               "departureTime": "07:14 pm"
             }
@@ -78820,17 +78820,17 @@
           "trip": 4,
           "stations": [
             {
-              "station": " KOZ HIKODE ",
+              "station": "KOZ HIKODE ",
               "arrivalTime": "08:21 pm",
               "departureTime": "08:21 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "10:56 pm",
               "departureTime": "10:56 pm"
             },
             {
-              "station": " URUVACHAL ",
+              "station": "URUVACHAL ",
               "arrivalTime": "11:11 pm",
               "departureTime": "11:11 pm"
             }
@@ -90330,9 +90330,9 @@
     {
       "Vehicle Number": "KL 13 U 4689",
       "route": [
-        " EZ HOME ",
-        " MATTOOL ",
-        " PAZ HAYANADI ",
+        "EZ HOME ",
+        "MATTOOL ",
+        "PAZ HAYANADI ",
         "KANNUR- THAVAKKARA BUS ST AND"
       ],
       "schedule": [
@@ -90340,12 +90340,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " EZ HOME ",
+              "station": "EZ HOME ",
               "arrivalTime": "06:35 am",
               "departureTime": "06:35 am"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "06:44 am",
               "departureTime": "06:45 am"
             },
@@ -90365,7 +90365,7 @@
               "departureTime": "07:57 am"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "08:48 am",
               "departureTime": "08:48 am"
             }
@@ -90375,12 +90375,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "08:52 am",
               "departureTime": "08:52 am"
             },
             {
-              "station": " MATTOOL ",
+              "station": "MATTOOL ",
               "arrivalTime": "09:22 am",
               "departureTime": "09:22 am"
             }
@@ -90390,12 +90390,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " MATTOOL ",
+              "station": "MATTOOL ",
               "arrivalTime": "09:42 am",
               "departureTime": "09:42 am"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "10:12 am",
               "departureTime": "10:12 am"
             },
@@ -90415,7 +90415,7 @@
               "departureTime": "11:42 am"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "12:33 pm",
               "departureTime": "12:33 pm"
             }
@@ -90425,12 +90425,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "12:37 pm",
               "departureTime": "12:37 pm"
             },
             {
-              "station": " MATTOOL ",
+              "station": "MATTOOL ",
               "arrivalTime": "01:07 pm",
               "departureTime": "01:07 pm"
             }
@@ -90440,12 +90440,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " MATTOOL ",
+              "station": "MATTOOL ",
               "arrivalTime": "01:19 pm",
               "departureTime": "01:19 pm"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "01:49 pm",
               "departureTime": "01:50 pm"
             },
@@ -90465,7 +90465,7 @@
               "departureTime": "04:42 pm"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "05:33 pm",
               "departureTime": "05:33 pm"
             }
@@ -90475,12 +90475,12 @@
           "trip": 9,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "05:37 pm",
               "departureTime": "05:37 pm"
             },
             {
-              "station": " MATTOOL ",
+              "station": "MATTOOL ",
               "arrivalTime": "06:07 pm",
               "departureTime": "06:07 pm"
             }
@@ -90490,7 +90490,7 @@
           "trip": 10,
           "stations": [
             {
-              "station": " MATTOOL ",
+              "station": "MATTOOL ",
               "arrivalTime": "06:25 pm",
               "departureTime": "06:25 pm"
             },
@@ -90510,12 +90510,12 @@
               "departureTime": "07:16 pm"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "08:07 pm",
               "departureTime": "08:07 pm"
             },
             {
-              "station": " EZ HOME ",
+              "station": "EZ HOME ",
               "arrivalTime": "08:16 pm",
               "departureTime": "08:16 pm"
             }
@@ -94669,20 +94669,20 @@
     {
       "Vehicle Number": "KL 13 AD 189",
       "route": [
-        " PULLOOPPIKADAVU ",
+        "PULLOOPPIKADAVU ",
         "KANNUR HQ HOSP BUS STAND ",
         "KANNUR- THAVAKKARA BUS STAND ",
         "THALIPARAMB BUS ST AND ",
-        " SREEKANDAPURAM ",
-        " CHANDANAKKAMPARA ",
-        " VANCHIYAM"
+        "SREEKANDAPURAM ",
+        "CHANDANAKKAMPARA ",
+        "VANCHIYAM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " PULLOOPPIKADAVU ",
+              "station": "PULLOOPPIKADAVU ",
               "arrivalTime": "06:15 am",
               "departureTime": "06:15 am"
             },
@@ -94702,17 +94702,17 @@
               "departureTime": "08:00 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "08:40 am",
               "departureTime": "08:40 am"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "09:20 am",
               "departureTime": "09:20 am"
             },
             {
-              "station": " VANCHIYAM ",
+              "station": "VANCHIYAM ",
               "arrivalTime": "09:30 am",
               "departureTime": "09:30 am"
             }
@@ -94722,17 +94722,17 @@
           "trip": 2,
           "stations": [
             {
-              "station": " VANCHIYAM ",
+              "station": "VANCHIYAM ",
               "arrivalTime": "09:55 am",
               "departureTime": "09:55 am"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "10:00 am",
               "departureTime": "10:00 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "10:40 am",
               "departureTime": "10:50 am"
             },
@@ -94762,17 +94762,17 @@
               "departureTime": "02:00 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "02:40 pm",
               "departureTime": "02:40 pm"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "03:20 pm",
               "departureTime": "03:20 pm"
             },
             {
-              "station": " VANCHIYAM ",
+              "station": "VANCHIYAM ",
               "arrivalTime": "03:30 pm",
               "departureTime": "03:30 pm"
             }
@@ -94782,17 +94782,17 @@
           "trip": 4,
           "stations": [
             {
-              "station": " VANCHIYAM ",
+              "station": "VANCHIYAM ",
               "arrivalTime": "04:20 pm",
               "departureTime": "04:20 pm"
             },
             {
-              "station": " CHANDANAKKAMPARA ",
+              "station": "CHANDANAKKAMPARA ",
               "arrivalTime": "04:30 pm",
               "departureTime": "04:30 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "05:10 pm",
               "departureTime": "05:10 pm"
             }
@@ -94802,7 +94802,7 @@
           "trip": 5,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "05:15 pm",
               "departureTime": "05:15 pm"
             },
@@ -94827,7 +94827,7 @@
               "departureTime": "07:05 pm"
             },
             {
-              "station": " PULLOOPPIKADAVU ",
+              "station": "PULLOOPPIKADAVU ",
               "arrivalTime": "07:25 pm",
               "departureTime": "07:25 pm"
             }
@@ -97234,21 +97234,21 @@
       "Vehicle Number": "KL 57 G 8401",
       "route": [
         "KANNUR HQ HOSP BUS STAND ",
-        " MULLAKODY ",
-        " ORAPPADI ",
-        " MAYYIL"
+        "MULLAKODY ",
+        "ORAPPADI ",
+        "MAYYIL"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " MULLAKODY ",
+              "station": "MULLAKODY ",
               "arrivalTime": "06:50 am",
               "departureTime": "06:50 am"
             },
             {
-              "station": " ORAPPADI ",
+              "station": "ORAPPADI ",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             }
@@ -97258,7 +97258,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " ORAPPADI ",
+              "station": "ORAPPADI ",
               "arrivalTime": "07:05 am",
               "departureTime": "07:05 am"
             },
@@ -97278,7 +97278,7 @@
               "departureTime": "08:41 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:41 am",
               "departureTime": "09:41 am"
             }
@@ -97288,7 +97288,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "10:00 am",
               "departureTime": "10:00 am"
             },
@@ -97308,7 +97308,7 @@
               "departureTime": "11:40 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "12:40 pm",
               "departureTime": "12:40 pm"
             }
@@ -97318,7 +97318,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "01:00 pm",
               "departureTime": "01:00 pm"
             },
@@ -97338,7 +97338,7 @@
               "departureTime": "02:51 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "03:51 pm",
               "departureTime": "03:51 pm"
             }
@@ -97348,7 +97348,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "04:14 pm",
               "departureTime": "04:14 pm"
             },
@@ -97368,7 +97368,7 @@
               "departureTime": "06:10 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "07:10 pm",
               "departureTime": "07:10 pm"
             }
@@ -97378,12 +97378,12 @@
           "trip": 10,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "07:15 pm",
               "departureTime": "07:15 pm"
             },
             {
-              "station": " MULLAKODY ",
+              "station": "MULLAKODY ",
               "arrivalTime": "07:27 pm",
               "departureTime": "07:27 pm"
             }
@@ -101875,11 +101875,11 @@
     {
       "Vehicle Number": "KL 13 Z 1110",
       "route": [
-        " PULIMARAMCHEETHA ",
+        "PULIMARAMCHEETHA ",
         "CHERIYA AREEKKAMALA ",
-        " PULIKURUMBA ",
-        " CHEMPERI ",
-        " SREEKANDAPURAM ",
+        "PULIKURUMBA ",
+        "CHEMPERI ",
+        "SREEKANDAPURAM ",
         "THALIPARAMB BUS ST AND ",
         "KANNUR- THAVAKKARA BUS STAND"
       ],
@@ -101893,7 +101893,7 @@
               "departureTime": "07:10 am"
             },
             {
-              "station": " PULIMARAMCHEETHA ",
+              "station": "PULIMARAMCHEETHA ",
               "arrivalTime": "07:23 am",
               "departureTime": "07:23 am"
             }
@@ -101903,7 +101903,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " PULIMARAMCHEETHA ",
+              "station": "PULIMARAMCHEETHA ",
               "arrivalTime": "07:40 am",
               "departureTime": "07:40 am"
             },
@@ -101913,12 +101913,12 @@
               "departureTime": "07:53 am"
             },
             {
-              "station": " CHEMPERI ",
+              "station": "CHEMPERI ",
               "arrivalTime": "08:18 am",
               "departureTime": "08:18 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "08:48 am",
               "departureTime": "08:48 am"
             },
@@ -101958,12 +101958,12 @@
               "departureTime": "11:42 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "12:29 pm",
               "departureTime": "12:29 pm"
             },
             {
-              "station": " CHEMPERI ",
+              "station": "CHEMPERI ",
               "arrivalTime": "12:59 pm",
               "departureTime": "12:59 pm"
             }
@@ -101973,12 +101973,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " CHEMPERI ",
+              "station": "CHEMPERI ",
               "arrivalTime": "01:00 pm",
               "departureTime": "01:00 pm"
             },
             {
-              "station": " PULIKURUMBA ",
+              "station": "PULIKURUMBA ",
               "arrivalTime": "01:13 pm",
               "departureTime": "01:13 pm"
             }
@@ -101988,17 +101988,17 @@
           "trip": 6,
           "stations": [
             {
-              "station": " PULIKURUMBA ",
+              "station": "PULIKURUMBA ",
               "arrivalTime": "01:50 pm",
               "departureTime": "01:50 pm"
             },
             {
-              "station": " CHEMPERI ",
+              "station": "CHEMPERI ",
               "arrivalTime": "02:03 pm",
               "departureTime": "02:05 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "02:35 pm",
               "departureTime": "02:35 pm"
             },
@@ -102038,17 +102038,17 @@
               "departureTime": "06:23 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "07:10 pm",
               "departureTime": "07:10 pm"
             },
             {
-              "station": " CHEMPERI ",
+              "station": "CHEMPERI ",
               "arrivalTime": "07:40 pm",
               "departureTime": "07:40 pm"
             },
             {
-              "station": " PULIKURUMBA ",
+              "station": "PULIKURUMBA ",
               "arrivalTime": "07:53 pm",
               "departureTime": "07:53 pm"
             },
@@ -102058,7 +102058,7 @@
               "departureTime": "08:06 pm"
             },
             {
-              "station": " PULIMARAMCHEETHA ",
+              "station": "PULIMARAMCHEETHA ",
               "arrivalTime": "08:19 pm",
               "departureTime": "08:19 pm"
             }
@@ -102068,7 +102068,7 @@
           "trip": 9,
           "stations": [
             {
-              "station": " PULIMARAMCHEETHA ",
+              "station": "PULIMARAMCHEETHA ",
               "arrivalTime": "08:25 pm",
               "departureTime": "08:25 pm"
             },
@@ -102226,12 +102226,12 @@
     {
       "Vehicle Number": "KL 56 M 4687",
       "route": [
-        " PADUVILAKKAV ",
-        " KUTHUPARAMB ",
-        " VALIYAVELICHAM ",
-        " ANJARAKANDY ",
-        " CHALODE ",
-        " MAYYIL ",
+        "PADUVILAKKAV ",
+        "KUTHUPARAMB ",
+        "VALIYAVELICHAM ",
+        "ANJARAKANDY ",
+        "CHALODE ",
+        "MAYYIL ",
         "PARASSINIKADAVU BUS ST AND ",
         "KANNUR- THAVAKKARA BUS ST AND"
       ],
@@ -102240,17 +102240,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": " PADUVILAKKAV ",
+              "station": "PADUVILAKKAV ",
               "arrivalTime": "07:00 am",
               "departureTime": "07:00 am"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "07:20 am",
               "departureTime": "07:30 am"
             },
             {
-              "station": " VALIYAVELICHAM ",
+              "station": "VALIYAVELICHAM ",
               "arrivalTime": "07:42 am",
               "departureTime": "07:42 am"
             }
@@ -102260,12 +102260,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " VALIYAVELICHAM ",
+              "station": "VALIYAVELICHAM ",
               "arrivalTime": "08:00 am",
               "departureTime": "08:00 am"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "08:12 am",
               "departureTime": "08:12 am"
             }
@@ -102275,22 +102275,22 @@
           "trip": 3,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "08:15 am",
               "departureTime": "08:15 am"
             },
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "08:40 am",
               "departureTime": "08:45 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "09:00 am",
               "departureTime": "09:00 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:32 am",
               "departureTime": "09:45 am"
             },
@@ -102310,17 +102310,17 @@
               "departureTime": "10:10 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "10:30 am",
               "departureTime": "10:30 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "11:00 am",
               "departureTime": "11:00 am"
             },
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "11:15 am",
               "departureTime": "11:15 am"
             }
@@ -102330,12 +102330,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "11:20 am",
               "departureTime": "11:20 am"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "11:45 am",
               "departureTime": "11:45 am"
             }
@@ -102345,12 +102345,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "12:40 pm",
               "departureTime": "12:40 pm"
             }
@@ -102360,12 +102360,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "01:15 pm",
               "departureTime": "01:15 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "01:40 pm",
               "departureTime": "01:40 pm"
             }
@@ -102375,12 +102375,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "01:45 pm",
               "departureTime": "01:45 pm"
             },
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "02:10 pm",
               "departureTime": "02:10 pm"
             }
@@ -102390,7 +102390,7 @@
           "trip": 9,
           "stations": [
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "02:15 pm",
               "departureTime": "02:15 pm"
             },
@@ -102410,7 +102410,7 @@
               "departureTime": "04:09 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "05:22 pm",
               "departureTime": "05:22 pm"
             }
@@ -102420,12 +102420,12 @@
           "trip": 11,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "05:40 pm",
               "departureTime": "05:40 pm"
             },
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "06:05 pm",
               "departureTime": "06:08 pm"
             },
@@ -102445,12 +102445,12 @@
               "departureTime": "07:32 pm"
             },
             {
-              "station": " ANJARAKANDY ",
+              "station": "ANJARAKANDY ",
               "arrivalTime": "08:16 pm",
               "departureTime": "08:16 pm"
             },
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "08:41 pm",
               "departureTime": "08:41 pm"
             }
@@ -102460,12 +102460,12 @@
           "trip": 13,
           "stations": [
             {
-              "station": " KUTHUPARAMB ",
+              "station": "KUTHUPARAMB ",
               "arrivalTime": "08:45 pm",
               "departureTime": "08:45 pm"
             },
             {
-              "station": " PADUVILAKKAV ",
+              "station": "PADUVILAKKAV ",
               "arrivalTime": "09:05 pm",
               "departureTime": "09:05 pm"
             }
@@ -106397,12 +106397,12 @@
     {
       "Vehicle Number": "KL 13 X 3194",
       "route": [
-        " SREEKANDAPURAM ",
-        " MAYYIL ",
-        " KANDAKAI ",
-        " KARINKALKUZHI ",
-        " CHEKKIKKULAM ",
-        " CHALOD ",
+        "SREEKANDAPURAM ",
+        "MAYYIL ",
+        "KANDAKAI ",
+        "KARINKALKUZHI ",
+        "CHEKKIKKULAM ",
+        "CHALOD ",
         "KANNUR HQ HOSP BUS STAND ",
         "PARASSINIKADAVU BUS ST AND"
       ],
@@ -106411,17 +106411,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KARINKALKUZHI ",
+              "station": "KARINKALKUZHI ",
               "arrivalTime": "05:10 am",
               "departureTime": "05:10 am"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "05:30 am",
               "departureTime": "05:30 am"
             },
             {
-              "station": " CHALOD ",
+              "station": "CHALOD ",
               "arrivalTime": "05:55 am",
               "departureTime": "05:58 am"
             },
@@ -106441,7 +106441,7 @@
               "departureTime": "07:10 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "07:40 am",
               "departureTime": "07:40 am"
             }
@@ -106451,12 +106451,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "07:40 am",
               "departureTime": "07:40 am"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "07:55 am",
               "departureTime": "08:04 am"
             },
@@ -106476,7 +106476,7 @@
               "departureTime": "09:08 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "10:06 am",
               "departureTime": "10:06 am"
             }
@@ -106486,12 +106486,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "10:08 am",
               "departureTime": "10:08 am"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "10:50 am",
               "departureTime": "10:50 am"
             }
@@ -106501,12 +106501,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "11:16 am",
               "departureTime": "11:16 am"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "11:58 am",
               "departureTime": "11:58 am"
             },
@@ -106526,12 +106526,12 @@
               "departureTime": "03:30 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "04:28 pm",
               "departureTime": "04:28 pm"
             },
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "05:10 pm",
               "departureTime": "05:10 pm"
             }
@@ -106541,12 +106541,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " SREEKANDAPURAM ",
+              "station": "SREEKANDAPURAM ",
               "arrivalTime": "05:13 pm",
               "departureTime": "05:13 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "05:55 pm",
               "departureTime": "05:59 pm"
             },
@@ -106566,7 +106566,7 @@
               "departureTime": "08:35 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:33 pm",
               "departureTime": "09:33 pm"
             }
@@ -106576,12 +106576,12 @@
           "trip": 10,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:33 pm",
               "departureTime": "09:33 pm"
             },
             {
-              "station": " KANDAKAI ",
+              "station": "KANDAKAI ",
               "arrivalTime": "09:43 pm",
               "departureTime": "09:43 pm"
             }
@@ -106591,12 +106591,12 @@
           "trip": 11,
           "stations": [
             {
-              "station": " KANDAKAI ",
+              "station": "KANDAKAI ",
               "arrivalTime": "09:45 pm",
               "departureTime": "09:45 pm"
             },
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:55 pm",
               "departureTime": "09:55 pm"
             }
@@ -106606,12 +106606,12 @@
           "trip": 12,
           "stations": [
             {
-              "station": " MAYYIL ",
+              "station": "MAYYIL ",
               "arrivalTime": "09:55 pm",
               "departureTime": "09:55 pm"
             },
             {
-              "station": " CHALOD ",
+              "station": "CHALOD ",
               "arrivalTime": "10:25 pm",
               "departureTime": "10:25 pm"
             },
@@ -106631,7 +106631,7 @@
               "departureTime": "11:30 pm"
             },
             {
-              "station": " KARINKALKUZHI ",
+              "station": "KARINKALKUZHI ",
               "arrivalTime": "11:43 pm",
               "departureTime": "11:43 pm"
             }
@@ -113344,9 +113344,9 @@
     {
       "Vehicle Number": "KL 59 B 900",
       "route": [
-        " MUNDERIMOTTA ",
-        " CHALODE ",
-        " CHEKKIKKULAM ",
+        "MUNDERIMOTTA ",
+        "CHALODE ",
+        "CHEKKIKKULAM ",
         "KANNUR HQ HOSP BUS STAND"
       ],
       "schedule": [
@@ -113354,17 +113354,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": " MUNDERIMOTTA ",
+              "station": "MUNDERIMOTTA ",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "07:30 am",
               "departureTime": "07:55 am"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "08:20 am",
               "departureTime": "08:20 am"
             },
@@ -113384,12 +113384,12 @@
               "departureTime": "09:25 am"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "10:12 am",
               "departureTime": "10:12 am"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "10:37 am",
               "departureTime": "10:37 am"
             }
@@ -113399,12 +113399,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "10:50 am",
               "departureTime": "10:50 am"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "11:15 am",
               "departureTime": "11:15 am"
             },
@@ -113424,12 +113424,12 @@
               "departureTime": "12:15 pm"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "01:02 pm",
               "departureTime": "01:02 pm"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "01:27 pm",
               "departureTime": "01:27 pm"
             }
@@ -113439,12 +113439,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "02:25 pm",
               "departureTime": "02:25 pm"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "02:50 pm",
               "departureTime": "02:50 pm"
             },
@@ -113464,12 +113464,12 @@
               "departureTime": "04:50 pm"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "05:37 pm",
               "departureTime": "05:37 pm"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "06:02 pm",
               "departureTime": "06:02 pm"
             }
@@ -113479,12 +113479,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "06:20 pm",
               "departureTime": "06:20 pm"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "06:45 pm",
               "departureTime": "06:45 pm"
             },
@@ -113504,17 +113504,17 @@
               "departureTime": "07:40 pm"
             },
             {
-              "station": " CHEKKIKKULAM ",
+              "station": "CHEKKIKKULAM ",
               "arrivalTime": "08:27 pm",
               "departureTime": "08:27 pm"
             },
             {
-              "station": " CHALODE ",
+              "station": "CHALODE ",
               "arrivalTime": "08:52 pm",
               "departureTime": "09:00 pm"
             },
             {
-              "station": " MUNDERIMOTTA ",
+              "station": "MUNDERIMOTTA ",
               "arrivalTime": "09:20 pm",
               "departureTime": "09:20 pm"
             }
@@ -117106,11 +117106,11 @@
     {
       "Vehicle Number": "KL 13 Y 1899",
       "route": [
-        " KAVINMUNAMBU ",
-        " MULLOOL ",
+        "KAVINMUNAMBU ",
+        "MULLOOL ",
         "THALIPARAMBA TALUK HOSP STOP ",
-        " PAZ HAYANADI ",
-        " NERUVAMBRAM ",
+        "PAZ HAYANADI ",
+        "NERUVAMBRAM ",
         "PARIYARAM MEDICAL COLLEGE ",
         "KANNUR- THAVAKKARA BUS STAND"
       ],
@@ -117119,12 +117119,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " NERUVAMBRAM ",
+              "station": "NERUVAMBRAM ",
               "arrivalTime": "06:41 am",
               "departureTime": "06:41 am"
             },
             {
-              "station": " KAVINMUNAMBU ",
+              "station": "KAVINMUNAMBU ",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             }
@@ -117134,7 +117134,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " KAVINMUNAMBU ",
+              "station": "KAVINMUNAMBU ",
               "arrivalTime": "06:57 am",
               "departureTime": "06:57 am"
             },
@@ -117159,7 +117159,7 @@
               "departureTime": "07:50 am"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "08:05 am",
               "departureTime": "08:05 am"
             }
@@ -117169,7 +117169,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "08:20 am",
               "departureTime": "08:20 am"
             },
@@ -117189,7 +117189,7 @@
               "departureTime": "09:35 am"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "10:26 am",
               "departureTime": "10:26 am"
             }
@@ -117199,7 +117199,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "10:40 am",
               "departureTime": "10:40 am"
             },
@@ -117219,7 +117219,7 @@
               "departureTime": "11:30 am"
             },
             {
-              "station": " MULLOOL ",
+              "station": "MULLOOL ",
               "arrivalTime": "11:57 am",
               "departureTime": "11:57 am"
             }
@@ -117229,7 +117229,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " MULLOOL ",
+              "station": "MULLOOL ",
               "arrivalTime": "11:58 am",
               "departureTime": "11:58 am"
             },
@@ -117239,7 +117239,7 @@
               "departureTime": "12:25 pm"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "01:00 pm",
               "departureTime": "01:00 pm"
             }
@@ -117249,7 +117249,7 @@
           "trip": 9,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "01:29 pm",
               "departureTime": "01:29 pm"
             },
@@ -117269,7 +117269,7 @@
               "departureTime": "02:58 pm"
             },
             {
-              "station": " MULLOOL ",
+              "station": "MULLOOL ",
               "arrivalTime": "03:25 pm",
               "departureTime": "03:25 pm"
             }
@@ -117279,7 +117279,7 @@
           "trip": 11,
           "stations": [
             {
-              "station": " MULLOOL ",
+              "station": "MULLOOL ",
               "arrivalTime": "03:26 pm",
               "departureTime": "03:26 pm"
             },
@@ -117289,7 +117289,7 @@
               "departureTime": "03:54 pm"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "04:29 pm",
               "departureTime": "04:36 pm"
             },
@@ -117309,7 +117309,7 @@
               "departureTime": "05:40 pm"
             },
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "06:31 pm",
               "departureTime": "06:31 pm"
             }
@@ -117319,7 +117319,7 @@
           "trip": 13,
           "stations": [
             {
-              "station": " PAZ HAYANADI ",
+              "station": "PAZ HAYANADI ",
               "arrivalTime": "06:31 pm",
               "departureTime": "06:31 pm"
             },
@@ -117354,7 +117354,7 @@
               "departureTime": "07:36 pm"
             },
             {
-              "station": " NERUVAMBRAM ",
+              "station": "NERUVAMBRAM ",
               "arrivalTime": "08:09 pm",
               "departureTime": "08:09 pm"
             }
@@ -130351,7 +130351,7 @@
       "route": [
         "PARASSINIKADAVU BUS STAND ",
         "KANNUR- THAVAKKARA BUS ST AND ",
-        " THALASSERRY"
+        "THALASSERRY"
       ],
       "schedule": [
         {
@@ -130368,7 +130368,7 @@
               "departureTime": "09:07 am"
             },
             {
-              "station": " THALASSERRY ",
+              "station": "THALASSERRY ",
               "arrivalTime": "10:06 am",
               "departureTime": "10:06 am"
             }
@@ -130378,7 +130378,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " THALASSERRY ",
+              "station": "THALASSERRY ",
               "arrivalTime": "10:10 am",
               "departureTime": "10:10 am"
             },
@@ -130418,7 +130418,7 @@
               "departureTime": "01:20 pm"
             },
             {
-              "station": " THALASSERRY ",
+              "station": "THALASSERRY ",
               "arrivalTime": "02:13 pm",
               "departureTime": "02:13 pm"
             }
@@ -130428,7 +130428,7 @@
           "trip": 5,
           "stations": [
             {
-              "station": " THALASSERRY ",
+              "station": "THALASSERRY ",
               "arrivalTime": "02:18 pm",
               "departureTime": "02:18 pm"
             },
@@ -130468,7 +130468,7 @@
               "departureTime": "05:42 pm"
             },
             {
-              "station": " THALASSERRY ",
+              "station": "THALASSERRY ",
               "arrivalTime": "06:35 pm",
               "departureTime": "06:35 pm"
             }
@@ -130478,7 +130478,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " THALASSERRY ",
+              "station": "THALASSERRY ",
               "arrivalTime": "06:52 pm",
               "departureTime": "06:52 pm"
             },

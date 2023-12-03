@@ -15429,7 +15429,7 @@
         "NILAMEL ",
         "KALLAMBALAM ",
         "ATTINGAL",
-        " CHIRAYINKEEZHU ",
+        "CHIRAYINKEEZHU ",
         "AZ HOOR"
       ],
       "schedule": [
@@ -15467,7 +15467,7 @@
               "departureTime": "08:30 am"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "08:45 am",
               "departureTime": "08:45 am"
             },
@@ -15487,7 +15487,7 @@
               "departureTime": "10:05 am"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "10:25 am",
               "departureTime": "10:25 am"
             },
@@ -15557,7 +15557,7 @@
               "departureTime": "04:40 pm"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "04:55 pm",
               "departureTime": "04:55 pm"
             },
@@ -15577,7 +15577,7 @@
               "departureTime": "05:20 pm"
             },
             {
-              "station": " CHIRAYINKEEZHU ",
+              "station": "CHIRAYINKEEZHU ",
               "arrivalTime": "05:40 pm",
               "departureTime": "05:40 pm"
             },
@@ -55737,7 +55737,7 @@
       "route": [
         "KOTTUKUNNAM TEMPLE ",
         "VENJARAMOODU",
-        " ATTINGAL ",
+        "ATTINGAL ",
         "PERANAM TEMPLE"
       ],
       "schedule": [
@@ -55755,7 +55755,7 @@
               "departureTime": "07:25 am"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "07:55 am",
               "departureTime": "07:55 am"
             },
@@ -55775,7 +55775,7 @@
               "departureTime": "09:25 am"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "09:40 am",
               "departureTime": "09:40 am"
             },
@@ -55805,7 +55805,7 @@
               "departureTime": "12:05 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "12:33 pm",
               "departureTime": "12:33 pm"
             },
@@ -55825,7 +55825,7 @@
               "departureTime": "02:35 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "02:50 pm",
               "departureTime": "02:50 pm"
             },
@@ -55855,7 +55855,7 @@
               "departureTime": "04:07 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "04:37 pm",
               "departureTime": "04:37 pm"
             },
@@ -55875,7 +55875,7 @@
               "departureTime": "05:10 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "05:25 pm",
               "departureTime": "05:25 pm"
             },
@@ -55905,7 +55905,7 @@
               "departureTime": "06:55 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "07:25 pm",
               "departureTime": "07:25 pm"
             },
@@ -55925,7 +55925,7 @@
               "departureTime": "08:10 pm"
             },
             {
-              "station": " ATTINGAL ",
+              "station": "ATTINGAL ",
               "arrivalTime": "08:25 pm",
               "departureTime": "08:25 pm"
             },

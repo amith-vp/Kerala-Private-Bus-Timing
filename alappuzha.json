@@ -84643,31 +84643,31 @@
     {
       "Vehicle Number": "KL 04 AJ 8770",
       "route": [
-        " MANNANCHERY",
-        " THALAVADY",
-        " ALAPPUZHA",
+        "MANNANCHERY",
+        "THALAVADY",
+        "ALAPPUZHA",
         "GENERAL HOSPITAL",
         "ALAPPUZHA RAILWAY STATION",
         "CHANGANASSERY MUKKU",
         "SN KAVALA",
-        " KANJIPPADAM"
+        "KANJIPPADAM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "06:17 am",
               "departureTime": "06:17 am"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "06:30 am",
               "departureTime": "06:30 am"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "06:42 am",
               "departureTime": "06:42 am"
             },
@@ -84692,7 +84692,7 @@
               "departureTime": "07:35 am"
             },
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "07:43 am",
               "departureTime": "07:43 am"
             }
@@ -84702,7 +84702,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "07:43 am",
               "departureTime": "07:43 am"
             },
@@ -84727,17 +84727,17 @@
               "departureTime": "08:35 am"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "08:44 am",
               "departureTime": "08:44 am"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "08:56 am",
               "departureTime": "08:56 am"
             },
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "09:09 am",
               "departureTime": "09:09 am"
             }
@@ -84747,17 +84747,17 @@
           "trip": 3,
           "stations": [
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "09:21 am",
               "departureTime": "09:21 am"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "09:34 am",
               "departureTime": "09:34 am"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "09:46 am",
               "departureTime": "09:46 am"
             },
@@ -84782,7 +84782,7 @@
               "departureTime": "10:39 am"
             },
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "10:47 am",
               "departureTime": "10:47 am"
             }
@@ -84792,7 +84792,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "10:48 am",
               "departureTime": "10:48 am"
             },
@@ -84817,17 +84817,17 @@
               "departureTime": "11:40 am"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "11:49 am",
               "departureTime": "11:49 am"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "12:01 pm",
               "departureTime": "12:01 pm"
             },
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "12:14 pm",
               "departureTime": "12:14 pm"
             }
@@ -84837,17 +84837,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "12:28 pm",
               "departureTime": "12:28 pm"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "12:40 pm",
               "departureTime": "12:40 pm"
             },
@@ -84872,7 +84872,7 @@
               "departureTime": "01:33 pm"
             },
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "01:41 pm",
               "departureTime": "01:41 pm"
             }
@@ -84882,7 +84882,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "01:56 pm",
               "departureTime": "01:56 pm"
             },
@@ -84907,17 +84907,17 @@
               "departureTime": "02:48 pm"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "02:57 pm",
               "departureTime": "02:57 pm"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "03:09 pm",
               "departureTime": "03:09 pm"
             },
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "03:22 pm",
               "departureTime": "03:22 pm"
             }
@@ -84927,17 +84927,17 @@
           "trip": 7,
           "stations": [
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "03:23 pm",
               "departureTime": "03:23 pm"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "03:36 pm",
               "departureTime": "03:36 pm"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "03:48 pm",
               "departureTime": "03:48 pm"
             },
@@ -84962,7 +84962,7 @@
               "departureTime": "04:41 pm"
             },
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "04:49 pm",
               "departureTime": "04:49 pm"
             }
@@ -84972,7 +84972,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "04:52 pm",
               "departureTime": "04:52 pm"
             },
@@ -84997,17 +84997,17 @@
               "departureTime": "05:44 pm"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "05:53 pm",
               "departureTime": "05:53 pm"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "06:05 pm",
               "departureTime": "06:05 pm"
             },
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "06:18 pm",
               "departureTime": "06:18 pm"
             }
@@ -85017,17 +85017,17 @@
           "trip": 9,
           "stations": [
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "06:20 pm",
               "departureTime": "06:20 pm"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "06:33 pm",
               "departureTime": "06:33 pm"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "06:45 pm",
               "departureTime": "06:45 pm"
             },
@@ -85052,7 +85052,7 @@
               "departureTime": "07:38 pm"
             },
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "07:46 pm",
               "departureTime": "07:46 pm"
             }
@@ -85062,7 +85062,7 @@
           "trip": 10,
           "stations": [
             {
-              "station": " KANJIPPADAM",
+              "station": "KANJIPPADAM",
               "arrivalTime": "07:46 pm",
               "departureTime": "07:46 pm"
             },
@@ -85087,17 +85087,17 @@
               "departureTime": "08:38 pm"
             },
             {
-              "station": " ALAPPUZHA",
+              "station": "ALAPPUZHA",
               "arrivalTime": "08:47 pm",
               "departureTime": "08:47 pm"
             },
             {
-              "station": " THALAVADY",
+              "station": "THALAVADY",
               "arrivalTime": "08:59 pm",
               "departureTime": "08:59 pm"
             },
             {
-              "station": " MANNANCHERY",
+              "station": "MANNANCHERY",
               "arrivalTime": "09:12 pm",
               "departureTime": "09:12 pm"
             }

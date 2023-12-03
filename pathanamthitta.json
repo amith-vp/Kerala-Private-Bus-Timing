@@ -32035,7 +32035,7 @@
         "MAVELIKARA ",
         "PANDALAM JUNCT ION ",
         "PATHANAMT HITTA",
-        " POOMKAVU ",
+        "POOMKAVU ",
         "V KOTTAYAM"
       ],
       "schedule": [
@@ -32068,7 +32068,7 @@
               "departureTime": "08:20 am"
             },
             {
-              "station": " POOMKAVU ",
+              "station": "POOMKAVU ",
               "arrivalTime": "08:35 am",
               "departureTime": "08:35 am"
             },
@@ -32088,7 +32088,7 @@
               "departureTime": "09:37 am"
             },
             {
-              "station": " POOMKAVU ",
+              "station": "POOMKAVU ",
               "arrivalTime": "09:52 am",
               "departureTime": "09:52 am"
             },
@@ -32148,7 +32148,7 @@
               "departureTime": "03:50 pm"
             },
             {
-              "station": " POOMKAVU ",
+              "station": "POOMKAVU ",
               "arrivalTime": "04:05 pm",
               "departureTime": "04:05 pm"
             }
@@ -32158,7 +32158,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " POOMKAVU ",
+              "station": "POOMKAVU ",
               "arrivalTime": "04:10 pm",
               "departureTime": "04:10 pm"
             },
@@ -32980,13 +32980,13 @@
     {
       "Vehicle Number": "KL 06 H 1026",
       "route": [
-        " MAVELIKARA ",
+        "MAVELIKARA ",
         "PARUMALA KURISHU BUS STOP ",
         "PERUNNA BUS STAND ",
         "KAVUMBHAGOM JN ",
         "THIRUVALLA PVT. BUS ST AND ",
-        " PAIPPAD ",
-        " THENGANA"
+        "PAIPPAD ",
+        "THENGANA"
       ],
       "schedule": [
         {
@@ -33008,12 +33008,12 @@
               "departureTime": "06:24 am"
             },
             {
-              "station": " PAIPPAD ",
+              "station": "PAIPPAD ",
               "arrivalTime": "06:44 am",
               "departureTime": "06:44 am"
             },
             {
-              "station": " THENGANA ",
+              "station": "THENGANA ",
               "arrivalTime": "07:04 am",
               "departureTime": "07:04 am"
             }
@@ -33023,12 +33023,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " THENGANA ",
+              "station": "THENGANA ",
               "arrivalTime": "07:05 am",
               "departureTime": "07:05 am"
             },
             {
-              "station": " PAIPPAD ",
+              "station": "PAIPPAD ",
               "arrivalTime": "07:25 am",
               "departureTime": "07:25 am"
             },
@@ -33058,7 +33058,7 @@
               "departureTime": "08:34 am"
             },
             {
-              "station": " MAVELIKARA ",
+              "station": "MAVELIKARA ",
               "arrivalTime": "08:59 am",
               "departureTime": "08:59 am"
             }
@@ -33068,7 +33068,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " MAVELIKARA ",
+              "station": "MAVELIKARA ",
               "arrivalTime": "09:10 am",
               "departureTime": "09:10 am"
             },
@@ -33108,7 +33108,7 @@
               "departureTime": "10:47 am"
             },
             {
-              "station": " MAVELIKARA ",
+              "station": "MAVELIKARA ",
               "arrivalTime": "11:12 am",
               "departureTime": "11:12 am"
             }
@@ -33118,7 +33118,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " MAVELIKARA ",
+              "station": "MAVELIKARA ",
               "arrivalTime": "12:48 pm",
               "departureTime": "12:48 pm"
             },
@@ -33148,12 +33148,12 @@
               "departureTime": "01:57 pm"
             },
             {
-              "station": " PAIPPAD ",
+              "station": "PAIPPAD ",
               "arrivalTime": "02:17 pm",
               "departureTime": "02:17 pm"
             },
             {
-              "station": " THENGANA ",
+              "station": "THENGANA ",
               "arrivalTime": "02:37 pm",
               "departureTime": "02:37 pm"
             }
@@ -33163,12 +33163,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " THENGANA ",
+              "station": "THENGANA ",
               "arrivalTime": "03:00 pm",
               "departureTime": "03:00 pm"
             },
             {
-              "station": " PAIPPAD ",
+              "station": "PAIPPAD ",
               "arrivalTime": "03:20 pm",
               "departureTime": "03:20 pm"
             },
@@ -33198,7 +33198,7 @@
               "departureTime": "04:15 pm"
             },
             {
-              "station": " MAVELIKARA ",
+              "station": "MAVELIKARA ",
               "arrivalTime": "04:40 pm",
               "departureTime": "04:40 pm"
             }
@@ -33208,7 +33208,7 @@
           "trip": 10,
           "stations": [
             {
-              "station": " MAVELIKARA ",
+              "station": "MAVELIKARA ",
               "arrivalTime": "04:50 pm",
               "departureTime": "04:50 pm"
             },
@@ -33238,12 +33238,12 @@
               "departureTime": "06:01 pm"
             },
             {
-              "station": " PAIPPAD ",
+              "station": "PAIPPAD ",
               "arrivalTime": "06:21 pm",
               "departureTime": "06:21 pm"
             },
             {
-              "station": " THENGANA ",
+              "station": "THENGANA ",
               "arrivalTime": "06:41 pm",
               "departureTime": "06:41 pm"
             }
@@ -33253,12 +33253,12 @@
           "trip": 12,
           "stations": [
             {
-              "station": " THENGANA ",
+              "station": "THENGANA ",
               "arrivalTime": "07:15 pm",
               "departureTime": "07:15 pm"
             },
             {
-              "station": " PAIPPAD ",
+              "station": "PAIPPAD ",
               "arrivalTime": "07:35 pm",
               "departureTime": "07:35 pm"
             },
@@ -35688,7 +35688,7 @@
         "PADAM JN ",
         "PATHANAPURAM ",
         "ADOOR BUS STAND",
-        " ENATHU"
+        "ENATHU"
       ],
       "schedule": [
         {
@@ -35710,7 +35710,7 @@
               "departureTime": "06:50 am"
             },
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "07:10 am",
               "departureTime": "07:10 am"
             }
@@ -35720,7 +35720,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "07:15 am",
               "departureTime": "07:15 am"
             },
@@ -35760,7 +35760,7 @@
               "departureTime": "10:12 am"
             },
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "10:32 am",
               "departureTime": "10:32 am"
             }
@@ -35770,7 +35770,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "11:25 am",
               "departureTime": "11:25 am"
             },
@@ -35810,7 +35810,7 @@
               "departureTime": "02:50 pm"
             },
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "03:10 pm",
               "departureTime": "03:10 pm"
             }
@@ -35820,7 +35820,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "04:05 pm",
               "departureTime": "04:05 pm"
             },
@@ -35860,7 +35860,7 @@
               "departureTime": "07:35 pm"
             },
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "07:55 pm",
               "departureTime": "07:55 pm"
             }
@@ -35870,7 +35870,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " ENATHU ",
+              "station": "ENATHU ",
               "arrivalTime": "08:25 pm",
               "departureTime": "08:25 pm"
             },
@@ -51008,11 +51008,11 @@
       "Vehicle Number": "KL 29 H 8067",
       "route": [
         "PUTHUKKULAM JN, MALAYALAPPUZHA ",
-        " MALAYALAPPUZHA ",
-        " PATHANAMTHITTA ",
+        "MALAYALAPPUZHA ",
+        "PATHANAMTHITTA ",
         "PANDALAM JUNCT ION ",
-        " CHARUMMOODU ",
-        " KAYAMKULAM ",
+        "CHARUMMOODU ",
+        "KAYAMKULAM ",
         "KOCHIYU JETTY"
       ],
       "schedule": [
@@ -51025,12 +51025,12 @@
               "departureTime": "05:40 am"
             },
             {
-              "station": " MALAYALAPPUZHA ",
+              "station": "MALAYALAPPUZHA ",
               "arrivalTime": "05:50 am",
               "departureTime": "05:50 am"
             },
             {
-              "station": " PATHANAMTHITTA ",
+              "station": "PATHANAMTHITTA ",
               "arrivalTime": "06:10 am",
               "departureTime": "06:10 am"
             },
@@ -51040,12 +51040,12 @@
               "departureTime": "07:00 am"
             },
             {
-              "station": " CHARUMMOODU ",
+              "station": "CHARUMMOODU ",
               "arrivalTime": "07:30 am",
               "departureTime": "07:30 am"
             },
             {
-              "station": " KAYAMKULAM ",
+              "station": "KAYAMKULAM ",
               "arrivalTime": "08:00 am",
               "departureTime": "08:00 am"
             }
@@ -51055,12 +51055,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " KAYAMKULAM ",
+              "station": "KAYAMKULAM ",
               "arrivalTime": "08:14 am",
               "departureTime": "08:14 am"
             },
             {
-              "station": " CHARUMMOODU ",
+              "station": "CHARUMMOODU ",
               "arrivalTime": "08:44 am",
               "departureTime": "08:45 am"
             },
@@ -51070,12 +51070,12 @@
               "departureTime": "09:24 am"
             },
             {
-              "station": " PATHANAMTHITTA ",
+              "station": "PATHANAMTHITTA ",
               "arrivalTime": "10:04 am",
               "departureTime": "10:04 am"
             },
             {
-              "station": " MALAYALAPPUZHA ",
+              "station": "MALAYALAPPUZHA ",
               "arrivalTime": "10:24 am",
               "departureTime": "10:24 am"
             },
@@ -51095,12 +51095,12 @@
               "departureTime": "10:59 am"
             },
             {
-              "station": " MALAYALAPPUZHA ",
+              "station": "MALAYALAPPUZHA ",
               "arrivalTime": "11:09 am",
               "departureTime": "11:09 am"
             },
             {
-              "station": " PATHANAMTHITTA ",
+              "station": "PATHANAMTHITTA ",
               "arrivalTime": "11:29 am",
               "departureTime": "11:29 am"
             },
@@ -51110,12 +51110,12 @@
               "departureTime": "12:15 pm"
             },
             {
-              "station": " CHARUMMOODU ",
+              "station": "CHARUMMOODU ",
               "arrivalTime": "12:45 pm",
               "departureTime": "12:45 pm"
             },
             {
-              "station": " KAYAMKULAM ",
+              "station": "KAYAMKULAM ",
               "arrivalTime": "01:15 pm",
               "departureTime": "01:20 pm"
             },
@@ -51135,12 +51135,12 @@
               "departureTime": "02:02 pm"
             },
             {
-              "station": " KAYAMKULAM ",
+              "station": "KAYAMKULAM ",
               "arrivalTime": "02:17 pm",
               "departureTime": "02:17 pm"
             },
             {
-              "station": " CHARUMMOODU ",
+              "station": "CHARUMMOODU ",
               "arrivalTime": "02:47 pm",
               "departureTime": "02:47 pm"
             },
@@ -51160,12 +51160,12 @@
               "departureTime": "03:30 pm"
             },
             {
-              "station": " CHARUMMOODU ",
+              "station": "CHARUMMOODU ",
               "arrivalTime": "04:00 pm",
               "departureTime": "04:00 pm"
             },
             {
-              "station": " KAYAMKULAM ",
+              "station": "KAYAMKULAM ",
               "arrivalTime": "04:30 pm",
               "departureTime": "04:30 pm"
             },
@@ -51185,12 +51185,12 @@
               "departureTime": "05:12 pm"
             },
             {
-              "station": " KAYAMKULAM ",
+              "station": "KAYAMKULAM ",
               "arrivalTime": "05:27 pm",
               "departureTime": "05:27 pm"
             },
             {
-              "station": " CHARUMMOODU ",
+              "station": "CHARUMMOODU ",
               "arrivalTime": "05:57 pm",
               "departureTime": "05:57 pm"
             },
@@ -51200,12 +51200,12 @@
               "departureTime": "06:31 pm"
             },
             {
-              "station": " PATHANAMTHITTA ",
+              "station": "PATHANAMTHITTA ",
               "arrivalTime": "07:11 pm",
               "departureTime": "07:11 pm"
             },
             {
-              "station": " MALAYALAPPUZHA ",
+              "station": "MALAYALAPPUZHA ",
               "arrivalTime": "07:31 pm",
               "departureTime": "07:31 pm"
             },

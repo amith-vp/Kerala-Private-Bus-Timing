@@ -1968,20 +1968,20 @@
     {
       "Vehicle Number": "KL 07 AR 6226",
       "route": [
-        " KUMMANODU",
+        "KUMMANODU",
         "PERUMBAVOOR PRIVATE BUS STAND",
-        " ARACKAPPADY",
-        " PATTIMATTOM",
+        "ARACKAPPADY",
+        "PATTIMATTOM",
         "KOLENCHERY BUS ST AND",
-        " MEENPARA",
-        " THAMMANIMATTOM"
+        "MEENPARA",
+        "THAMMANIMATTOM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " KUMMANODU",
+              "station": "KUMMANODU",
               "arrivalTime": "06:30 am",
               "departureTime": "06:30 am"
             },
@@ -1991,12 +1991,12 @@
               "departureTime": "06:57 am"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "07:16 am",
               "departureTime": "07:16 am"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "07:33 am",
               "departureTime": "07:37 am"
             },
@@ -2006,7 +2006,7 @@
               "departureTime": "07:54 am"
             },
             {
-              "station": " MEENPARA",
+              "station": "MEENPARA",
               "arrivalTime": "08:05 am",
               "departureTime": "08:05 am"
             }
@@ -2016,7 +2016,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " MEENPARA",
+              "station": "MEENPARA",
               "arrivalTime": "08:06 am",
               "departureTime": "08:06 am"
             },
@@ -2026,12 +2026,12 @@
               "departureTime": "08:17 am"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "08:34 am",
               "departureTime": "08:34 am"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "08:51 am",
               "departureTime": "08:52 am"
             },
@@ -2051,12 +2051,12 @@
               "departureTime": "09:36 am"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "09:55 am",
               "departureTime": "09:55 am"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "10:12 am",
               "departureTime": "10:12 am"
             },
@@ -2076,7 +2076,7 @@
               "departureTime": "11:15 am"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "11:49 am",
               "departureTime": "11:49 am"
             },
@@ -2096,12 +2096,12 @@
               "departureTime": "12:12 pm"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "12:31 pm",
               "departureTime": "12:31 pm"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "12:48 pm",
               "departureTime": "12:48 pm"
             },
@@ -2111,7 +2111,7 @@
               "departureTime": "01:05 pm"
             },
             {
-              "station": " MEENPARA",
+              "station": "MEENPARA",
               "arrivalTime": "01:16 pm",
               "departureTime": "01:16 pm"
             }
@@ -2121,7 +2121,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " MEENPARA",
+              "station": "MEENPARA",
               "arrivalTime": "01:50 pm",
               "departureTime": "01:50 pm"
             },
@@ -2131,12 +2131,12 @@
               "departureTime": "02:12 pm"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "02:29 pm",
               "departureTime": "02:29 pm"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "02:46 pm",
               "departureTime": "02:48 pm"
             },
@@ -2156,12 +2156,12 @@
               "departureTime": "03:12 pm"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "03:31 pm",
               "departureTime": "03:31 pm"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "03:48 pm",
               "departureTime": "03:51 pm"
             },
@@ -2171,7 +2171,7 @@
               "departureTime": "04:40 pm"
             },
             {
-              "station": " THAMMANIMATTOM",
+              "station": "THAMMANIMATTOM",
               "arrivalTime": "04:53 pm",
               "departureTime": "04:53 pm"
             }
@@ -2181,7 +2181,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " THAMMANIMATTOM",
+              "station": "THAMMANIMATTOM",
               "arrivalTime": "05:00 pm",
               "departureTime": "05:00 pm"
             },
@@ -2191,12 +2191,12 @@
               "departureTime": "05:17 pm"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "05:34 pm",
               "departureTime": "05:34 pm"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "05:51 pm",
               "departureTime": "05:51 pm"
             },
@@ -2216,12 +2216,12 @@
               "departureTime": "06:21 pm"
             },
             {
-              "station": " ARACKAPPADY",
+              "station": "ARACKAPPADY",
               "arrivalTime": "06:40 pm",
               "departureTime": "06:40 pm"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "06:57 pm",
               "departureTime": "06:57 pm"
             },
@@ -2241,7 +2241,7 @@
               "departureTime": "07:35 pm"
             },
             {
-              "station": " PATTIMATTOM",
+              "station": "PATTIMATTOM",
               "arrivalTime": "07:50 pm",
               "departureTime": "07:50 pm"
             },
@@ -2251,7 +2251,7 @@
               "departureTime": "09:15 pm"
             },
             {
-              "station": " KUMMANODU",
+              "station": "KUMMANODU",
               "arrivalTime": "09:40 pm",
               "departureTime": "09:40 pm"
             }
@@ -16883,23 +16883,23 @@
       "Vehicle Number": "KL 40 Q 6609",
       "route": [
         "PERUMBAVOOR PRIVATE BUS STAND",
-        " METHALA",
-        " CHERUVATTOOR",
+        "METHALA",
+        "CHERUVATTOOR",
         "KOTHAMANGALAM PRIVATE BUS STAND- MARKET ROAD",
-        " VALIYAPARA",
-        " PARAITHOTTAM"
+        "VALIYAPARA",
+        "PARAITHOTTAM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " CHERUVATTOOR",
+              "station": "CHERUVATTOOR",
               "arrivalTime": "06:15 am",
               "departureTime": "06:15 am"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "06:30 am",
               "departureTime": "06:30 am"
             }
@@ -16909,7 +16909,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "06:50 am",
               "departureTime": "06:50 am"
             },
@@ -16934,12 +16934,12 @@
               "departureTime": "08:10 am"
             },
             {
-              "station": " VALIYAPARA",
+              "station": "VALIYAPARA",
               "arrivalTime": "08:25 am",
               "departureTime": "08:25 am"
             },
             {
-              "station": " PARAITHOTTAM",
+              "station": "PARAITHOTTAM",
               "arrivalTime": "08:30 am",
               "departureTime": "08:30 am"
             }
@@ -16949,12 +16949,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " PARAITHOTTAM",
+              "station": "PARAITHOTTAM",
               "arrivalTime": "08:30 am",
               "departureTime": "08:30 am"
             },
             {
-              "station": " VALIYAPARA",
+              "station": "VALIYAPARA",
               "arrivalTime": "08:35 am",
               "departureTime": "08:35 am"
             },
@@ -16964,7 +16964,7 @@
               "departureTime": "08:55 am"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "09:25 am",
               "departureTime": "09:25 am"
             },
@@ -16984,17 +16984,17 @@
               "departureTime": "10:10 am"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "10:45 am",
               "departureTime": "10:45 am"
             },
             {
-              "station": " CHERUVATTOOR",
+              "station": "CHERUVATTOOR",
               "arrivalTime": "11:15 am",
               "departureTime": "11:16 am"
             },
             {
-              "station": " VALIYAPARA",
+              "station": "VALIYAPARA",
               "arrivalTime": "11:31 am",
               "departureTime": "11:31 am"
             }
@@ -17004,7 +17004,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " VALIYAPARA",
+              "station": "VALIYAPARA",
               "arrivalTime": "11:50 am",
               "departureTime": "11:50 am"
             },
@@ -17029,7 +17029,7 @@
               "departureTime": "01:07 pm"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "01:42 pm",
               "departureTime": "01:44 pm"
             },
@@ -17049,7 +17049,7 @@
               "departureTime": "02:30 pm"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "03:00 pm",
               "departureTime": "03:00 pm"
             },
@@ -17069,7 +17069,7 @@
               "departureTime": "03:55 pm"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "04:30 pm",
               "departureTime": "04:30 pm"
             },
@@ -17079,12 +17079,12 @@
               "departureTime": "05:10 pm"
             },
             {
-              "station": " VALIYAPARA",
+              "station": "VALIYAPARA",
               "arrivalTime": "05:25 pm",
               "departureTime": "05:25 pm"
             },
             {
-              "station": " PARAITHOTTAM",
+              "station": "PARAITHOTTAM",
               "arrivalTime": "05:30 pm",
               "departureTime": "05:30 pm"
             }
@@ -17094,12 +17094,12 @@
           "trip": 10,
           "stations": [
             {
-              "station": " PARAITHOTTAM",
+              "station": "PARAITHOTTAM",
               "arrivalTime": "05:42 pm",
               "departureTime": "05:42 pm"
             },
             {
-              "station": " VALIYAPARA",
+              "station": "VALIYAPARA",
               "arrivalTime": "05:47 pm",
               "departureTime": "05:47 pm"
             },
@@ -17124,12 +17124,12 @@
               "departureTime": "07:50 pm"
             },
             {
-              "station": " METHALA",
+              "station": "METHALA",
               "arrivalTime": "08:25 pm",
               "departureTime": "08:25 pm"
             },
             {
-              "station": " CHERUVATTOOR",
+              "station": "CHERUVATTOOR",
               "arrivalTime": "08:40 pm",
               "departureTime": "08:40 pm"
             }
@@ -17718,11 +17718,11 @@
     {
       "Vehicle Number": "KL 03 S 34",
       "route": [
-        " PINAVOORKUDY",
-        " VELLARAMKUTHU",
-        " POOYAMKUTTY",
-        " KUTTAMPUZ HA",
-        " THATTEKADU",
+        "PINAVOORKUDY",
+        "VELLARAMKUTHU",
+        "POOYAMKUTTY",
+        "KUTTAMPUZ HA",
+        "THATTEKADU",
         "KOTHAMANGALAM PRIVATE BUS STAND- MARKET ROAD"
       ],
       "schedule": [
@@ -17730,17 +17730,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KUTTAMPUZ HA",
+              "station": "KUTTAMPUZ HA",
               "arrivalTime": "07:05 am",
               "departureTime": "07:05 am"
             },
             {
-              "station": " POOYAMKUTTY",
+              "station": "POOYAMKUTTY",
               "arrivalTime": "07:25 am",
               "departureTime": "07:25 am"
             },
             {
-              "station": " VELLARAMKUTHU",
+              "station": "VELLARAMKUTHU",
               "arrivalTime": "07:35 am",
               "departureTime": "07:35 am"
             }
@@ -17750,17 +17750,17 @@
           "trip": 2,
           "stations": [
             {
-              "station": " VELLARAMKUTHU",
+              "station": "VELLARAMKUTHU",
               "arrivalTime": "07:52 am",
               "departureTime": "07:52 am"
             },
             {
-              "station": " POOYAMKUTTY",
+              "station": "POOYAMKUTTY",
               "arrivalTime": "08:02 am",
               "departureTime": "08:02 am"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "08:42 am",
               "departureTime": "08:42 am"
             },
@@ -17780,12 +17780,12 @@
               "departureTime": "10:25 am"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "10:55 am",
               "departureTime": "10:55 am"
             },
             {
-              "station": " PINAVOORKUDY",
+              "station": "PINAVOORKUDY",
               "arrivalTime": "11:30 am",
               "departureTime": "11:30 am"
             }
@@ -17795,12 +17795,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " PINAVOORKUDY",
+              "station": "PINAVOORKUDY",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "12:50 pm",
               "departureTime": "12:55 pm"
             },
@@ -17820,17 +17820,17 @@
               "departureTime": "01:43 pm"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "02:13 pm",
               "departureTime": "02:13 pm"
             },
             {
-              "station": " POOYAMKUTTY",
+              "station": "POOYAMKUTTY",
               "arrivalTime": "02:53 pm",
               "departureTime": "02:53 pm"
             },
             {
-              "station": " VELLARAMKUTHU",
+              "station": "VELLARAMKUTHU",
               "arrivalTime": "03:03 pm",
               "departureTime": "03:03 pm"
             }
@@ -17840,17 +17840,17 @@
           "trip": 6,
           "stations": [
             {
-              "station": " VELLARAMKUTHU",
+              "station": "VELLARAMKUTHU",
               "arrivalTime": "03:38 pm",
               "departureTime": "03:38 pm"
             },
             {
-              "station": " POOYAMKUTTY",
+              "station": "POOYAMKUTTY",
               "arrivalTime": "03:48 pm",
               "departureTime": "03:48 pm"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "04:28 pm",
               "departureTime": "04:28 pm"
             },
@@ -17870,17 +17870,17 @@
               "departureTime": "05:27 pm"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "05:57 pm",
               "departureTime": "05:57 pm"
             },
             {
-              "station": " POOYAMKUTTY",
+              "station": "POOYAMKUTTY",
               "arrivalTime": "06:37 pm",
               "departureTime": "06:37 pm"
             },
             {
-              "station": " VELLARAMKUTHU",
+              "station": "VELLARAMKUTHU",
               "arrivalTime": "06:47 pm",
               "departureTime": "06:47 pm"
             }
@@ -17890,12 +17890,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " VELLARAMKUTHU",
+              "station": "VELLARAMKUTHU",
               "arrivalTime": "06:50 pm",
               "departureTime": "06:50 pm"
             },
             {
-              "station": " KUTTAMPUZ HA",
+              "station": "KUTTAMPUZ HA",
               "arrivalTime": "07:20 pm",
               "departureTime": "07:20 pm"
             }
@@ -24922,25 +24922,25 @@
     {
       "Vehicle Number": "KL 05 W 4577",
       "route": [
-        " AVOLICHAL",
-        " NERIAMANGALAM BUS ST AND",
-        " PERUMANOOR",
-        " ALLUNKAL",
+        "AVOLICHAL",
+        "NERIAMANGALAM BUS ST AND",
+        "PERUMANOOR",
+        "ALLUNKAL",
         "KOTHAMANGALAM PRIVATE BUS STAND- MARKET ROAD",
-        " MUVATTUPUZHA",
-        " AYAVANA"
+        "MUVATTUPUZHA",
+        "AYAVANA"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " AVOLICHAL",
+              "station": "AVOLICHAL",
               "arrivalTime": "06:10 am",
               "departureTime": "06:10 am"
             },
             {
-              "station": " PERUMANOOR",
+              "station": "PERUMANOOR",
               "arrivalTime": "06:40 am",
               "departureTime": "06:40 am"
             },
@@ -24950,7 +24950,7 @@
               "departureTime": "07:20 am"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "07:50 am",
               "departureTime": "07:50 am"
             }
@@ -24960,7 +24960,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "08:25 am",
               "departureTime": "08:25 am"
             },
@@ -24970,7 +24970,7 @@
               "departureTime": "08:55 am"
             },
             {
-              "station": " ALLUNKAL",
+              "station": "ALLUNKAL",
               "arrivalTime": "09:35 am",
               "departureTime": "09:35 am"
             }
@@ -24980,7 +24980,7 @@
           "trip": 3,
           "stations": [
             {
-              "station": " ALLUNKAL",
+              "station": "ALLUNKAL",
               "arrivalTime": "10:00 am",
               "departureTime": "10:00 am"
             },
@@ -24990,12 +24990,12 @@
               "departureTime": "10:44 am"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "11:14 am",
               "departureTime": "11:15 am"
             },
             {
-              "station": " AYAVANA",
+              "station": "AYAVANA",
               "arrivalTime": "11:40 am",
               "departureTime": "11:40 am"
             }
@@ -25005,12 +25005,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " AYAVANA",
+              "station": "AYAVANA",
               "arrivalTime": "12:10 pm",
               "departureTime": "12:10 pm"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "12:35 pm",
               "departureTime": "12:55 pm"
             },
@@ -25020,12 +25020,12 @@
               "departureTime": "01:33 pm"
             },
             {
-              "station": " NERIAMANGALAM BUS ST AND",
+              "station": "NERIAMANGALAM BUS ST AND",
               "arrivalTime": "02:23 pm",
               "departureTime": "02:24 pm"
             },
             {
-              "station": " AVOLICHAL",
+              "station": "AVOLICHAL",
               "arrivalTime": "02:34 pm",
               "departureTime": "02:34 pm"
             }
@@ -25035,12 +25035,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " AVOLICHAL",
+              "station": "AVOLICHAL",
               "arrivalTime": "02:35 pm",
               "departureTime": "02:35 pm"
             },
             {
-              "station": " NERIAMANGALAM BUS ST AND",
+              "station": "NERIAMANGALAM BUS ST AND",
               "arrivalTime": "02:45 pm",
               "departureTime": "02:45 pm"
             },
@@ -25050,12 +25050,12 @@
               "departureTime": "03:35 pm"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "04:05 pm",
               "departureTime": "04:15 pm"
             },
             {
-              "station": " AYAVANA",
+              "station": "AYAVANA",
               "arrivalTime": "04:40 pm",
               "departureTime": "04:40 pm"
             }
@@ -25065,12 +25065,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " AYAVANA",
+              "station": "AYAVANA",
               "arrivalTime": "04:50 pm",
               "departureTime": "04:50 pm"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "05:15 pm",
               "departureTime": "05:17 pm"
             },
@@ -25080,12 +25080,12 @@
               "departureTime": "05:50 pm"
             },
             {
-              "station": " NERIAMANGALAM BUS ST AND",
+              "station": "NERIAMANGALAM BUS ST AND",
               "arrivalTime": "06:40 pm",
               "departureTime": "06:40 pm"
             },
             {
-              "station": " AVOLICHAL",
+              "station": "AVOLICHAL",
               "arrivalTime": "06:50 pm",
               "departureTime": "06:50 pm"
             }
@@ -25095,12 +25095,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " AVOLICHAL",
+              "station": "AVOLICHAL",
               "arrivalTime": "06:51 pm",
               "departureTime": "06:51 pm"
             },
             {
-              "station": " NERIAMANGALAM BUS ST AND",
+              "station": "NERIAMANGALAM BUS ST AND",
               "arrivalTime": "07:01 pm",
               "departureTime": "07:01 pm"
             },
@@ -25120,12 +25120,12 @@
               "departureTime": "08:15 pm"
             },
             {
-              "station": " PERUMANOOR",
+              "station": "PERUMANOOR",
               "arrivalTime": "08:45 pm",
               "departureTime": "08:45 pm"
             },
             {
-              "station": " AVOLICHAL",
+              "station": "AVOLICHAL",
               "arrivalTime": "09:15 pm",
               "departureTime": "09:15 pm"
             }
@@ -31584,19 +31584,19 @@
     {
       "Vehicle Number": "KL 44 7513",
       "route": [
-        " VADATTUPARA",
+        "VADATTUPARA",
         "KOTHAMANGALAM PRIVATE BUS STAND- MARKET ROAD",
         "PERUMBAVOOR PRIVATE BUS STAND",
         "UPPUKANDAM JUNCTION",
-        " THATTEKADU",
-        " PINAVOORKUDY"
+        "THATTEKADU",
+        "PINAVOORKUDY"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " VADATTUPARA",
+              "station": "VADATTUPARA",
               "arrivalTime": "06:42 am",
               "departureTime": "06:42 am"
             },
@@ -31606,12 +31606,12 @@
               "departureTime": "08:06 am"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "08:36 am",
               "departureTime": "08:36 am"
             },
             {
-              "station": " PINAVOORKUDY",
+              "station": "PINAVOORKUDY",
               "arrivalTime": "09:11 am",
               "departureTime": "09:11 am"
             }
@@ -31621,12 +31621,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " PINAVOORKUDY",
+              "station": "PINAVOORKUDY",
               "arrivalTime": "09:47 am",
               "departureTime": "09:47 am"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "10:22 am",
               "departureTime": "10:22 am"
             },
@@ -31676,12 +31676,12 @@
               "departureTime": "01:24 pm"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "01:54 pm",
               "departureTime": "01:54 pm"
             },
             {
-              "station": " PINAVOORKUDY",
+              "station": "PINAVOORKUDY",
               "arrivalTime": "02:29 pm",
               "departureTime": "02:29 pm"
             }
@@ -31691,12 +31691,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " PINAVOORKUDY",
+              "station": "PINAVOORKUDY",
               "arrivalTime": "02:55 pm",
               "departureTime": "02:55 pm"
             },
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "03:30 pm",
               "departureTime": "03:30 pm"
             }
@@ -31706,7 +31706,7 @@
           "trip": 7,
           "stations": [
             {
-              "station": " THATTEKADU",
+              "station": "THATTEKADU",
               "arrivalTime": "03:31 pm",
               "departureTime": "03:31 pm"
             },
@@ -31756,7 +31756,7 @@
               "departureTime": "05:56 pm"
             },
             {
-              "station": " VADATTUPARA",
+              "station": "VADATTUPARA",
               "arrivalTime": "06:56 pm",
               "departureTime": "06:56 pm"
             }
@@ -41788,39 +41788,39 @@
       "Vehicle Number": "KL 25 3969",
       "route": [
         "PERUMBAVOOR PRIVATE BUS STAND",
-        " KIZHAKKAMBALAM",
-        " KARIMUGAL",
-        " THRIPUNITHURA",
-        " KALOOR",
-        " PALARIVATTOM",
-        " VYTTILA"
+        "KIZHAKKAMBALAM",
+        "KARIMUGAL",
+        "THRIPUNITHURA",
+        "KALOOR",
+        "PALARIVATTOM",
+        "VYTTILA"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "07:27 am",
               "departureTime": "07:27 am"
             },
             {
-              "station": " KARIMUGAL",
+              "station": "KARIMUGAL",
               "arrivalTime": "07:47 am",
               "departureTime": "07:47 am"
             },
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "08:07 am",
               "departureTime": "08:07 am"
             },
             {
-              "station": " KALOOR",
+              "station": "KALOOR",
               "arrivalTime": "08:37 am",
               "departureTime": "08:41 am"
             },
             {
-              "station": " PALARIVATTOM",
+              "station": "PALARIVATTOM",
               "arrivalTime": "08:47 am",
               "departureTime": "08:47 am"
             }
@@ -41830,12 +41830,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " VYTTILA",
+              "station": "VYTTILA",
               "arrivalTime": "09:02 am",
               "departureTime": "09:02 am"
             },
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "09:17 am",
               "departureTime": "09:17 am"
             }
@@ -41845,17 +41845,17 @@
           "trip": 3,
           "stations": [
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "09:40 am",
               "departureTime": "09:40 am"
             },
             {
-              "station": " KARIMUGAL",
+              "station": "KARIMUGAL",
               "arrivalTime": "10:00 am",
               "departureTime": "10:00 am"
             },
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "10:20 am",
               "departureTime": "10:23 am"
             },
@@ -41875,22 +41875,22 @@
               "departureTime": "12:45 pm"
             },
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "01:20 pm",
               "departureTime": "01:20 pm"
             },
             {
-              "station": " KARIMUGAL",
+              "station": "KARIMUGAL",
               "arrivalTime": "01:40 pm",
               "departureTime": "01:40 pm"
             },
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "02:00 pm",
               "departureTime": "02:00 pm"
             },
             {
-              "station": " KALOOR",
+              "station": "KALOOR",
               "arrivalTime": "02:33 pm",
               "departureTime": "02:33 pm"
             }
@@ -41900,17 +41900,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": " KALOOR",
+              "station": "KALOOR",
               "arrivalTime": "02:44 pm",
               "departureTime": "02:44 pm"
             },
             {
-              "station": " PALARIVATTOM",
+              "station": "PALARIVATTOM",
               "arrivalTime": "02:50 pm",
               "departureTime": "02:50 pm"
             },
             {
-              "station": " VYTTILA",
+              "station": "VYTTILA",
               "arrivalTime": "03:05 pm",
               "departureTime": "03:05 pm"
             }
@@ -41920,22 +41920,22 @@
           "trip": 6,
           "stations": [
             {
-              "station": " VYTTILA",
+              "station": "VYTTILA",
               "arrivalTime": "03:05 pm",
               "departureTime": "03:05 pm"
             },
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "03:20 pm",
               "departureTime": "04:08 pm"
             },
             {
-              "station": " KARIMUGAL",
+              "station": "KARIMUGAL",
               "arrivalTime": "04:28 pm",
               "departureTime": "04:28 pm"
             },
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "04:48 pm",
               "departureTime": "04:48 pm"
             }
@@ -41945,7 +41945,7 @@
           "trip": 7,
           "stations": [
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "04:52 pm",
               "departureTime": "04:52 pm"
             },
@@ -41965,17 +41965,17 @@
               "departureTime": "05:51 pm"
             },
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "06:26 pm",
               "departureTime": "06:26 pm"
             },
             {
-              "station": " KARIMUGAL",
+              "station": "KARIMUGAL",
               "arrivalTime": "06:46 pm",
               "departureTime": "06:48 pm"
             },
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "07:08 pm",
               "departureTime": "07:08 pm"
             }
@@ -41985,17 +41985,17 @@
           "trip": 9,
           "stations": [
             {
-              "station": " THRIPUNITHURA",
+              "station": "THRIPUNITHURA",
               "arrivalTime": "07:27 pm",
               "departureTime": "07:27 pm"
             },
             {
-              "station": " KARIMUGAL",
+              "station": "KARIMUGAL",
               "arrivalTime": "07:47 pm",
               "departureTime": "07:47 pm"
             },
             {
-              "station": " KIZHAKKAMBALAM",
+              "station": "KIZHAKKAMBALAM",
               "arrivalTime": "08:07 pm",
               "departureTime": "08:07 pm"
             }

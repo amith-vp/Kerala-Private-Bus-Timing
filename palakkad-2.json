@@ -6104,11 +6104,11 @@
     {
       "Vehicle Number": "KL 09 M 1166",
       "route": [
-        " K T PADI ",
-        " VANIYAMKULAM- ",
-        " OTTAPALAM ",
+        "K T PADI ",
+        "VANIYAMKULAM- ",
+        "OTTAPALAM ",
         "PAVUKONAM JUMA MASJID, PAVUKKONAM, KERALA, INDIA ",
-        " ANTHOORPARAMBU"
+        "ANTHOORPARAMBU"
       ],
       "schedule": [
         {
@@ -6120,7 +6120,7 @@
               "departureTime": "05:30 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "06:00 am",
               "departureTime": "06:00 am"
             }
@@ -6130,7 +6130,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "06:01 am",
               "departureTime": "06:01 am"
             },
@@ -6140,7 +6140,7 @@
               "departureTime": "06:31 am"
             },
             {
-              "station": " ANTHOORPARAMBU ",
+              "station": "ANTHOORPARAMBU ",
               "arrivalTime": "06:36 am",
               "departureTime": "06:36 am"
             }
@@ -6150,7 +6150,7 @@
           "trip": 3,
           "stations": [
             {
-              "station": " ANTHOORPARAMBU ",
+              "station": "ANTHOORPARAMBU ",
               "arrivalTime": "07:15 am",
               "departureTime": "07:15 am"
             },
@@ -6160,7 +6160,7 @@
               "departureTime": "07:20 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "07:50 am",
               "departureTime": "07:50 am"
             }
@@ -6170,12 +6170,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "08:06 am",
               "departureTime": "08:06 am"
             },
             {
-              "station": " VANIYAMKULAM- ",
+              "station": "VANIYAMKULAM- ",
               "arrivalTime": "08:21 am",
               "departureTime": "08:21 am"
             }
@@ -6185,7 +6185,7 @@
           "trip": 5,
           "stations": [
             {
-              "station": " VANIYAMKULAM- ",
+              "station": "VANIYAMKULAM- ",
               "arrivalTime": "08:22 am",
               "departureTime": "08:22 am"
             },
@@ -6195,7 +6195,7 @@
               "departureTime": "08:37 am"
             },
             {
-              "station": " ANTHOORPARAMBU ",
+              "station": "ANTHOORPARAMBU ",
               "arrivalTime": "08:42 am",
               "departureTime": "08:42 am"
             }
@@ -6205,7 +6205,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " VANIYAMKULAM- ",
+              "station": "VANIYAMKULAM- ",
               "arrivalTime": "09:25 am",
               "departureTime": "09:25 am"
             }
@@ -6215,12 +6215,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " VANIYAMKULAM- ",
+              "station": "VANIYAMKULAM- ",
               "arrivalTime": "09:25 am",
               "departureTime": "09:25 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "09:40 am",
               "departureTime": "09:40 am"
             }
@@ -6230,12 +6230,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "10:35 am",
               "departureTime": "10:35 am"
             },
             {
-              "station": " K T PADI ",
+              "station": "K T PADI ",
               "arrivalTime": "11:00 am",
               "departureTime": "11:00 am"
             }
@@ -6245,12 +6245,12 @@
           "trip": 9,
           "stations": [
             {
-              "station": " K T PADI ",
+              "station": "K T PADI ",
               "arrivalTime": "11:15 am",
               "departureTime": "11:15 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "11:40 am",
               "departureTime": "11:40 am"
             }
@@ -6260,12 +6260,12 @@
           "trip": 10,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "11:55 am",
               "departureTime": "11:55 am"
             },
             {
-              "station": " K T PADI ",
+              "station": "K T PADI ",
               "arrivalTime": "12:20 pm",
               "departureTime": "12:20 pm"
             }
@@ -6275,12 +6275,12 @@
           "trip": 11,
           "stations": [
             {
-              "station": " K T PADI ",
+              "station": "K T PADI ",
               "arrivalTime": "12:30 pm",
               "departureTime": "12:30 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "01:00 pm",
               "departureTime": "01:30 pm"
             },
@@ -6300,7 +6300,7 @@
               "departureTime": "02:10 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "02:45 pm",
               "departureTime": "02:45 pm"
             }
@@ -6310,7 +6310,7 @@
           "trip": 13,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "02:52 pm",
               "departureTime": "02:52 pm"
             },
@@ -6330,7 +6330,7 @@
               "departureTime": "03:30 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "04:00 pm",
               "departureTime": "04:00 pm"
             }
@@ -6340,7 +6340,7 @@
           "trip": 15,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "04:35 pm",
               "departureTime": "04:35 pm"
             },
@@ -6360,7 +6360,7 @@
               "departureTime": "05:05 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "05:35 pm",
               "departureTime": "05:35 pm"
             }
@@ -6370,7 +6370,7 @@
           "trip": 17,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "05:45 pm",
               "departureTime": "05:45 pm"
             }
@@ -6380,7 +6380,7 @@
           "trip": 18,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "06:45 pm",
               "departureTime": "06:45 pm"
             }
@@ -6390,7 +6390,7 @@
           "trip": 19,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "07:55 pm",
               "departureTime": "07:55 pm"
             },
@@ -6410,7 +6410,7 @@
               "departureTime": "08:26 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "08:56 pm",
               "departureTime": "08:56 pm"
             }
@@ -6420,7 +6420,7 @@
           "trip": 21,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "09:00 pm",
               "departureTime": "09:00 pm"
             },
@@ -15113,19 +15113,19 @@
       "Vehicle Number": "KL 51 H 2311",
       "route": [
         "PAVUKONAM JUMA MASJID, PAVUKKONAM, KERALA, INDIA ",
-        " KOONATHARA, ",
-        " SHORNUR, ",
-        " OTTAPALAM ",
-        " CHOROTTUR, ",
-        " MEETNA ",
-        " RLY ROAD"
+        "KOONATHARA, ",
+        "SHORNUR, ",
+        "OTTAPALAM ",
+        "CHOROTTUR, ",
+        "MEETNA ",
+        "RLY ROAD"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " KOONATHARA, ",
+              "station": "KOONATHARA, ",
               "arrivalTime": "05:30 am",
               "departureTime": "05:30 am"
             },
@@ -15145,12 +15145,12 @@
               "departureTime": "06:12 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "06:42 am",
               "departureTime": "06:43 am"
             },
             {
-              "station": " CHOROTTUR, ",
+              "station": "CHOROTTUR, ",
               "arrivalTime": "07:13 am",
               "departureTime": "07:13 am"
             }
@@ -15160,12 +15160,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " CHOROTTUR, ",
+              "station": "CHOROTTUR, ",
               "arrivalTime": "07:40 am",
               "departureTime": "07:40 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "08:05 am",
               "departureTime": "08:05 am"
             }
@@ -15175,7 +15175,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "08:15 am",
               "departureTime": "08:15 am"
             },
@@ -15195,7 +15195,7 @@
               "departureTime": "08:45 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "09:15 am",
               "departureTime": "09:15 am"
             }
@@ -15205,7 +15205,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "09:16 am",
               "departureTime": "09:16 am"
             },
@@ -15225,12 +15225,12 @@
               "departureTime": "09:47 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "10:17 am",
               "departureTime": "10:40 am"
             },
             {
-              "station": " CHOROTTUR, ",
+              "station": "CHOROTTUR, ",
               "arrivalTime": "11:05 am",
               "departureTime": "11:05 am"
             }
@@ -15240,12 +15240,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " CHOROTTUR, ",
+              "station": "CHOROTTUR, ",
               "arrivalTime": "11:15 am",
               "departureTime": "11:15 am"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "11:40 am",
               "departureTime": "11:40 am"
             }
@@ -15255,17 +15255,17 @@
           "trip": 9,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "11:45 am",
               "departureTime": "11:45 am"
             },
             {
-              "station": " MEETNA ",
+              "station": "MEETNA ",
               "arrivalTime": "11:55 am",
               "departureTime": "11:55 am"
             },
             {
-              "station": " RLY ROAD ",
+              "station": "RLY ROAD ",
               "arrivalTime": "11:57 am",
               "departureTime": "11:57 am"
             }
@@ -15275,17 +15275,17 @@
           "trip": 10,
           "stations": [
             {
-              "station": " RLY ROAD ",
+              "station": "RLY ROAD ",
               "arrivalTime": "11:57 am",
               "departureTime": "11:57 am"
             },
             {
-              "station": " MEETNA ",
+              "station": "MEETNA ",
               "arrivalTime": "12:00 pm",
               "departureTime": "12:00 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "12:10 pm",
               "departureTime": "12:10 pm"
             }
@@ -15295,7 +15295,7 @@
           "trip": 11,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
@@ -15315,17 +15315,17 @@
               "departureTime": "12:50 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "01:20 pm",
               "departureTime": "02:05 pm"
             },
             {
-              "station": " MEETNA ",
+              "station": "MEETNA ",
               "arrivalTime": "02:15 pm",
               "departureTime": "02:15 pm"
             },
             {
-              "station": " RLY ROAD ",
+              "station": "RLY ROAD ",
               "arrivalTime": "02:17 pm",
               "departureTime": "02:17 pm"
             }
@@ -15335,17 +15335,17 @@
           "trip": 13,
           "stations": [
             {
-              "station": " RLY ROAD ",
+              "station": "RLY ROAD ",
               "arrivalTime": "02:17 pm",
               "departureTime": "02:17 pm"
             },
             {
-              "station": " MEETNA ",
+              "station": "MEETNA ",
               "arrivalTime": "02:20 pm",
               "departureTime": "02:20 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "02:30 pm",
               "departureTime": "02:30 pm"
             }
@@ -15355,7 +15355,7 @@
           "trip": 14,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "02:40 pm",
               "departureTime": "02:40 pm"
             },
@@ -15375,7 +15375,7 @@
               "departureTime": "03:11 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "03:41 pm",
               "departureTime": "03:41 pm"
             }
@@ -15385,7 +15385,7 @@
           "trip": 16,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "03:45 pm",
               "departureTime": "03:45 pm"
             },
@@ -15405,7 +15405,7 @@
               "departureTime": "04:16 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "04:46 pm",
               "departureTime": "04:46 pm"
             }
@@ -15415,7 +15415,7 @@
           "trip": 18,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "04:50 pm",
               "departureTime": "04:50 pm"
             },
@@ -15435,7 +15435,7 @@
               "departureTime": "05:25 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "05:55 pm",
               "departureTime": "05:55 pm"
             }
@@ -15445,7 +15445,7 @@
           "trip": 20,
           "stations": [
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "06:00 pm",
               "departureTime": "06:00 pm"
             },
@@ -15465,12 +15465,12 @@
               "departureTime": "06:35 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "07:05 pm",
               "departureTime": "07:15 pm"
             },
             {
-              "station": " CHOROTTUR, ",
+              "station": "CHOROTTUR, ",
               "arrivalTime": "07:40 pm",
               "departureTime": "07:40 pm"
             }
@@ -15480,12 +15480,12 @@
           "trip": 22,
           "stations": [
             {
-              "station": " CHOROTTUR, ",
+              "station": "CHOROTTUR, ",
               "arrivalTime": "07:41 pm",
               "departureTime": "07:41 pm"
             },
             {
-              "station": " OTTAPALAM ",
+              "station": "OTTAPALAM ",
               "arrivalTime": "08:06 pm",
               "departureTime": "08:06 pm"
             },
@@ -15505,7 +15505,7 @@
               "departureTime": "08:37 pm"
             },
             {
-              "station": " SHORNUR, ",
+              "station": "SHORNUR, ",
               "arrivalTime": "09:07 pm",
               "departureTime": "09:07 pm"
             }
@@ -15515,7 +15515,7 @@
           "trip": 24,
           "stations": [
             {
-              "station": " SHORNUR, ",
+              "station": "SHORNUR, ",
               "arrivalTime": "09:08 pm",
               "departureTime": "09:08 pm"
             },
@@ -15535,7 +15535,7 @@
               "departureTime": "09:40 pm"
             },
             {
-              "station": " SHORNUR, ",
+              "station": "SHORNUR, ",
               "arrivalTime": "10:10 pm",
               "departureTime": "10:10 pm"
             }
@@ -15545,7 +15545,7 @@
           "trip": 26,
           "stations": [
             {
-              "station": " SHORNUR, ",
+              "station": "SHORNUR, ",
               "arrivalTime": "10:12 pm",
               "departureTime": "10:12 pm"
             },
@@ -15565,7 +15565,7 @@
               "departureTime": "10:43 pm"
             },
             {
-              "station": " SHORNUR, ",
+              "station": "SHORNUR, ",
               "arrivalTime": "11:13 pm",
               "departureTime": "11:13 pm"
             }
@@ -15575,12 +15575,12 @@
           "trip": 28,
           "stations": [
             {
-              "station": " SHORNUR, ",
+              "station": "SHORNUR, ",
               "arrivalTime": "11:15 pm",
               "departureTime": "11:15 pm"
             },
             {
-              "station": " KOONATHARA, ",
+              "station": "KOONATHARA, ",
               "arrivalTime": "11:35 pm",
               "departureTime": "11:35 pm"
             }
@@ -49109,11 +49109,11 @@
     {
       "Vehicle Number": "KL 70 B 0016",
       "route": [
-        " ALATHUR, KERALA, INDIA ",
-        " PAZHAMBALACODE ",
-        " PERINGOTTUKURISSY ",
-        " PALAKKAD, KERALA, INDIA ",
-        " CHITTUR ",
+        "ALATHUR, KERALA, INDIA ",
+        "PAZHAMBALACODE ",
+        "PERINGOTTUKURISSY ",
+        "PALAKKAD, KERALA, INDIA ",
+        "CHITTUR ",
         "KUTTIPPALLAM JUNCTION, KUTTIPPALLAM, CHITTUR, KERALA, INDIA"
       ],
       "schedule": [
@@ -49121,7 +49121,7 @@
           "trip": 1,
           "stations": [
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "07:02 am",
               "departureTime": "07:02 am"
             },
@@ -49141,12 +49141,12 @@
               "departureTime": "07:45 am"
             },
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "08:20 am",
               "departureTime": "08:20 am"
             },
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "09:00 am",
               "departureTime": "09:00 am"
             }
@@ -49156,12 +49156,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "09:15 am",
               "departureTime": "09:15 am"
             },
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "09:55 am",
               "departureTime": "09:55 am"
             }
@@ -49171,12 +49171,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "10:18 am",
               "departureTime": "10:18 am"
             },
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "10:58 am",
               "departureTime": "10:58 am"
             }
@@ -49186,17 +49186,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "11:15 am",
               "departureTime": "11:15 am"
             },
             {
-              "station": " PERINGOTTUKURISSY ",
+              "station": "PERINGOTTUKURISSY ",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
             {
-              "station": " PAZHAMBALACODE ",
+              "station": "PAZHAMBALACODE ",
               "arrivalTime": "12:45 pm",
               "departureTime": "12:45 pm"
             }
@@ -49206,12 +49206,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " PAZHAMBALACODE ",
+              "station": "PAZHAMBALACODE ",
               "arrivalTime": "12:50 pm",
               "departureTime": "12:50 pm"
             },
             {
-              "station": " ALATHUR, KERALA, INDIA ",
+              "station": "ALATHUR, KERALA, INDIA ",
               "arrivalTime": "01:25 pm",
               "departureTime": "01:25 pm"
             }
@@ -49221,27 +49221,27 @@
           "trip": 7,
           "stations": [
             {
-              "station": " ALATHUR, KERALA, INDIA ",
+              "station": "ALATHUR, KERALA, INDIA ",
               "arrivalTime": "01:35 pm",
               "departureTime": "01:35 pm"
             },
             {
-              "station": " PAZHAMBALACODE ",
+              "station": "PAZHAMBALACODE ",
               "arrivalTime": "02:10 pm",
               "departureTime": "02:10 pm"
             },
             {
-              "station": " PERINGOTTUKURISSY ",
+              "station": "PERINGOTTUKURISSY ",
               "arrivalTime": "02:40 pm",
               "departureTime": "03:07 pm"
             },
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "04:07 pm",
               "departureTime": "04:32 pm"
             },
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "05:12 pm",
               "departureTime": "05:12 pm"
             },
@@ -49261,12 +49261,12 @@
               "departureTime": "06:30 pm"
             },
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "07:00 pm",
               "departureTime": "07:00 pm"
             },
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "07:40 pm",
               "departureTime": "07:40 pm"
             }
@@ -49276,12 +49276,12 @@
           "trip": 9,
           "stations": [
             {
-              "station": " PALAKKAD, KERALA, INDIA ",
+              "station": "PALAKKAD, KERALA, INDIA ",
               "arrivalTime": "07:45 pm",
               "departureTime": "07:45 pm"
             },
             {
-              "station": " CHITTUR ",
+              "station": "CHITTUR ",
               "arrivalTime": "08:25 pm",
               "departureTime": "08:25 pm"
             }
@@ -63662,11 +63662,11 @@
     {
       "Vehicle Number": "KL 04 K 3845",
       "route": [
-        " VELANTHAVALAM ",
-        " WALAYAR JN ",
-        " ATTAPPALLAM ",
-        " KANJIKODE ",
-        " KOZ HINJAMPARA ",
+        "VELANTHAVALAM ",
+        "WALAYAR JN ",
+        "ATTAPPALLAM ",
+        "KANJIKODE ",
+        "KOZ HINJAMPARA ",
         "PALAKKAD STADIUM BUS STAND"
       ],
       "schedule": [
@@ -63674,12 +63674,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "05:30 am",
               "departureTime": "05:30 am"
             },
             {
-              "station": " WALAYAR JN ",
+              "station": "WALAYAR JN ",
               "arrivalTime": "05:51 am",
               "departureTime": "05:51 am"
             }
@@ -63689,12 +63689,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " WALAYAR JN ",
+              "station": "WALAYAR JN ",
               "arrivalTime": "05:52 am",
               "departureTime": "05:52 am"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "06:22 am",
               "departureTime": "06:22 am"
             },
@@ -63714,7 +63714,7 @@
               "departureTime": "06:55 am"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "07:26 am",
               "departureTime": "07:26 am"
             }
@@ -63724,12 +63724,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "07:26 am",
               "departureTime": "07:26 am"
             },
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "08:01 am",
               "departureTime": "08:01 am"
             }
@@ -63739,17 +63739,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "08:02 am",
               "departureTime": "08:02 am"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "08:37 am",
               "departureTime": "08:37 am"
             },
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "08:52 am",
               "departureTime": "08:52 am"
             }
@@ -63759,17 +63759,17 @@
           "trip": 6,
           "stations": [
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "08:57 am",
               "departureTime": "08:57 am"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "09:12 am",
               "departureTime": "09:12 am"
             },
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "09:47 am",
               "departureTime": "09:47 am"
             }
@@ -63779,12 +63779,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "10:09 am",
               "departureTime": "10:09 am"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "10:44 am",
               "departureTime": "10:44 am"
             }
@@ -63794,12 +63794,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "11:11 am",
               "departureTime": "11:11 am"
             },
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "11:46 am",
               "departureTime": "11:46 am"
             }
@@ -63809,17 +63809,17 @@
           "trip": 9,
           "stations": [
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "11:46 am",
               "departureTime": "11:46 am"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "12:21 pm",
               "departureTime": "12:21 pm"
             },
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "12:36 pm",
               "departureTime": "12:36 pm"
             }
@@ -63829,17 +63829,17 @@
           "trip": 10,
           "stations": [
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "01:40 pm",
               "departureTime": "01:40 pm"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "01:55 pm",
               "departureTime": "01:55 pm"
             },
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "02:30 pm",
               "departureTime": "02:30 pm"
             }
@@ -63849,17 +63849,17 @@
           "trip": 11,
           "stations": [
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "04:02 pm",
               "departureTime": "04:02 pm"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "04:37 pm",
               "departureTime": "04:37 pm"
             },
             {
-              "station": " WALAYAR JN ",
+              "station": "WALAYAR JN ",
               "arrivalTime": "05:07 pm",
               "departureTime": "05:07 pm"
             }
@@ -63869,12 +63869,12 @@
           "trip": 12,
           "stations": [
             {
-              "station": " WALAYAR JN ",
+              "station": "WALAYAR JN ",
               "arrivalTime": "05:12 pm",
               "departureTime": "05:12 pm"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "05:42 pm",
               "departureTime": "05:42 pm"
             },
@@ -63894,7 +63894,7 @@
               "departureTime": "06:27 pm"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "06:58 pm",
               "departureTime": "06:58 pm"
             }
@@ -63904,12 +63904,12 @@
           "trip": 14,
           "stations": [
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "06:58 pm",
               "departureTime": "06:58 pm"
             },
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "07:33 pm",
               "departureTime": "07:33 pm"
             }
@@ -63919,27 +63919,27 @@
           "trip": 15,
           "stations": [
             {
-              "station": " KOZ HINJAMPARA ",
+              "station": "KOZ HINJAMPARA ",
               "arrivalTime": "08:15 pm",
               "departureTime": "08:15 pm"
             },
             {
-              "station": " KANJIKODE ",
+              "station": "KANJIKODE ",
               "arrivalTime": "08:50 pm",
               "departureTime": "08:50 pm"
             },
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "09:05 pm",
               "departureTime": "09:05 pm"
             },
             {
-              "station": " WALAYAR JN ",
+              "station": "WALAYAR JN ",
               "arrivalTime": "09:20 pm",
               "departureTime": "09:20 pm"
             },
             {
-              "station": " VELANTHAVALAM ",
+              "station": "VELANTHAVALAM ",
               "arrivalTime": "09:55 pm",
               "departureTime": "09:55 pm"
             }
@@ -63949,12 +63949,12 @@
           "trip": 16,
           "stations": [
             {
-              "station": " VELANTHAVALAM ",
+              "station": "VELANTHAVALAM ",
               "arrivalTime": "09:55 pm",
               "departureTime": "09:55 pm"
             },
             {
-              "station": " ATTAPPALLAM ",
+              "station": "ATTAPPALLAM ",
               "arrivalTime": "10:20 pm",
               "departureTime": "10:20 pm"
             }
@@ -114418,26 +114418,26 @@
     {
       "Vehicle Number": "KL 09 AD 8199",
       "route": [
-        " GOVINDAPURAM ",
-        " KAMBRATHCHALLA ",
-        " KOLLENGODE- ",
+        "GOVINDAPURAM ",
+        "KAMBRATHCHALLA ",
+        "KOLLENGODE- ",
         "PALAKKAD BUS STAND ",
-        " ELAVANCHERY ",
+        "ELAVANCHERY ",
         "NEMMARA JUNCTION BUS STOP ",
-        " OLIPPARA ",
-        " VENOLI"
+        "OLIPPARA ",
+        "VENOLI"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "05:20 am",
               "departureTime": "05:20 am"
             },
             {
-              "station": " GOVINDAPURAM ",
+              "station": "GOVINDAPURAM ",
               "arrivalTime": "05:50 am",
               "departureTime": "05:50 am"
             }
@@ -114447,12 +114447,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " GOVINDAPURAM ",
+              "station": "GOVINDAPURAM ",
               "arrivalTime": "06:00 am",
               "departureTime": "06:00 am"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "06:30 am",
               "departureTime": "06:30 am"
             },
@@ -114472,7 +114472,7 @@
               "departureTime": "07:30 am"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "08:25 am",
               "departureTime": "08:25 am"
             }
@@ -114482,12 +114482,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "08:30 am",
               "departureTime": "08:30 am"
             },
             {
-              "station": " ELAVANCHERY ",
+              "station": "ELAVANCHERY ",
               "arrivalTime": "08:55 am",
               "departureTime": "08:55 am"
             }
@@ -114497,12 +114497,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " ELAVANCHERY ",
+              "station": "ELAVANCHERY ",
               "arrivalTime": "09:10 am",
               "departureTime": "09:10 am"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "09:35 am",
               "departureTime": "09:35 am"
             }
@@ -114512,7 +114512,7 @@
           "trip": 6,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "09:35 am",
               "departureTime": "09:35 am"
             },
@@ -114532,7 +114532,7 @@
               "departureTime": "10:55 am"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "11:50 am",
               "departureTime": "11:50 am"
             }
@@ -114542,7 +114542,7 @@
           "trip": 8,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "11:50 am",
               "departureTime": "11:50 am"
             },
@@ -114552,7 +114552,7 @@
               "departureTime": "12:15 pm"
             },
             {
-              "station": " OLIPPARA ",
+              "station": "OLIPPARA ",
               "arrivalTime": "12:45 pm",
               "departureTime": "12:45 pm"
             }
@@ -114562,7 +114562,7 @@
           "trip": 9,
           "stations": [
             {
-              "station": " OLIPPARA ",
+              "station": "OLIPPARA ",
               "arrivalTime": "12:50 pm",
               "departureTime": "12:50 pm"
             },
@@ -114587,7 +114587,7 @@
               "departureTime": "02:30 pm"
             },
             {
-              "station": " VENOLI ",
+              "station": "VENOLI ",
               "arrivalTime": "02:55 pm",
               "departureTime": "02:55 pm"
             }
@@ -114597,7 +114597,7 @@
           "trip": 11,
           "stations": [
             {
-              "station": " VENOLI ",
+              "station": "VENOLI ",
               "arrivalTime": "03:00 pm",
               "departureTime": "03:00 pm"
             },
@@ -114607,7 +114607,7 @@
               "departureTime": "03:35 pm"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "04:30 pm",
               "departureTime": "04:30 pm"
             }
@@ -114617,12 +114617,12 @@
           "trip": 12,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "04:30 pm",
               "departureTime": "04:30 pm"
             },
             {
-              "station": " ELAVANCHERY ",
+              "station": "ELAVANCHERY ",
               "arrivalTime": "04:55 pm",
               "departureTime": "04:55 pm"
             }
@@ -114632,12 +114632,12 @@
           "trip": 13,
           "stations": [
             {
-              "station": " ELAVANCHERY ",
+              "station": "ELAVANCHERY ",
               "arrivalTime": "05:10 pm",
               "departureTime": "05:10 pm"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "05:35 pm",
               "departureTime": "05:35 pm"
             }
@@ -114647,7 +114647,7 @@
           "trip": 14,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "05:35 pm",
               "departureTime": "05:35 pm"
             },
@@ -114667,12 +114667,12 @@
               "departureTime": "06:50 pm"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "07:45 pm",
               "departureTime": "07:45 pm"
             },
             {
-              "station": " GOVINDAPURAM ",
+              "station": "GOVINDAPURAM ",
               "arrivalTime": "08:15 pm",
               "departureTime": "08:15 pm"
             }
@@ -114682,12 +114682,12 @@
           "trip": 16,
           "stations": [
             {
-              "station": " GOVINDAPURAM ",
+              "station": "GOVINDAPURAM ",
               "arrivalTime": "08:30 pm",
               "departureTime": "08:30 pm"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "09:00 pm",
               "departureTime": "09:00 pm"
             }
@@ -114697,12 +114697,12 @@
           "trip": 17,
           "stations": [
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "09:15 pm",
               "departureTime": "09:15 pm"
             },
             {
-              "station": " KAMBRATHCHALLA ",
+              "station": "KAMBRATHCHALLA ",
               "arrivalTime": "09:35 pm",
               "departureTime": "09:35 pm"
             }
@@ -114712,12 +114712,12 @@
           "trip": 18,
           "stations": [
             {
-              "station": " KAMBRATHCHALLA ",
+              "station": "KAMBRATHCHALLA ",
               "arrivalTime": "09:40 pm",
               "departureTime": "09:40 pm"
             },
             {
-              "station": " KOLLENGODE- ",
+              "station": "KOLLENGODE- ",
               "arrivalTime": "10:00 pm",
               "departureTime": "10:00 pm"
             }

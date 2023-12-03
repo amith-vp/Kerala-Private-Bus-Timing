@@ -806,40 +806,40 @@
     {
       "Vehicle Number": "KL 38 F 6167",
       "route": [
-        " MUVATTUPUZHA",
+        "MUVATTUPUZHA",
         "ALUVA PRIVATE BUS STAND",
-        " PERUMBAVOOR",
-        " KOTHAMANGALAM",
-        " ADIMALI",
-        " MUNNAR",
-        " DEVIKULAM"
+        "PERUMBAVOOR",
+        "KOTHAMANGALAM",
+        "ADIMALI",
+        "MUNNAR",
+        "DEVIKULAM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "05:25 am",
               "departureTime": "05:25 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "05:50 am",
               "departureTime": "05:50 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "07:30 am",
               "departureTime": "08:03 am"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "09:06 am",
               "departureTime": "09:06 am"
             },
             {
-              "station": " DEVIKULAM",
+              "station": "DEVIKULAM",
               "arrivalTime": "09:21 am",
               "departureTime": "09:21 am"
             }
@@ -849,27 +849,27 @@
           "trip": 2,
           "stations": [
             {
-              "station": " DEVIKULAM",
+              "station": "DEVIKULAM",
               "arrivalTime": "09:30 am",
               "departureTime": "09:30 am"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "09:45 am",
               "departureTime": "10:15 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "11:18 am",
               "departureTime": "11:24 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "01:04 pm",
               "departureTime": "01:12 pm"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "01:47 pm",
               "departureTime": "01:47 pm"
             },
@@ -889,17 +889,17 @@
               "departureTime": "02:59 pm"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "03:34 pm",
               "departureTime": "03:36 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "04:11 pm",
               "departureTime": "04:22 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "06:02 pm",
               "departureTime": "06:02 pm"
             }
@@ -909,17 +909,17 @@
           "trip": 4,
           "stations": [
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "07:17 pm",
               "departureTime": "07:17 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "08:57 pm",
               "departureTime": "09:05 pm"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "09:30 pm",
               "departureTime": "09:30 pm"
             }
@@ -4536,10 +4536,10 @@
     {
       "Vehicle Number": "KL 06 F 9005",
       "route": [
-        " KUMILY BUS STND",
-        " VAZHAVEEDU",
+        "KUMILY BUS STND",
+        "VAZHAVEEDU",
         "NEDUMKANDOM BUS STAND",
-        " UDUMBANCHOLA",
+        "UDUMBANCHOLA",
         "KATTAPPANA PVT BUS STAND",
         "BALANPILLA CITY"
       ],
@@ -4548,12 +4548,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KUMILY BUS STND",
+              "station": "KUMILY BUS STND",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             },
             {
-              "station": " VAZHAVEEDU",
+              "station": "VAZHAVEEDU",
               "arrivalTime": "07:45 am",
               "departureTime": "07:45 am"
             }
@@ -4563,12 +4563,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " VAZHAVEEDU",
+              "station": "VAZHAVEEDU",
               "arrivalTime": "08:00 am",
               "departureTime": "08:00 am"
             },
             {
-              "station": " KUMILY BUS STND",
+              "station": "KUMILY BUS STND",
               "arrivalTime": "08:50 am",
               "departureTime": "08:50 am"
             }
@@ -4578,7 +4578,7 @@
           "trip": 3,
           "stations": [
             {
-              "station": " KUMILY BUS STND",
+              "station": "KUMILY BUS STND",
               "arrivalTime": "08:55 am",
               "departureTime": "08:55 am"
             },
@@ -4588,7 +4588,7 @@
               "departureTime": "11:30 am"
             },
             {
-              "station": " UDUMBANCHOLA",
+              "station": "UDUMBANCHOLA",
               "arrivalTime": "12:00 pm",
               "departureTime": "12:00 pm"
             }
@@ -4598,7 +4598,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " UDUMBANCHOLA",
+              "station": "UDUMBANCHOLA",
               "arrivalTime": "12:10 pm",
               "departureTime": "12:10 pm"
             },
@@ -4668,7 +4668,7 @@
               "departureTime": "06:45 pm"
             },
             {
-              "station": " KUMILY BUS STND",
+              "station": "KUMILY BUS STND",
               "arrivalTime": "07:55 pm",
               "departureTime": "07:55 pm"
             }
@@ -5092,12 +5092,12 @@
     {
       "Vehicle Number": "KL 06 J 1525",
       "route": [
-        " KATTAPPANA BUS STAND",
-        " NEDUMKANDAM BUS STAND",
-        " ELAPPARA",
-        " ERATTUPETTA",
-        " PALA PRIVATE BUS STAND",
-        " KOTTAYAM BUS STAND",
+        "KATTAPPANA BUS STAND",
+        "NEDUMKANDAM BUS STAND",
+        "ELAPPARA",
+        "ERATTUPETTA",
+        "PALA PRIVATE BUS STAND",
+        "KOTTAYAM BUS STAND",
         "MEDICAL COLLEGE BUS STAND, KOTTAYAM"
       ],
       "schedule": [
@@ -5105,12 +5105,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KATTAPPANA BUS STAND",
+              "station": "KATTAPPANA BUS STAND",
               "arrivalTime": "07:20 am",
               "departureTime": "07:20 am"
             },
             {
-              "station": " NEDUMKANDAM BUS STAND",
+              "station": "NEDUMKANDAM BUS STAND",
               "arrivalTime": "08:14 am",
               "departureTime": "08:14 am"
             }
@@ -5120,12 +5120,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " NEDUMKANDAM BUS STAND",
+              "station": "NEDUMKANDAM BUS STAND",
               "arrivalTime": "08:45 am",
               "departureTime": "08:45 am"
             },
             {
-              "station": " KATTAPPANA BUS STAND",
+              "station": "KATTAPPANA BUS STAND",
               "arrivalTime": "09:39 am",
               "departureTime": "09:39 am"
             }
@@ -5135,27 +5135,27 @@
           "trip": 3,
           "stations": [
             {
-              "station": " KATTAPPANA BUS STAND",
+              "station": "KATTAPPANA BUS STAND",
               "arrivalTime": "10:20 am",
               "departureTime": "10:20 am"
             },
             {
-              "station": " ELAPPARA",
+              "station": "ELAPPARA",
               "arrivalTime": "11:32 am",
               "departureTime": "11:35 am"
             },
             {
-              "station": " ERATTUPETTA",
+              "station": "ERATTUPETTA",
               "arrivalTime": "01:03 pm",
               "departureTime": "01:03 pm"
             },
             {
-              "station": " PALA PRIVATE BUS STAND",
+              "station": "PALA PRIVATE BUS STAND",
               "arrivalTime": "01:32 pm",
               "departureTime": "01:32 pm"
             },
             {
-              "station": " KOTTAYAM BUS STAND",
+              "station": "KOTTAYAM BUS STAND",
               "arrivalTime": "02:48 pm",
               "departureTime": "02:48 pm"
             },
@@ -5175,22 +5175,22 @@
               "departureTime": "04:00 pm"
             },
             {
-              "station": " PALA PRIVATE BUS STAND",
+              "station": "PALA PRIVATE BUS STAND",
               "arrivalTime": "04:48 pm",
               "departureTime": "04:53 pm"
             },
             {
-              "station": " ERATTUPETTA",
+              "station": "ERATTUPETTA",
               "arrivalTime": "05:22 pm",
               "departureTime": "05:22 pm"
             },
             {
-              "station": " ELAPPARA",
+              "station": "ELAPPARA",
               "arrivalTime": "06:50 pm",
               "departureTime": "06:50 pm"
             },
             {
-              "station": " KATTAPPANA BUS STAND",
+              "station": "KATTAPPANA BUS STAND",
               "arrivalTime": "08:02 pm",
               "departureTime": "08:02 pm"
             }
@@ -6476,12 +6476,12 @@
       "Vehicle Number": "KL 63 D 4276",
       "route": [
         "THODUPUZHA PVT BUS STAND",
-        " MUVATTUPUZHA",
-        " KOTHAMANGALAM",
-        " NERIAMANGALAM",
-        " ADIMALI",
-        " KORANGATTY",
-        " PANIKKANKUDI"
+        "MUVATTUPUZHA",
+        "KOTHAMANGALAM",
+        "NERIAMANGALAM",
+        "ADIMALI",
+        "KORANGATTY",
+        "PANIKKANKUDI"
       ],
       "schedule": [
         {
@@ -6493,27 +6493,27 @@
               "departureTime": "06:13 am"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "06:53 am",
               "departureTime": "07:20 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "07:44 am",
               "departureTime": "08:02 am"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "08:42 am",
               "departureTime": "08:42 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "09:50 am",
               "departureTime": "09:50 am"
             },
             {
-              "station": " PANIKKANKUDI",
+              "station": "PANIKKANKUDI",
               "arrivalTime": "10:44 am",
               "departureTime": "10:44 am"
             }
@@ -6523,12 +6523,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": " PANIKKANKUDI",
+              "station": "PANIKKANKUDI",
               "arrivalTime": "11:05 am",
               "departureTime": "11:05 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "11:59 am",
               "departureTime": "11:59 am"
             }
@@ -6538,17 +6538,17 @@
           "trip": 3,
           "stations": [
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "01:23 pm",
               "departureTime": "01:23 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "02:03 pm",
               "departureTime": "02:03 pm"
             }
@@ -6558,22 +6558,22 @@
           "trip": 4,
           "stations": [
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "02:23 pm",
               "departureTime": "02:23 pm"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "03:03 pm",
               "departureTime": "03:03 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "04:11 pm",
               "departureTime": "04:14 pm"
             },
             {
-              "station": " KORANGATTY",
+              "station": "KORANGATTY",
               "arrivalTime": "04:34 pm",
               "departureTime": "04:34 pm"
             }
@@ -6583,12 +6583,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": " KORANGATTY",
+              "station": "KORANGATTY",
               "arrivalTime": "04:55 pm",
               "departureTime": "04:55 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "05:15 pm",
               "departureTime": "05:15 pm"
             }
@@ -6598,12 +6598,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "05:25 pm",
               "departureTime": "05:25 pm"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "06:33 pm",
               "departureTime": "06:33 pm"
             },
@@ -8841,10 +8841,10 @@
     {
       "Vehicle Number": "KL 33 K 6700",
       "route": [
-        " KAYAMKULAM",
-        " CHANGANASSERY",
+        "KAYAMKULAM",
+        "CHANGANASSERY",
         "PONKUNNAM PRIVATE BUS STAND",
-        " MUNDAKAYAM",
+        "MUNDAKAYAM",
         "KATTAPPANA PVT BUS STAND",
         "NEDUMKANDAM BUS STAND"
       ],
@@ -8853,12 +8853,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KAYAMKULAM",
+              "station": "KAYAMKULAM",
               "arrivalTime": "08:10 am",
               "departureTime": "08:10 am"
             },
             {
-              "station": " CHANGANASSERY",
+              "station": "CHANGANASSERY",
               "arrivalTime": "09:22 am",
               "departureTime": "09:37 am"
             },
@@ -8868,7 +8868,7 @@
               "departureTime": "10:53 am"
             },
             {
-              "station": " MUNDAKAYAM",
+              "station": "MUNDAKAYAM",
               "arrivalTime": "11:33 am",
               "departureTime": "11:48 am"
             },
@@ -8898,7 +8898,7 @@
               "departureTime": "06:10 pm"
             },
             {
-              "station": " MUNDAKAYAM",
+              "station": "MUNDAKAYAM",
               "arrivalTime": "08:22 pm",
               "departureTime": "08:25 pm"
             },
@@ -8908,12 +8908,12 @@
               "departureTime": "09:10 pm"
             },
             {
-              "station": " CHANGANASSERY",
+              "station": "CHANGANASSERY",
               "arrivalTime": "10:20 pm",
               "departureTime": "10:20 pm"
             },
             {
-              "station": " KAYAMKULAM",
+              "station": "KAYAMKULAM",
               "arrivalTime": "11:30 pm",
               "departureTime": "11:30 pm"
             }
@@ -16414,7 +16414,7 @@
         "KATTAPPANA BUS STAND",
         "NEDUMKANDAM BUS STAND",
         "UPPUTHARA BUS STOP",
-        " MLAMALA",
+        "MLAMALA",
         "VALACODU JUNCTION BUS STOP"
       ],
       "schedule": [
@@ -16472,7 +16472,7 @@
               "departureTime": "12:25 pm"
             },
             {
-              "station": " MLAMALA",
+              "station": "MLAMALA",
               "arrivalTime": "01:10 pm",
               "departureTime": "01:10 pm"
             }
@@ -16527,7 +16527,7 @@
               "departureTime": "07:55 pm"
             },
             {
-              "station": " MLAMALA",
+              "station": "MLAMALA",
               "arrivalTime": "08:15 pm",
               "departureTime": "08:15 pm"
             },
@@ -22899,12 +22899,12 @@
     {
       "Vehicle Number": "KL 40 Q 5756",
       "route": [
-        " ERNAKULAM",
+        "ERNAKULAM",
         "ALUVA PRIVATE BUS STAND",
-        " PERUMBAVOOR",
-        " KOTHAMANGALAM",
-        " ADIMALI",
-        " MUNNAR",
+        "PERUMBAVOOR",
+        "KOTHAMANGALAM",
+        "ADIMALI",
+        "MUNNAR",
         "KOVILOOR IDUKKI"
       ],
       "schedule": [
@@ -22912,12 +22912,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "04:45 am",
               "departureTime": "04:45 am"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "05:15 am",
               "departureTime": "05:15 am"
             },
@@ -22927,7 +22927,7 @@
               "departureTime": "05:45 am"
             },
             {
-              "station": " ERNAKULAM",
+              "station": "ERNAKULAM",
               "arrivalTime": "06:25 am",
               "departureTime": "06:25 am"
             }
@@ -22937,7 +22937,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " ERNAKULAM",
+              "station": "ERNAKULAM",
               "arrivalTime": "06:43 am",
               "departureTime": "06:43 am"
             },
@@ -22947,22 +22947,22 @@
               "departureTime": "07:26 am"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "07:56 am",
               "departureTime": "08:00 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "08:30 am",
               "departureTime": "08:44 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "10:12 am",
               "departureTime": "10:18 am"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "11:08 am",
               "departureTime": "11:35 am"
             },
@@ -22982,22 +22982,22 @@
               "departureTime": "01:45 pm"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "03:02 pm",
               "departureTime": "03:50 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "04:40 pm",
               "departureTime": "05:03 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "06:31 pm",
               "departureTime": "06:31 pm"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "07:01 pm",
               "departureTime": "07:01 pm"
             },
@@ -23007,7 +23007,7 @@
               "departureTime": "07:31 pm"
             },
             {
-              "station": " ERNAKULAM",
+              "station": "ERNAKULAM",
               "arrivalTime": "08:12 pm",
               "departureTime": "08:12 pm"
             }
@@ -23017,7 +23017,7 @@
           "trip": 4,
           "stations": [
             {
-              "station": " ERNAKULAM",
+              "station": "ERNAKULAM",
               "arrivalTime": "08:20 pm",
               "departureTime": "08:20 pm"
             },
@@ -23027,12 +23027,12 @@
               "departureTime": "09:05 pm"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "09:35 pm",
               "departureTime": "09:35 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "10:05 pm",
               "departureTime": "10:05 pm"
             }
@@ -23693,11 +23693,11 @@
     {
       "Vehicle Number": "KL 17 T 3501",
       "route": [
-        " KANTHALLOOR",
-        " MUNNAR",
-        " ADIMALI",
-        " KOTHAMANGALAM",
-        " PERUMBAVOOR",
+        "KANTHALLOOR",
+        "MUNNAR",
+        "ADIMALI",
+        "KOTHAMANGALAM",
+        "PERUMBAVOOR",
         "KALOOR PRIVATE BUS STAND",
         "VYTTILA MOBILITY HUB"
       ],
@@ -23706,27 +23706,27 @@
           "trip": 1,
           "stations": [
             {
-              "station": " KANTHALLOOR",
+              "station": "KANTHALLOOR",
               "arrivalTime": "03:15 am",
               "departureTime": "03:15 am"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "04:57 am",
               "departureTime": "05:10 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "05:59 am",
               "departureTime": "06:00 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "07:28 am",
               "departureTime": "07:42 am"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "08:09 am",
               "departureTime": "08:09 am"
             },
@@ -23756,27 +23756,27 @@
               "departureTime": "11:52 am"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "12:57 pm",
               "departureTime": "12:58 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "01:25 pm",
               "departureTime": "01:45 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "03:13 pm",
               "departureTime": "03:27 pm"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "04:16 pm",
               "departureTime": "05:05 pm"
             },
             {
-              "station": " KANTHALLOOR",
+              "station": "KANTHALLOOR",
               "arrivalTime": "06:47 pm",
               "departureTime": "06:47 pm"
             }
@@ -24266,12 +24266,12 @@
     {
       "Vehicle Number": "KL 33 E 6330",
       "route": [
-        " BALANPILLACITY",
-        " PUTTADY",
+        "BALANPILLACITY",
+        "PUTTADY",
         "KUMILY BUS STND",
-        " MUNDAKAYAM",
+        "MUNDAKAYAM",
         "PONKUNNAM BUS STAND",
-        " KOTTAYAM",
+        "KOTTAYAM",
         "MEDICAL COLLGE BUS STAND KOTTAYAM"
       ],
       "schedule": [
@@ -24279,12 +24279,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": " BALANPILLACITY",
+              "station": "BALANPILLACITY",
               "arrivalTime": "07:54 am",
               "departureTime": "07:54 am"
             },
             {
-              "station": " PUTTADY",
+              "station": "PUTTADY",
               "arrivalTime": "08:46 am",
               "departureTime": "08:46 am"
             },
@@ -24294,7 +24294,7 @@
               "departureTime": "09:36 am"
             },
             {
-              "station": " MUNDAKAYAM",
+              "station": "MUNDAKAYAM",
               "arrivalTime": "11:30 am",
               "departureTime": "11:30 am"
             },
@@ -24304,7 +24304,7 @@
               "departureTime": "12:05 pm"
             },
             {
-              "station": " KOTTAYAM",
+              "station": "KOTTAYAM",
               "arrivalTime": "01:01 pm",
               "departureTime": "01:01 pm"
             },
@@ -24324,7 +24324,7 @@
               "departureTime": "01:30 pm"
             },
             {
-              "station": " KOTTAYAM",
+              "station": "KOTTAYAM",
               "arrivalTime": "01:44 pm",
               "departureTime": "03:43 pm"
             },
@@ -24334,7 +24334,7 @@
               "departureTime": "04:39 pm"
             },
             {
-              "station": " MUNDAKAYAM",
+              "station": "MUNDAKAYAM",
               "arrivalTime": "05:14 pm",
               "departureTime": "05:23 pm"
             },
@@ -24344,12 +24344,12 @@
               "departureTime": "07:22 pm"
             },
             {
-              "station": " PUTTADY",
+              "station": "PUTTADY",
               "arrivalTime": "07:58 pm",
               "departureTime": "07:58 pm"
             },
             {
-              "station": " BALANPILLACITY",
+              "station": "BALANPILLACITY",
               "arrivalTime": "08:50 pm",
               "departureTime": "08:50 pm"
             }
@@ -24747,7 +24747,7 @@
       "Vehicle Number": "KL 34 E 4464",
       "route": [
         "KOTTAYAM BUS STAND",
-        " 14TH MILE",
+        "14TH MILE",
         "PONKUNNAM PRIVATE BUS STAND",
         "KANJIRAPPALLY PVT BUS STAND",
         "MUNDAKAYAM PVT BUS STNAD",
@@ -24764,7 +24764,7 @@
               "departureTime": "06:50 am"
             },
             {
-              "station": " 14TH MILE",
+              "station": "14TH MILE",
               "arrivalTime": "07:34 am",
               "departureTime": "07:34 am"
             },
@@ -24824,7 +24824,7 @@
               "departureTime": "05:18 pm"
             },
             {
-              "station": " 14TH MILE",
+              "station": "14TH MILE",
               "arrivalTime": "05:36 pm",
               "departureTime": "05:36 pm"
             },
@@ -29493,20 +29493,20 @@
     {
       "Vehicle Number": "KL 35 F 3677",
       "route": [
-        " COMBAYAR",
+        "COMBAYAR",
         "NEDUMKANDOM BUS STAND",
         "KATTAPPANA PVT BUS STAND",
-        " MUNDAKAYAM",
+        "MUNDAKAYAM",
         "KANJIRAPPALLY PVT BUS STAND",
         "PONKUNNAM BUS STAND",
-        " KOTTAYAM"
+        "KOTTAYAM"
       ],
       "schedule": [
         {
           "trip": 1,
           "stations": [
             {
-              "station": " COMBAYAR",
+              "station": "COMBAYAR",
               "arrivalTime": "03:37 am",
               "departureTime": "03:37 am"
             },
@@ -29521,7 +29521,7 @@
               "departureTime": "04:50 am"
             },
             {
-              "station": " MUNDAKAYAM",
+              "station": "MUNDAKAYAM",
               "arrivalTime": "07:15 am",
               "departureTime": "07:20 am"
             },
@@ -29536,7 +29536,7 @@
               "departureTime": "08:08 am"
             },
             {
-              "station": " KOTTAYAM",
+              "station": "KOTTAYAM",
               "arrivalTime": "09:18 am",
               "departureTime": "09:18 am"
             }
@@ -29546,7 +29546,7 @@
           "trip": 2,
           "stations": [
             {
-              "station": " KOTTAYAM",
+              "station": "KOTTAYAM",
               "arrivalTime": "11:25 am",
               "departureTime": "11:25 am"
             },
@@ -29561,7 +29561,7 @@
               "departureTime": "12:52 pm"
             },
             {
-              "station": " MUNDAKAYAM",
+              "station": "MUNDAKAYAM",
               "arrivalTime": "01:22 pm",
               "departureTime": "01:33 pm"
             },
@@ -29576,7 +29576,7 @@
               "departureTime": "05:25 pm"
             },
             {
-              "station": " COMBAYAR",
+              "station": "COMBAYAR",
               "arrivalTime": "05:35 pm",
               "departureTime": "05:35 pm"
             }
@@ -30607,12 +30607,12 @@
     {
       "Vehicle Number": "KL 68 A 3770",
       "route": [
-        " KANTHALLOOR",
-        " MUNNAR",
-        " ADIMALI",
-        " NERIAMANGALAM",
-        " KOTHAMANGALAM",
-        " PERUMBAVOOR",
+        "KANTHALLOOR",
+        "MUNNAR",
+        "ADIMALI",
+        "NERIAMANGALAM",
+        "KOTHAMANGALAM",
+        "PERUMBAVOOR",
         "ALUVA PRIVATE BUS STAND"
       ],
       "schedule": [
@@ -30620,27 +30620,27 @@
           "trip": 1,
           "stations": [
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "07:00 am",
               "departureTime": "09:11 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "09:30 am",
               "departureTime": "10:33 am"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "10:44 am",
               "departureTime": "11:52 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "12:37 pm",
               "departureTime": "12:37 pm"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "12:38 pm",
               "departureTime": "01:13 pm"
             },
@@ -30655,32 +30655,32 @@
           "trip": 2,
           "stations": [
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "03:44 pm",
               "departureTime": "02:57 pm"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "03:32 pm",
               "departureTime": "03:32 pm"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "04:29 pm",
               "departureTime": "04:29 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "05:37 pm",
               "departureTime": "05:37 pm"
             },
             {
-              "station": " MUNNAR",
+              "station": "MUNNAR",
               "arrivalTime": "06:40 pm",
               "departureTime": "06:40 pm"
             },
             {
-              "station": " KANTHALLOOR",
+              "station": "KANTHALLOOR",
               "arrivalTime": "08:51 pm",
               "departureTime": "08:51 pm"
             }
@@ -31534,8 +31534,8 @@
       "route": [
         "ERNAKULAM SOUTH",
         "ALUVA PRIVATE BUS STAND",
-        " PERUMBAVOOR",
-        " KOTHAMANGALAM",
+        "PERUMBAVOOR",
+        "KOTHAMANGALAM",
         "CHERUTHONI BUS STAND",
         "KATTAPPANA PVT BUS STAND",
         "KUMILY BUS STAND"
@@ -31555,12 +31555,12 @@
               "departureTime": "12:48 am"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "01:20 am",
               "departureTime": "01:20 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "01:49 am",
               "departureTime": "01:49 am"
             },
@@ -31600,12 +31600,12 @@
               "departureTime": "11:16 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "01:19 pm",
               "departureTime": "01:21 pm"
             },
             {
-              "station": " PERUMBAVOOR",
+              "station": "PERUMBAVOOR",
               "arrivalTime": "01:50 pm",
               "departureTime": "01:50 pm"
             },
@@ -32224,12 +32224,12 @@
     {
       "Vehicle Number": "KL 38 D 6210",
       "route": [
-        " MANKULAM",
-        " KURISUPARA",
-        " ADIMALI",
-        " NERIAMANGALAM",
-        " KOTHAMANGALAM",
-        " MUVATTUPUZHA",
+        "MANKULAM",
+        "KURISUPARA",
+        "ADIMALI",
+        "NERIAMANGALAM",
+        "KOTHAMANGALAM",
+        "MUVATTUPUZHA",
         "THODUPUZHA PRIVATE STAND"
       ],
       "schedule": [
@@ -32237,17 +32237,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": " MANKULAM",
+              "station": "MANKULAM",
               "arrivalTime": "04:50 am",
               "departureTime": "04:50 am"
             },
             {
-              "station": " KURISUPARA",
+              "station": "KURISUPARA",
               "arrivalTime": "05:22 am",
               "departureTime": "05:22 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "06:07 am",
               "departureTime": "06:07 am"
             }
@@ -32257,17 +32257,17 @@
           "trip": 2,
           "stations": [
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "06:25 am",
               "departureTime": "06:25 am"
             },
             {
-              "station": " KURISUPARA",
+              "station": "KURISUPARA",
               "arrivalTime": "07:10 am",
               "departureTime": "07:10 am"
             },
             {
-              "station": " MANKULAM",
+              "station": "MANKULAM",
               "arrivalTime": "07:42 am",
               "departureTime": "07:42 am"
             }
@@ -32277,32 +32277,32 @@
           "trip": 3,
           "stations": [
             {
-              "station": " MANKULAM",
+              "station": "MANKULAM",
               "arrivalTime": "07:53 am",
               "departureTime": "07:53 am"
             },
             {
-              "station": " KURISUPARA",
+              "station": "KURISUPARA",
               "arrivalTime": "08:25 am",
               "departureTime": "08:25 am"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "09:10 am",
               "departureTime": "09:32 am"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "10:40 am",
               "departureTime": "10:40 am"
             },
             {
-              "station": " KOTHAMANGALAM",
+              "station": "KOTHAMANGALAM",
               "arrivalTime": "11:20 am",
               "departureTime": "11:22 am"
             },
             {
-              "station": " MUVATTUPUZHA",
+              "station": "MUVATTUPUZHA",
               "arrivalTime": "11:46 am",
               "departureTime": "11:48 am"
             },
@@ -32322,22 +32322,22 @@
               "departureTime": "02:05 pm"
             },
             {
-              "station": " NERIAMANGALAM",
+              "station": "NERIAMANGALAM",
               "arrivalTime": "03:05 pm",
               "departureTime": "03:05 pm"
             },
             {
-              "station": " ADIMALI",
+              "station": "ADIMALI",
               "arrivalTime": "04:13 pm",
               "departureTime": "04:45 pm"
             },
             {
-              "station": " KURISUPARA",
+              "station": "KURISUPARA",
               "arrivalTime": "05:30 pm",
               "departureTime": "05:30 pm"
             },
             {
-              "station": " MANKULAM",
+              "station": "MANKULAM",
               "arrivalTime": "06:02 pm",
               "departureTime": "06:02 pm"
             }
