@@ -54402,12 +54402,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "12:50 pm",
               "departureTime": "12:50 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "01:40 pm",
               "departureTime": "01:40 pm"
             }
@@ -54417,12 +54417,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "01:40 pm",
               "departureTime": "01:40 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "02:30 pm",
               "departureTime": "02:30 pm"
             }
@@ -54432,12 +54432,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "02:32 pm",
               "departureTime": "02:32 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "03:22 pm",
               "departureTime": "03:22 pm"
             }
@@ -54447,12 +54447,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "03:39 pm",
               "departureTime": "03:39 pm"
             },
             {
-              "station": "ADOOR BUS ST AND"
+              "station": "ADOOR BUS ST AND",
               "arrivalTime": "04:24 pm",
               "departureTime": "04:24 pm"
             }
@@ -54462,17 +54462,17 @@
           "trip": 8,
           "stations": [
             {
-              "station": "ADOOR BUS ST AND"
+              "station": "ADOOR BUS ST AND",
               "arrivalTime": "04:32 pm",
               "departureTime": "04:32 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "05:17 pm",
               "departureTime": "05:30 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "06:20 pm",
               "departureTime": "06:20 pm"
             }
@@ -54482,17 +54482,17 @@
           "trip": 9,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "07:00 pm",
               "departureTime": "07:00 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "07:50 pm",
               "departureTime": "07:50 pm"
             },
             {
-              "station": "ADOOR BUS ST AND"
+              "station": "ADOOR BUS ST AND",
               "arrivalTime": "08:30 pm",
               "departureTime": "08:30 pm"
             }
@@ -54503,11 +54503,11 @@
     {
       "Vehicle Number": "KL 26 B 6751",
       "route": [
-        "MALAYALAPPUZHA"
-        "PATHANAMT HITTA"
-        "ADOOR BUS STAND"
-        "BHARANIKKAVU,"
-        "KUNDARA"
+        "MALAYALAPPUZHA",
+        "PATHANAMT HITTA",
+        "ADOOR BUS STAND",
+        "BHARANIKKAVU,",
+        "KUNDARA",
         "KOLLAM"
       ],
       "schedule": [
@@ -54515,22 +54515,22 @@
           "trip": 1,
           "stations": [
             {
-              "station": "ADOOR BUS STAND"
+              "station": "ADOOR BUS STAND",
               "arrivalTime": "07:21 am",
               "departureTime": "07:21 am"
             },
             {
-              "station": "BHARANIKKAVU,"
+              "station": "BHARANIKKAVU,",
               "arrivalTime": "07:57 am",
               "departureTime": "07:57 am"
             },
             {
-              "station": "KUNDARA"
+              "station": "KUNDARA",
               "arrivalTime": "08:29 am",
               "departureTime": "08:29 am"
             },
             {
-              "station": "KOLLAM"
+              "station": "KOLLAM",
               "arrivalTime": "09:05 am",
               "departureTime": "09:05 am"
             }
@@ -54540,32 +54540,32 @@
           "trip": 2,
           "stations": [
             {
-              "station": "KOLLAM"
+              "station": "KOLLAM",
               "arrivalTime": "09:08 am",
               "departureTime": "09:08 am"
             },
             {
-              "station": "KUNDARA"
+              "station": "KUNDARA",
               "arrivalTime": "09:44 am",
               "departureTime": "09:44 am"
             },
             {
-              "station": "BHARANIKKAVU,"
+              "station": "BHARANIKKAVU,",
               "arrivalTime": "10:16 am",
               "departureTime": "10:16 am"
             },
             {
-              "station": "ADOOR BUS STAND"
+              "station": "ADOOR BUS STAND",
               "arrivalTime": "10:52 am",
               "departureTime": "10:52 am"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "11:30 am",
               "departureTime": "11:30 am"
             },
             {
-              "station": "MALAYALAPPUZHA"
+              "station": "MALAYALAPPUZHA",
               "arrivalTime": "11:57 am",
               "departureTime": "11:57 am"
             }
@@ -54575,32 +54575,32 @@
           "trip": 3,
           "stations": [
             {
-              "station": "MALAYALAPPUZHA"
+              "station": "MALAYALAPPUZHA",
               "arrivalTime": "12:31 pm",
               "departureTime": "12:31 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "12:58 pm",
               "departureTime": "12:58 pm"
             },
             {
-              "station": "ADOOR BUS STAND"
+              "station": "ADOOR BUS STAND",
               "arrivalTime": "01:36 pm",
               "departureTime": "01:36 pm"
             },
             {
-              "station": "BHARANIKKAVU,"
+              "station": "BHARANIKKAVU,",
               "arrivalTime": "02:12 pm",
               "departureTime": "02:20 pm"
             },
             {
-              "station": "KUNDARA"
+              "station": "KUNDARA",
               "arrivalTime": "02:52 pm",
               "departureTime": "02:52 pm"
             },
             {
-              "station": "KOLLAM"
+              "station": "KOLLAM",
               "arrivalTime": "03:28 pm",
               "departureTime": "03:28 pm"
             }
@@ -54610,22 +54610,22 @@
           "trip": 4,
           "stations": [
             {
-              "station": "KOLLAM"
+              "station": "KOLLAM",
               "arrivalTime": "05:14 pm",
               "departureTime": "05:14 pm"
             },
             {
-              "station": "KUNDARA"
+              "station": "KUNDARA",
               "arrivalTime": "05:50 pm",
               "departureTime": "05:50 pm"
             },
             {
-              "station": "BHARANIKKAVU,"
+              "station": "BHARANIKKAVU,",
               "arrivalTime": "06:22 pm",
               "departureTime": "06:26 pm"
             },
             {
-              "station": "ADOOR BUS STAND"
+              "station": "ADOOR BUS STAND",
               "arrivalTime": "07:02 pm",
               "departureTime": "07:02 pm"
             }
@@ -54636,9 +54636,9 @@
     {
       "Vehicle Number": "KL 33 H 9319",
       "route": [
-        "PANDALAM JUNCTION"
-        "KOZHENCHERRY"
-        "MALLAPPALLY BUS STAND"
+        "PANDALAM JUNCTION",
+        "KOZHENCHERRY",
+        "MALLAPPALLY BUS STAND",
         "KOTTAYAM"
       ],
       "schedule": [
@@ -54646,22 +54646,22 @@
           "trip": 1,
           "stations": [
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "06:15 am",
               "departureTime": "06:15 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "06:55 am",
               "departureTime": "06:55 am"
             },
             {
-              "station": "MALLAPPALLY BUS STAND"
+              "station": "MALLAPPALLY BUS STAND",
               "arrivalTime": "07:45 am",
               "departureTime": "07:45 am"
             },
             {
-              "station": "KOTTAYAM"
+              "station": "KOTTAYAM",
               "arrivalTime": "08:55 am",
               "departureTime": "08:55 am"
             }
@@ -54671,22 +54671,22 @@
           "trip": 2,
           "stations": [
             {
-              "station": "KOTTAYAM"
+              "station": "KOTTAYAM",
               "arrivalTime": "09:25 am",
               "departureTime": "09:25 am"
             },
             {
-              "station": "MALLAPPALLY BUS STAND"
+              "station": "MALLAPPALLY BUS STAND",
               "arrivalTime": "10:35 am",
               "departureTime": "10:35 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "11:25 am",
               "departureTime": "11:25 am"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "12:05 pm",
               "departureTime": "12:05 pm"
             }
@@ -54696,22 +54696,22 @@
           "trip": 3,
           "stations": [
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "12:15 pm",
               "departureTime": "12:15 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "12:55 pm",
               "departureTime": "12:55 pm"
             },
             {
-              "station": "MALLAPPALLY BUS STAND"
+              "station": "MALLAPPALLY BUS STAND",
               "arrivalTime": "01:45 pm",
               "departureTime": "01:45 pm"
             },
             {
-              "station": "KOTTAYAM"
+              "station": "KOTTAYAM",
               "arrivalTime": "02:55 pm",
               "departureTime": "02:55 pm"
             }
@@ -54721,22 +54721,22 @@
           "trip": 4,
           "stations": [
             {
-              "station": "KOTTAYAM"
+              "station": "KOTTAYAM",
               "arrivalTime": "03:50 pm",
               "departureTime": "03:50 pm"
             },
             {
-              "station": "MALLAPPALLY BUS STAND"
+              "station": "MALLAPPALLY BUS STAND",
               "arrivalTime": "05:00 pm",
               "departureTime": "05:00 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "05:50 pm",
               "departureTime": "05:50 pm"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "06:30 pm",
               "departureTime": "06:30 pm"
             }
@@ -54747,7 +54747,7 @@
     {
       "Vehicle Number": "KL 27 1454",
       "route": [
-        "RANNI"
+        "RANNI",
         "VADASSERIKKARA"
       ],
       "schedule": [
@@ -54755,12 +54755,12 @@
           "trip": 1,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "05:50 am",
               "departureTime": "05:50 am"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "06:15 am",
               "departureTime": "06:15 am"
             }
@@ -54770,12 +54770,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "06:22 am",
               "departureTime": "06:22 am"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "06:47 am",
               "departureTime": "06:47 am"
             }
@@ -54785,12 +54785,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "06:50 am",
               "departureTime": "06:50 am"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "07:15 am",
               "departureTime": "07:15 am"
             }
@@ -54800,12 +54800,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "07:30 am",
               "departureTime": "07:30 am"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "07:55 am",
               "departureTime": "07:55 am"
             }
@@ -54815,12 +54815,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "08:37 am",
               "departureTime": "08:37 am"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "09:02 am",
               "departureTime": "09:02 am"
             }
@@ -54830,12 +54830,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "09:19 am",
               "departureTime": "09:19 am"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "09:44 am",
               "departureTime": "09:44 am"
             }
@@ -54845,12 +54845,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "10:26 am",
               "departureTime": "10:26 am"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "10:51 am",
               "departureTime": "10:51 am"
             }
@@ -54860,12 +54860,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "11:07 am",
               "departureTime": "11:07 am"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "11:30 am",
               "departureTime": "11:30 am"
             }
@@ -54875,12 +54875,12 @@
           "trip": 9,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "11:31 am",
               "departureTime": "11:31 am"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "11:56 am",
               "departureTime": "11:56 am"
             }
@@ -54890,12 +54890,12 @@
           "trip": 10,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "12:12 pm",
               "departureTime": "12:12 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "12:37 pm",
               "departureTime": "12:37 pm"
             }
@@ -54905,12 +54905,12 @@
           "trip": 11,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "01:00 pm",
               "departureTime": "01:00 pm"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "01:25 pm",
               "departureTime": "01:25 pm"
             }
@@ -54920,12 +54920,12 @@
           "trip": 12,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "02:10 pm",
               "departureTime": "02:10 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "02:35 pm",
               "departureTime": "02:35 pm"
             }
@@ -54935,12 +54935,12 @@
           "trip": 13,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "02:45 pm",
               "departureTime": "02:45 pm"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "03:10 pm",
               "departureTime": "03:10 pm"
             }
@@ -54950,12 +54950,12 @@
           "trip": 14,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "03:15 pm",
               "departureTime": "03:15 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "03:40 pm",
               "departureTime": "03:40 pm"
             }
@@ -54965,12 +54965,12 @@
           "trip": 15,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "03:45 pm",
               "departureTime": "03:45 pm"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "04:10 pm",
               "departureTime": "04:10 pm"
             }
@@ -54980,12 +54980,12 @@
           "trip": 16,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "04:20 pm",
               "departureTime": "04:20 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "04:45 pm",
               "departureTime": "04:45 pm"
             }
@@ -54995,12 +54995,12 @@
           "trip": 17,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "05:40 pm",
               "departureTime": "05:40 pm"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "06:05 pm",
               "departureTime": "06:05 pm"
             }
@@ -55010,12 +55010,12 @@
           "trip": 18,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "06:40 pm",
               "departureTime": "06:40 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "07:05 pm",
               "departureTime": "07:05 pm"
             }
@@ -55025,12 +55025,12 @@
           "trip": 19,
           "stations": [
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "07:10 pm",
               "departureTime": "07:10 pm"
             },
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "07:35 pm",
               "departureTime": "07:35 pm"
             }
@@ -55040,12 +55040,12 @@
           "trip": 20,
           "stations": [
             {
-              "station": "VADASSERIKKARA"
+              "station": "VADASSERIKKARA",
               "arrivalTime": "07:40 pm",
               "departureTime": "07:40 pm"
             },
             {
-              "station": "RANNI"
+              "station": "RANNI",
               "arrivalTime": "08:05 pm",
               "departureTime": "08:05 pm"
             }
@@ -55056,8 +55056,8 @@
     {
       "Vehicle Number": "KL 03 Q 5371",
       "route": [
-        "PATHANAMT HITTA"
-        "PATHANAPURAM"
+        "PATHANAMT HITTA",
+        "PATHANAPURAM",
         "PUNALUR"
       ],
       "schedule": [
@@ -55065,17 +55065,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "06:25 am",
               "departureTime": "06:25 am"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "07:30 am",
               "departureTime": "07:30 am"
             },
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "08:05 am",
               "departureTime": "08:05 am"
             }
@@ -55085,17 +55085,17 @@
           "trip": 2,
           "stations": [
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "08:08 am",
               "departureTime": "08:08 am"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "08:43 am",
               "departureTime": "08:43 am"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "09:48 am",
               "departureTime": "09:48 am"
             }
@@ -55105,17 +55105,17 @@
           "trip": 3,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "10:37 am",
               "departureTime": "10:37 am"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "11:42 am",
               "departureTime": "11:42 am"
             },
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "12:17 pm",
               "departureTime": "12:17 pm"
             }
@@ -55125,17 +55125,17 @@
           "trip": 4,
           "stations": [
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "12:31 pm",
               "departureTime": "12:31 pm"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "01:06 pm",
               "departureTime": "01:06 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "02:11 pm",
               "departureTime": "02:11 pm"
             }
@@ -55145,17 +55145,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "02:31 pm",
               "departureTime": "02:31 pm"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "03:36 pm",
               "departureTime": "03:36 pm"
             },
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "04:11 pm",
               "departureTime": "04:11 pm"
             }
@@ -55165,17 +55165,17 @@
           "trip": 6,
           "stations": [
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "04:27 pm",
               "departureTime": "04:27 pm"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "05:02 pm",
               "departureTime": "05:02 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "06:07 pm",
               "departureTime": "06:07 pm"
             }
@@ -55185,17 +55185,17 @@
           "trip": 7,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "06:18 pm",
               "departureTime": "06:18 pm"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "07:23 pm",
               "departureTime": "07:23 pm"
             },
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "07:58 pm",
               "departureTime": "07:58 pm"
             }
@@ -55205,17 +55205,17 @@
           "trip": 8,
           "stations": [
             {
-              "station": "PUNALUR"
+              "station": "PUNALUR",
               "arrivalTime": "08:10 pm",
               "departureTime": "08:10 pm"
             },
             {
-              "station": "PATHANAPURAM"
+              "station": "PATHANAPURAM",
               "arrivalTime": "08:45 pm",
               "departureTime": "08:45 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "09:50 pm",
               "departureTime": "09:50 pm"
             }
@@ -55226,8 +55226,8 @@
     {
       "Vehicle Number": "KL 05 T 4311",
       "route": [
-        "KOLLAKKADAVU"
-        "PANDALAM JUNCTION"
+        "KOLLAKKADAVU",
+        "PANDALAM JUNCTION",
         "KOZHENCHERRY"
       ],
       "schedule": [
@@ -55235,17 +55235,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": "KOLLAKKADAVU"
+              "station": "KOLLAKKADAVU",
               "arrivalTime": "06:05 am",
               "departureTime": "06:05 am"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "06:40 am",
               "departureTime": "06:40 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "07:25 am",
               "departureTime": "07:25 am"
             }
@@ -55255,12 +55255,12 @@
           "trip": 2,
           "stations": [
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "07:30 am",
               "departureTime": "07:30 am"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "08:15 am",
               "departureTime": "08:15 am"
             }
@@ -55270,12 +55270,12 @@
           "trip": 3,
           "stations": [
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "08:25 am",
               "departureTime": "08:25 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "09:10 am",
               "departureTime": "09:10 am"
             }
@@ -55285,12 +55285,12 @@
           "trip": 4,
           "stations": [
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "09:37 am",
               "departureTime": "09:37 am"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "10:22 am",
               "departureTime": "10:22 am"
             }
@@ -55300,12 +55300,12 @@
           "trip": 5,
           "stations": [
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "11:15 am",
               "departureTime": "11:15 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "12:00 pm",
               "departureTime": "12:00 pm"
             }
@@ -55315,12 +55315,12 @@
           "trip": 6,
           "stations": [
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "12:35 pm",
               "departureTime": "12:35 pm"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "01:20 pm",
               "departureTime": "01:20 pm"
             }
@@ -55330,12 +55330,12 @@
           "trip": 7,
           "stations": [
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "01:22 pm",
               "departureTime": "01:22 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "02:07 pm",
               "departureTime": "02:07 pm"
             }
@@ -55345,12 +55345,12 @@
           "trip": 8,
           "stations": [
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "02:15 pm",
               "departureTime": "02:15 pm"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "03:00 pm",
               "departureTime": "03:00 pm"
             }
@@ -55360,12 +55360,12 @@
           "trip": 9,
           "stations": [
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "03:50 pm",
               "departureTime": "03:50 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "04:35 pm",
               "departureTime": "04:35 pm"
             }
@@ -55375,17 +55375,17 @@
           "trip": 10,
           "stations": [
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "05:17 pm",
               "departureTime": "05:17 pm"
             },
             {
-              "station": "PANDALAM JUNCTION"
+              "station": "PANDALAM JUNCTION",
               "arrivalTime": "06:02 pm",
               "departureTime": "06:10 pm"
             },
             {
-              "station": "KOLLAKKADAVU"
+              "station": "KOLLAKKADAVU",
               "arrivalTime": "06:45 pm",
               "departureTime": "06:45 pm"
             }
@@ -55396,8 +55396,8 @@
     {
       "Vehicle Number": "KL 03 W 6604",
       "route": [
-        "PATHANAMT HITTA"
-        "KOZHENCHERRY"
+        "PATHANAMT HITTA",
+        "KOZHENCHERRY",
         "CHENGANNUR"
       ],
       "schedule": [
@@ -55405,17 +55405,17 @@
           "trip": 1,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "06:00 am",
               "departureTime": "06:00 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "06:37 am",
               "departureTime": "06:37 am"
             },
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "07:14 am",
               "departureTime": "07:14 am"
             }
@@ -55425,17 +55425,17 @@
           "trip": 2,
           "stations": [
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "08:10 am",
               "departureTime": "08:10 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "08:47 am",
               "departureTime": "08:47 am"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "09:24 am",
               "departureTime": "09:24 am"
             }
@@ -55445,17 +55445,17 @@
           "trip": 3,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "09:50 am",
               "departureTime": "09:50 am"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "10:27 am",
               "departureTime": "10:27 am"
             },
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "11:04 am",
               "departureTime": "11:04 am"
             }
@@ -55465,17 +55465,17 @@
           "trip": 4,
           "stations": [
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "12:00 pm",
               "departureTime": "12:00 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "12:37 pm",
               "departureTime": "12:37 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "01:14 pm",
               "departureTime": "01:14 pm"
             }
@@ -55485,17 +55485,17 @@
           "trip": 5,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "02:15 pm",
               "departureTime": "02:15 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "02:52 pm",
               "departureTime": "02:52 pm"
             },
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "03:29 pm",
               "departureTime": "03:29 pm"
             }
@@ -55505,17 +55505,17 @@
           "trip": 6,
           "stations": [
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "04:10 pm",
               "departureTime": "04:10 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "04:47 pm",
               "departureTime": "04:56 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "05:33 pm",
               "departureTime": "05:33 pm"
             }
@@ -55525,17 +55525,17 @@
           "trip": 7,
           "stations": [
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "06:13 pm",
               "departureTime": "06:13 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "06:50 pm",
               "departureTime": "06:50 pm"
             },
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "07:27 pm",
               "departureTime": "07:27 pm"
             }
@@ -55545,17 +55545,17 @@
           "trip": 8,
           "stations": [
             {
-              "station": "CHENGANNUR"
+              "station": "CHENGANNUR",
               "arrivalTime": "07:40 pm",
               "departureTime": "07:40 pm"
             },
             {
-              "station": "KOZHENCHERRY"
+              "station": "KOZHENCHERRY",
               "arrivalTime": "08:17 pm",
               "departureTime": "08:17 pm"
             },
             {
-              "station": "PATHANAMT HITTA"
+              "station": "PATHANAMT HITTA",
               "arrivalTime": "08:54 pm",
               "departureTime": "08:54 pm"
             }
